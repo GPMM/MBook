@@ -1,0 +1,435 @@
+﻿<?xml version="1.0"?>
+<mBookConfig>
+	<books>
+		<book Id="1" Name="E.T. O Extraterrestre" ISBN="9788551002940" Editora="Intrínseca" Autor="Smith,Kim" Descricao="Em E.T. - O extraterrestre, o menino Elliott encontra uma criatura muito diferente e descobre que seu novo amigo vem de outro planeta. Juntos, eles tentam achar um jeito de mandar o E.T. de volta para casa e, no caminho, aprendem importantes lições sobre coragem, amizade e o poder da imaginação. Lançado em 1982, E.T. foi uma das primeiras obras a consagrar o diretor Steven Spielberg e imprimiu cenas memoráveis na cultura mundial, como a das crianças cruzando o céu de bicicleta, com a lua ao fundo."><pages>
+			<page Id="1" Effect="|V13|V4|"><lines>
+				<line Id="1">Faltava uma semana para o Halloween. Elliott queria brincar com o irmão, Michael, mas foi deixado de lado.</line>
+				<line Id="2">- Por favor! – pediu Elliott. – Eu também sei matar monstros!</line>
+				<line Id="3">- Vai lá pegar a pizza para a gente – mandou Michael.</line>
+			</lines></page>
+			<page Id="2"><lines>
+				<line Id="1">Elliott foi <effect id="H3|S1"> abrir a porta </effect> para o entregador.</line>
+				<line Id="2">Quando estava voltando para dentro de casa, |H9| ouviu um barulho vindo do depósito.</line>
+				<line Id="3">Como Elliot morava perto de uma floresta, às vezes apareciam por ali coiotes, que se escondiam no depósito.</line>
+				<line Id="4">Mas aquelas não pareciam pegadas de coiote.</line>
+				<line Id="5">|H2| Sem falar que coiotes não brincam com bolas.</line>
+				<line Id="6">Com certeza não era um coiote.</line>
+   			</lines></page>
+			<page Id="3"><lines>
+				<line Id="1">Elliott foi correndo avisar a família: - Tem um monstro no depósito! Um monstro de verdade!</line>
+				<line Id="2">- Cadê a pizza? – perguntou Michael.</line>
+				<line Id="3">Ninguém acreditou em Elliott.</line>
+  			</lines></page>
+			<page Id="4"><lines>
+				<line Id="1">No dia seguinte, Elliot foi até a floresta procurar o monstro. Havia umas pessoas com aparelhos estranhos por ali. Estavam em busca de alguma coisa.</line>
+				<line Id="2">Será que também estavam atrás do monstro?</line>
+				<line Id="3">E o que fariam com ele se o encontrassem? Elliott tinha que achar logo a simpática criatura.</line>
+  			</lines></page>
+			<page Id="5"><lines>
+				<line Id="1">À noite, depois que todo mundo já tinha ido dormir, Elliott deixou uma trilha de balas do depósito até a sua casa, escada a cima, até o seu quarto.</line>
+				<line Id="2">Não é que o monstro gostava de balas?</line>
+  			</lines></page>
+			<page Id="6"><lines>
+				<line Id="1">No dia seguinte, Elliott apresentou o monstro a Michael e à irmã mais nova, Gertie.</line>
+				<line Id="2">Michael e Gertie logo perceberam o que Elliott já sabia: o monstro era bonzinho e muito esperto.</line>
+  			</lines></page>
+			<page Id="7"><lines>
+				<line Id="1">As crianças ficaram curiosas e animadas com o novo amigo. Ele era legal demais para ser um monstro.</line>
+				<line Id="2">- Talvez ele seja um macaco – disse o irmão.</line>
+				<line Id="3">- Os pés dele são estranhos – disse a irmã.</line>
+  			</lines></page>
+			<page Id="8"><lines>
+				<line Id="1">- Nós estamos aqui – explicou Elliott ao monstro. - Minha casa. De onde você vem?</line>
+				<line Id="2">O monstro apontou para o céu!</line>
+				<line Id="3">Então ele usou seus poderes (e algumas frutas e legumes) para montar um modelo do sistema solar em que vivia.</line>
+  			</lines></page>
+			<page Id="9"><lines>
+				<line Id="1">O monstro não era monstro coisa nenhuma. Era um extraterrestre: um alienígena, um ser de outro planeta!</line>
+				<line Id="2">Elliott o chamou de E.T., que é mais fácil.</line>
+  			</lines></page>
+			<page Id="10"><lines>
+				<line Id="1">Enquanto isso, as pessoas que procuravam o E.T. estavam cada vez mais perto de encontrá-lo...</line>
+  			</lines></page>
+			<page Id="11"><lines>
+				<line Id="1">No dia seguinte, quando Elliott e os irmãos estavam na escola, a mãe deles ouviu um barulho no armário.</line>
+				<line Id="2">Mas quando abriu a porta, ela viu apenas uma porção de bichinhos de pelúcia.</line>
+				<line Id="3">Então ela saiu para o trabalho.</line>
+				<line Id="4">Com a casa todinha só para ele, o E.T. foi explorar o lugar.</line>
+  			</lines></page>
+			<page Id="12"><lines>
+				<line Id="1">Primeiro, fez amizade com a fauna local.</line>
+				<line Id="2">Depois, foi procurar alguma coisa para comer.</line>
+				<line Id="3">Ele encontrou um brinquedo divertido... e uma história legal para ler.</line>
+				<line Id="4">Viu televisão... e aprendeu um pouco sobre os meios de comunicação na Terra.</line>
+				<line Id="5">Depois de ver tudo isso, o E.T. teve uma ideia.</line>
+				<line Id="6">Só precisava encontrar os materiais certos.</line>
+  			</lines></page>
+			<page Id="13"><lines>
+				<line Id="1">Quando chegou em casa, Gertie ensinou o alfabeto ao E.T.</line>
+				<line Id="2">- B de balão – dizia ela.</line>
+				<line Id="3">- B... – repetiu o E.T.</line>
+				<line Id="4">- Isso! – exclamou Gertie. – B! Muito bem!</line>
+  			</lines></page>
+			<page Id="14"><lines>
+				<line Id="1">Elliott chegou em casa pouco depois da irmã e encontrou os dois mexendo no armário dele, brincando de se fantasiar.</line>
+				<line Id="2">- Elliott... – disse o E.T.</line>
+				<line Id="3">- Eu ensinei o E.T. a falar! – contou Gertie, toda orgulhosa.</line>
+  			</lines></page>
+			<page Id="15"><lines>
+				<line Id="1">Elliott encontrou uma caixa cheia de coisas que o E.T. havia juntado. Quando foi pegar uma lâmina de serra, acabou se cortando.</line>
+				<line Id="2">- Ai! – gritou Elliott.</line>
+				<line Id="3">- Ai – repetiu o E.T.</line>
+				<line Id="4">O dedo do E.T. começou a brilhar. Ele encostou no dedo de Elliott... e o machucado sumiu!</line>
+  			</lines></page>
+			<page Id="16"><lines>
+				<line Id="1">Então o E.T. mostrou para as crianças um desenho do que ele queria construir. Parecia um rádio.</line>
+				<line Id="2">- Telefone – disse o E.T. – Minha casa.</line>
+  			</lines></page>
+			<page Id="17"><lines>
+				<line Id="1">O E.T. passou a noite construindo o rádio.</line>
+				<line Id="2">Enquanto isso, as pessoas que estavam procurando por ele se aproximavam.</line>
+  			</lines></page>
+			<page Id="18"><lines>
+				<line Id="1">O E.T. queria avisar à sua família onde estava, para que viessem buscá-lo.</line>
+				<line Id="2">E ele precisava fazer isso logo, porque não podia passar mais tempo na Terra. Estava começando a ficar doente.</line>
+  			</lines></page>
+			<page Id="19"><lines>
+				<line Id="1">Então chegou o dia do Halloween. Era o momento certo para levar o E.T. à floresta, onde o rádio funcionava melhor. Para passar pela mãe, Michael e Elliott fingiram que o E.T. era Gertie.</line>
+				<line Id="2">Eles saíram tranquilamente, em plena luz do dia. Ninguém suspeitou de nada!</line>
+				<line Id="3">Algumas fantasias faziam o E.T. se lembrar de casa.</line>
+  			</lines></page>
+			<page Id="20"><lines>
+				<line Id="1">Elliott se afastou das crianças que pediam doces, colocou o E.T. na bicicleta e foi até a floresta.</line>
+				<line Id="2">Até que ficou difícil demais pedalar. Então o E.T. deu uma ajudinha... e eles saíram voando!</line>
+				<line Id="3">Os dois pousaram em uma clareira e montaram o rádio.</line>
+				<line Id="4">O E.T. apontou a antena para o céu, e eles se sentaram para esperar uma resposta.</line>
+  			</lines></page>
+			<page Id="21"><lines>
+				<line Id="1">De manhã, Elliott acordou com frio. Eles tinham passado a noite inteira na floresta!</line>
+				<line Id="2">Elliott voltou para casa, onde encontrou as pessoas que estavam atrás do E.T. Eram cientistas. Eles o colocaram em uma caixa, para leva-lo ao laboratório.</line>    
+  			</lines></page>
+			<page Id="22"><lines>
+				<line Id="1">Quando Elliott estava se despedindo dele, o peito do E.T. começou a brilhar.</line>
+				<line Id="2">- E.T.... telefone... minha casa – disse ele.</line>
+				<line Id="3">- Isso quer dizer que sua família está vindo? – perguntou Elliott.</line>
+				<line Id="4">- Sim! – respondeu o E.T.</line>
+				<line Id="5">Elliott sabia que aquela era sua última chance de ajudar o amigo.</line>
+  			</lines></page>
+			<page Id="23"><lines>
+				<line Id="1">Enquanto os cientistas preparavam os equipamentos, Elliott e Michael deram um jeito de sair de casa com o E.T.</line>
+				<line Id="2">Os amigos de Michael foram ajudar. Juntos, eles fugiram para a floresta.</line>
+				<line Id="3">Os cientistas saíram correndo atrás deles!</line>
+  			</lines></page>
+			<page Id="24"><lines>
+				<line Id="1">Para escapar, o E.T. usou seus poderes de novo e fez todos os meninos voarem!</line>
+				<line Id="2">Eles chegaram à floresta bem na hora em que uma nave espacial enorme estava pousando!</line>
+  			</lines></page>
+			<page Id="25"><lines>
+				<line Id="1">Elliott e o E.T. ficaram tristes por terem que se despedir. O E.T. fez a ponta do dedo brilhar e tocou a testa de Elliott.</line>
+				<line Id="2">- Vou estar bem aqui – disse o E.T.</line>
+				<line Id="3">Elliott sabia que se lembraria para sempre daquele amigo extraordinário.</line>
+  			</lines></page>
+		</pages></book>
+                
+               <book Id="2" Name="Esqueceram de Mim" ISBN="9788551003503" Editora="Intrínseca" Autor="Smith,Kim" Descricao="Lançado em 1990, o filme protagonizado por Macaulay Culkin e dirigido por Chris Columbus acompanha as arriscadas aventuras de Kevin McCallister, um menino de 8 anos que, chateado com a mãe, deseja que sua família desapareça. E o desejo se realiza! Sozinho em casa na véspera de Natal, Kevin tem que aprender a se virar e usa suas artimanhas infantis para se defender de dois ladrões insistentes."><pages>
+			<page Id="1" Effect="|V13|V4|"><lines>
+				<line Id="1">Faltava uma semana para o Halloween. Elliott queria brincar com o irmão, Michael, mas foi deixado de lado.</line>
+				<line Id="2">- Por favor! – pediu Elliott. – Eu também sei matar monstros!</line>
+				<line Id="3">- Vai lá pegar a pizza para a gente – mandou Michael.</line>
+			</lines></page>
+			<page Id="2"><lines>
+				<line Id="1">Elliott foi <effect id="H3|S1"> abrir a porta </effect> para o entregador.</line>
+				<line Id="2">Quando estava voltando para dentro de casa, |H9| ouviu um barulho vindo do depósito.</line>
+				<line Id="3">Como Elliot morava perto de uma floresta, às vezes apareciam por ali coiotes, que se escondiam no depósito.</line>
+				<line Id="4">Mas aquelas não pareciam pegadas de coiote.</line>
+				<line Id="5">|H2| Sem falar que coiotes não brincam com bolas.</line>
+				<line Id="6">Com certeza não era um coiote.</line>
+   			</lines></page>
+			<page Id="3"><lines>
+				<line Id="1">Elliott foi correndo avisar a família: - Tem um monstro no depósito! Um monstro de verdade!</line>
+				<line Id="2">- Cadê a pizza? – perguntou Michael.</line>
+				<line Id="3">Ninguém acreditou em Elliott.</line>
+  			</lines></page>
+			<page Id="4"><lines>
+				<line Id="1">No dia seguinte, Elliot foi até a floresta procurar o monstro. Havia umas pessoas com aparelhos estranhos por ali. Estavam em busca de alguma coisa.</line>
+				<line Id="2">Será que também estavam atrás do monstro?</line>
+				<line Id="3">E o que fariam com ele se o encontrassem? Elliott tinha que achar logo a simpática criatura.</line>
+  			</lines></page>
+			<page Id="5"><lines>
+				<line Id="1">À noite, depois que todo mundo já tinha ido dormir, Elliott deixou uma trilha de balas do depósito até a sua casa, escada a cima, até o seu quarto.</line>
+				<line Id="2">Não é que o monstro gostava de balas?</line>
+  			</lines></page>
+			<page Id="6"><lines>
+				<line Id="1">No dia seguinte, Elliott apresentou o monstro a Michael e à irmã mais nova, Gertie.</line>
+				<line Id="2">Michael e Gertie logo perceberam o que Elliott já sabia: o monstro era bonzinho e muito esperto.</line>
+  			</lines></page>
+			<page Id="7"><lines>
+				<line Id="1">As crianças ficaram curiosas e animadas com o novo amigo. Ele era legal demais para ser um monstro.</line>
+				<line Id="2">- Talvez ele seja um macaco – disse o irmão.</line>
+				<line Id="3">- Os pés dele são estranhos – disse a irmã.</line>
+  			</lines></page>
+			<page Id="8"><lines>
+				<line Id="1">- Nós estamos aqui – explicou Elliott ao monstro. - Minha casa. De onde você vem?</line>
+				<line Id="2">O monstro apontou para o céu!</line>
+				<line Id="3">Então ele usou seus poderes (e algumas frutas e legumes) para montar um modelo do sistema solar em que vivia.</line>
+  			</lines></page>
+			<page Id="9"><lines>
+				<line Id="1">O monstro não era monstro coisa nenhuma. Era um extraterrestre: um alienígena, um ser de outro planeta!</line>
+				<line Id="2">Elliott o chamou de E.T., que é mais fácil.</line>
+  			</lines></page>
+			<page Id="10"><lines>
+				<line Id="1">Enquanto isso, as pessoas que procuravam o E.T. estavam cada vez mais perto de encontrá-lo...</line>
+  			</lines></page>
+			<page Id="11"><lines>
+				<line Id="1">No dia seguinte, quando Elliott e os irmãos estavam na escola, a mãe deles ouviu um barulho no armário.</line>
+				<line Id="2">Mas quando abriu a porta, ela viu apenas uma porção de bichinhos de pelúcia.</line>
+				<line Id="3">Então ela saiu para o trabalho.</line>
+				<line Id="4">Com a casa todinha só para ele, o E.T. foi explorar o lugar.</line>
+  			</lines></page>
+			<page Id="12"><lines>
+				<line Id="1">Primeiro, fez amizade com a fauna local.</line>
+				<line Id="2">Depois, foi procurar alguma coisa para comer.</line>
+				<line Id="3">Ele encontrou um brinquedo divertido... e uma história legal para ler.</line>
+				<line Id="4">Viu televisão... e aprendeu um pouco sobre os meios de comunicação na Terra.</line>
+				<line Id="5">Depois de ver tudo isso, o E.T. teve uma ideia.</line>
+				<line Id="6">Só precisava encontrar os materiais certos.</line>
+  			</lines></page>
+			<page Id="13"><lines>
+				<line Id="1">Quando chegou em casa, Gertie ensinou o alfabeto ao E.T.</line>
+				<line Id="2">- B de balão – dizia ela.</line>
+				<line Id="3">- B... – repetiu o E.T.</line>
+				<line Id="4">- Isso! – exclamou Gertie. – B! Muito bem!</line>
+  			</lines></page>
+			<page Id="14"><lines>
+				<line Id="1">Elliott chegou em casa pouco depois da irmã e encontrou os dois mexendo no armário dele, brincando de se fantasiar.</line>
+				<line Id="2">- Elliott... – disse o E.T.</line>
+				<line Id="3">- Eu ensinei o E.T. a falar! – contou Gertie, toda orgulhosa.</line>
+  			</lines></page>
+			<page Id="15"><lines>
+				<line Id="1">Elliott encontrou uma caixa cheia de coisas que o E.T. havia juntado. Quando foi pegar uma lâmina de serra, acabou se cortando.</line>
+				<line Id="2">- Ai! – gritou Elliott.</line>
+				<line Id="3">- Ai – repetiu o E.T.</line>
+				<line Id="4">O dedo do E.T. começou a brilhar. Ele encostou no dedo de Elliott... e o machucado sumiu!</line>
+  			</lines></page>
+			<page Id="16"><lines>
+				<line Id="1">Então o E.T. mostrou para as crianças um desenho do que ele queria construir. Parecia um rádio.</line>
+				<line Id="2">- Telefone – disse o E.T. – Minha casa.</line>
+  			</lines></page>
+			<page Id="17"><lines>
+				<line Id="1">O E.T. passou a noite construindo o rádio.</line>
+				<line Id="2">Enquanto isso, as pessoas que estavam procurando por ele se aproximavam.</line>
+  			</lines></page>
+			<page Id="18"><lines>
+				<line Id="1">O E.T. queria avisar à sua família onde estava, para que viessem buscá-lo.</line>
+				<line Id="2">E ele precisava fazer isso logo, porque não podia passar mais tempo na Terra. Estava começando a ficar doente.</line>
+  			</lines></page>
+			<page Id="19"><lines>
+				<line Id="1">Então chegou o dia do Halloween. Era o momento certo para levar o E.T. à floresta, onde o rádio funcionava melhor. Para passar pela mãe, Michael e Elliott fingiram que o E.T. era Gertie.</line>
+				<line Id="2">Eles saíram tranquilamente, em plena luz do dia. Ninguém suspeitou de nada!</line>
+				<line Id="3">Algumas fantasias faziam o E.T. se lembrar de casa.</line>
+  			</lines></page>
+			<page Id="20"><lines>
+				<line Id="1">Elliott se afastou das crianças que pediam doces, colocou o E.T. na bicicleta e foi até a floresta.</line>
+				<line Id="2">Até que ficou difícil demais pedalar. Então o E.T. deu uma ajudinha... e eles saíram voando!</line>
+				<line Id="3">Os dois pousaram em uma clareira e montaram o rádio.</line>
+				<line Id="4">O E.T. apontou a antena para o céu, e eles se sentaram para esperar uma resposta.</line>
+  			</lines></page>
+			<page Id="21"><lines>
+				<line Id="1">De manhã, Elliott acordou com frio. Eles tinham passado a noite inteira na floresta!</line>
+				<line Id="2">Elliott voltou para casa, onde encontrou as pessoas que estavam atrás do E.T. Eram cientistas. Eles o colocaram em uma caixa, para leva-lo ao laboratório.</line>    
+  			</lines></page>
+			<page Id="22"><lines>
+				<line Id="1">Quando Elliott estava se despedindo dele, o peito do E.T. começou a brilhar.</line>
+				<line Id="2">- E.T.... telefone... minha casa – disse ele.</line>
+				<line Id="3">- Isso quer dizer que sua família está vindo? – perguntou Elliott.</line>
+				<line Id="4">- Sim! – respondeu o E.T.</line>
+				<line Id="5">Elliott sabia que aquela era sua última chance de ajudar o amigo.</line>
+  			</lines></page>
+			<page Id="23"><lines>
+				<line Id="1">Enquanto os cientistas preparavam os equipamentos, Elliott e Michael deram um jeito de sair de casa com o E.T.</line>
+				<line Id="2">Os amigos de Michael foram ajudar. Juntos, eles fugiram para a floresta.</line>
+				<line Id="3">Os cientistas saíram correndo atrás deles!</line>
+  			</lines></page>
+			<page Id="24"><lines>
+				<line Id="1">Para escapar, o E.T. usou seus poderes de novo e fez todos os meninos voarem!</line>
+				<line Id="2">Eles chegaram à floresta bem na hora em que uma nave espacial enorme estava pousando!</line>
+  			</lines></page>
+			<page Id="25"><lines>
+				<line Id="1">Elliott e o E.T. ficaram tristes por terem que se despedir. O E.T. fez a ponta do dedo brilhar e tocou a testa de Elliott.</line>
+				<line Id="2">- Vou estar bem aqui – disse o E.T.</line>
+				<line Id="3">Elliott sabia que se lembraria para sempre daquele amigo extraordinário.</line>
+  			</lines></page>
+		</pages></book>
+
+               <book Id="3" Name="De volta para o futuro" ISBN="9788551003480" Editora="Intrínseca" Autor="Smith,Kim" Descricao="Lançado em 1985 e protagonizado por Michael J. Fox e Christopher Lloyd, o filme De volta para o futuro conta a história de Marty McFly, um adolescente com problemas em casa e que tem um amigo cientista que inventa uma máquina do tempo. Sem querer, Marty viaja trinta anos pra trás, e agora precisa descobrir não só como voltar para casa, mas também como consertar a confusão que ele criou na vida dos próprios pais quando jovens."><pages>
+			<page Id="1" Effect="|V13|V4|"><lines>
+				<line Id="1">Faltava uma semana para o Halloween. Elliott queria brincar com o irmão, Michael, mas foi deixado de lado.</line>
+				<line Id="2">- Por favor! – pediu Elliott. – Eu também sei matar monstros!</line>
+				<line Id="3">- Vai lá pegar a pizza para a gente – mandou Michael.</line>
+			</lines></page>
+			<page Id="2"><lines>
+				<line Id="1">Elliott foi <effect id="H3|S1"> abrir a porta </effect> para o entregador.</line>
+				<line Id="2">Quando estava voltando para dentro de casa, |H9| ouviu um barulho vindo do depósito.</line>
+				<line Id="3">Como Elliot morava perto de uma floresta, às vezes apareciam por ali coiotes, que se escondiam no depósito.</line>
+				<line Id="4">Mas aquelas não pareciam pegadas de coiote.</line>
+				<line Id="5">|H2| Sem falar que coiotes não brincam com bolas.</line>
+				<line Id="6">Com certeza não era um coiote.</line>
+   			</lines></page>
+			<page Id="3"><lines>
+				<line Id="1">Elliott foi correndo avisar a família: - Tem um monstro no depósito! Um monstro de verdade!</line>
+				<line Id="2">- Cadê a pizza? – perguntou Michael.</line>
+				<line Id="3">Ninguém acreditou em Elliott.</line>
+  			</lines></page>
+			<page Id="4"><lines>
+				<line Id="1">No dia seguinte, Elliot foi até a floresta procurar o monstro. Havia umas pessoas com aparelhos estranhos por ali. Estavam em busca de alguma coisa.</line>
+				<line Id="2">Será que também estavam atrás do monstro?</line>
+				<line Id="3">E o que fariam com ele se o encontrassem? Elliott tinha que achar logo a simpática criatura.</line>
+  			</lines></page>
+			<page Id="5"><lines>
+				<line Id="1">À noite, depois que todo mundo já tinha ido dormir, Elliott deixou uma trilha de balas do depósito até a sua casa, escada a cima, até o seu quarto.</line>
+				<line Id="2">Não é que o monstro gostava de balas?</line>
+  			</lines></page>
+			<page Id="6"><lines>
+				<line Id="1">No dia seguinte, Elliott apresentou o monstro a Michael e à irmã mais nova, Gertie.</line>
+				<line Id="2">Michael e Gertie logo perceberam o que Elliott já sabia: o monstro era bonzinho e muito esperto.</line>
+  			</lines></page>
+			<page Id="7"><lines>
+				<line Id="1">As crianças ficaram curiosas e animadas com o novo amigo. Ele era legal demais para ser um monstro.</line>
+				<line Id="2">- Talvez ele seja um macaco – disse o irmão.</line>
+				<line Id="3">- Os pés dele são estranhos – disse a irmã.</line>
+  			</lines></page>
+			<page Id="8"><lines>
+				<line Id="1">- Nós estamos aqui – explicou Elliott ao monstro. - Minha casa. De onde você vem?</line>
+				<line Id="2">O monstro apontou para o céu!</line>
+				<line Id="3">Então ele usou seus poderes (e algumas frutas e legumes) para montar um modelo do sistema solar em que vivia.</line>
+  			</lines></page>
+			<page Id="9"><lines>
+				<line Id="1">O monstro não era monstro coisa nenhuma. Era um extraterrestre: um alienígena, um ser de outro planeta!</line>
+				<line Id="2">Elliott o chamou de E.T., que é mais fácil.</line>
+  			</lines></page>
+			<page Id="10"><lines>
+				<line Id="1">Enquanto isso, as pessoas que procuravam o E.T. estavam cada vez mais perto de encontrá-lo...</line>
+  			</lines></page>
+			<page Id="11"><lines>
+				<line Id="1">No dia seguinte, quando Elliott e os irmãos estavam na escola, a mãe deles ouviu um barulho no armário.</line>
+				<line Id="2">Mas quando abriu a porta, ela viu apenas uma porção de bichinhos de pelúcia.</line>
+				<line Id="3">Então ela saiu para o trabalho.</line>
+				<line Id="4">Com a casa todinha só para ele, o E.T. foi explorar o lugar.</line>
+  			</lines></page>
+			<page Id="12"><lines>
+				<line Id="1">Primeiro, fez amizade com a fauna local.</line>
+				<line Id="2">Depois, foi procurar alguma coisa para comer.</line>
+				<line Id="3">Ele encontrou um brinquedo divertido... e uma história legal para ler.</line>
+				<line Id="4">Viu televisão... e aprendeu um pouco sobre os meios de comunicação na Terra.</line>
+				<line Id="5">Depois de ver tudo isso, o E.T. teve uma ideia.</line>
+				<line Id="6">Só precisava encontrar os materiais certos.</line>
+  			</lines></page>
+			<page Id="13"><lines>
+				<line Id="1">Quando chegou em casa, Gertie ensinou o alfabeto ao E.T.</line>
+				<line Id="2">- B de balão – dizia ela.</line>
+				<line Id="3">- B... – repetiu o E.T.</line>
+				<line Id="4">- Isso! – exclamou Gertie. – B! Muito bem!</line>
+  			</lines></page>
+			<page Id="14"><lines>
+				<line Id="1">Elliott chegou em casa pouco depois da irmã e encontrou os dois mexendo no armário dele, brincando de se fantasiar.</line>
+				<line Id="2">- Elliott... – disse o E.T.</line>
+				<line Id="3">- Eu ensinei o E.T. a falar! – contou Gertie, toda orgulhosa.</line>
+  			</lines></page>
+			<page Id="15"><lines>
+				<line Id="1">Elliott encontrou uma caixa cheia de coisas que o E.T. havia juntado. Quando foi pegar uma lâmina de serra, acabou se cortando.</line>
+				<line Id="2">- Ai! – gritou Elliott.</line>
+				<line Id="3">- Ai – repetiu o E.T.</line>
+				<line Id="4">O dedo do E.T. começou a brilhar. Ele encostou no dedo de Elliott... e o machucado sumiu!</line>
+  			</lines></page>
+			<page Id="16"><lines>
+				<line Id="1">Então o E.T. mostrou para as crianças um desenho do que ele queria construir. Parecia um rádio.</line>
+				<line Id="2">- Telefone – disse o E.T. – Minha casa.</line>
+  			</lines></page>
+			<page Id="17"><lines>
+				<line Id="1">O E.T. passou a noite construindo o rádio.</line>
+				<line Id="2">Enquanto isso, as pessoas que estavam procurando por ele se aproximavam.</line>
+  			</lines></page>
+			<page Id="18"><lines>
+				<line Id="1">O E.T. queria avisar à sua família onde estava, para que viessem buscá-lo.</line>
+				<line Id="2">E ele precisava fazer isso logo, porque não podia passar mais tempo na Terra. Estava começando a ficar doente.</line>
+  			</lines></page>
+			<page Id="19"><lines>
+				<line Id="1">Então chegou o dia do Halloween. Era o momento certo para levar o E.T. à floresta, onde o rádio funcionava melhor. Para passar pela mãe, Michael e Elliott fingiram que o E.T. era Gertie.</line>
+				<line Id="2">Eles saíram tranquilamente, em plena luz do dia. Ninguém suspeitou de nada!</line>
+				<line Id="3">Algumas fantasias faziam o E.T. se lembrar de casa.</line>
+  			</lines></page>
+			<page Id="20"><lines>
+				<line Id="1">Elliott se afastou das crianças que pediam doces, colocou o E.T. na bicicleta e foi até a floresta.</line>
+				<line Id="2">Até que ficou difícil demais pedalar. Então o E.T. deu uma ajudinha... e eles saíram voando!</line>
+				<line Id="3">Os dois pousaram em uma clareira e montaram o rádio.</line>
+				<line Id="4">O E.T. apontou a antena para o céu, e eles se sentaram para esperar uma resposta.</line>
+  			</lines></page>
+			<page Id="21"><lines>
+				<line Id="1">De manhã, Elliott acordou com frio. Eles tinham passado a noite inteira na floresta!</line>
+				<line Id="2">Elliott voltou para casa, onde encontrou as pessoas que estavam atrás do E.T. Eram cientistas. Eles o colocaram em uma caixa, para leva-lo ao laboratório.</line>    
+  			</lines></page>
+			<page Id="22"><lines>
+				<line Id="1">Quando Elliott estava se despedindo dele, o peito do E.T. começou a brilhar.</line>
+				<line Id="2">- E.T.... telefone... minha casa – disse ele.</line>
+				<line Id="3">- Isso quer dizer que sua família está vindo? – perguntou Elliott.</line>
+				<line Id="4">- Sim! – respondeu o E.T.</line>
+				<line Id="5">Elliott sabia que aquela era sua última chance de ajudar o amigo.</line>
+  			</lines></page>
+			<page Id="23"><lines>
+				<line Id="1">Enquanto os cientistas preparavam os equipamentos, Elliott e Michael deram um jeito de sair de casa com o E.T.</line>
+				<line Id="2">Os amigos de Michael foram ajudar. Juntos, eles fugiram para a floresta.</line>
+				<line Id="3">Os cientistas saíram correndo atrás deles!</line>
+  			</lines></page>
+			<page Id="24"><lines>
+				<line Id="1">Para escapar, o E.T. usou seus poderes de novo e fez todos os meninos voarem!</line>
+				<line Id="2">Eles chegaram à floresta bem na hora em que uma nave espacial enorme estava pousando!</line>
+  			</lines></page>
+			<page Id="25"><lines>
+				<line Id="1">Elliott e o E.T. ficaram tristes por terem que se despedir. O E.T. fez a ponta do dedo brilhar e tocou a testa de Elliott.</line>
+				<line Id="2">- Vou estar bem aqui – disse o E.T.</line>
+				<line Id="3">Elliott sabia que se lembraria para sempre daquele amigo extraordinário.</line>
+  			</lines></page>
+		</pages></book>
+	</books>
+	<effects>
+		<action Type="Toutch" Code="T">
+			<effect Id="1" Name="OnFan"/>
+			<effect Id="2" Name="OffFan"/>
+		</action>
+		<action Type="Smell" Code="S">
+			<effect Id="1" Name="Pizza"/>
+			<effect Id="2" Name="Rain"/>
+			<effect Id="3" Name="TuttiFrutti"/>
+			<effect Id="4" Name="BabyPowder"/>
+		</action>
+		<action Type="Vision" Code="V">
+			<effect Id="1" Name="OnLamp"/>
+			<effect Id="2" Name="OffLamp"/>
+			<effect Id="3" Name="SetIntensity" Level="Low"/>
+			<effect Id="4" Name="SetIntensity" Level="Medium"/>
+			<effect Id="5" Name="SetIntensity" Level="Righ"/>
+			<effect Id="6" Name="SetColor" Color="Red" HEX="FF0000"/>
+			<effect Id="7" Name="SetColor" Color="Yellow" HEX="FFFF00"/>
+			<effect Id="8" Name="SetColor" Color="Orange" HEX="FFA500"/>
+			<effect Id="9" Name="SetColor" Color="Magenta" HEX="FF00FF"/>
+			<effect Id="10" Name="SetColor" Color="Purple" HEX="800080"/>
+			<effect Id="11" Name="SetColor" Color="Lime" HEX="00FF00"/>
+			<effect Id="12" Name="SetColor" Color="Blue" HEX="0000FF"/>
+			<effect Id="13" Name="SetColor" Color="White" HEX="FFFFFF"/>
+			<effect Id="14" Name="SetAlterColor" Color="All"/>
+			<effect Id="15" Name="SetModeColor" Mode="Continuous"/>
+			<effect Id="16" Name="SetModeColor" Mode="Flashing"/>
+		</action>
+		<action Type="Hearing" Code="H">
+			<effect Id="1" Name="StopSound"/>
+			<effect Id="2" Name="SetSound" File="bola_quicando.wav"/>
+			<effect Id="3" Name="SetSound" File="porta_abrindo.wav"/>
+			<effect Id="4" Name="SetSound" File="subindo_escada.wav"/>
+			<effect Id="5" Name="SetSound" File="rastreador.wav"/>
+			<effect Id="6" Name="SetSound" File="radio_sintonizando.wav"/>
+			<effect Id="7" Name="SetSound" File="folha_vento.wav"/>
+			<effect Id="8" Name="SetSound" File="nave_voando.wav"/>
+			<effect Id="9" Name="SetSound" File="barulho_deposito.wav"/>
+		</action>
+	</effects>
+</mBookConfig>
