@@ -1,9 +1,7 @@
-﻿using System;
-using System.Collections;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Collections;
+using System.Windows.Forms;
+using System.Xml;
+using mBook.Actions;
 
 namespace mBook.Effects
 {
@@ -12,48 +10,116 @@ namespace mBook.Effects
 
         #region Attributes
 
-        protected Hashtable m_htEffect;
-        protected string m_sLine;
+        // Identificador do Efeito
+        protected int m_iEffectId;
+
+        // Nome atribuído ao Efeito
+        protected string m_sName;
+
+        // Codigo do efeito
+        protected string m_sCode;
+
+        // Lista de ações do efeito
+        protected Hashtable m_htActions;
 
         #endregion // Attributes
 
         #region Properties
 
-        public Hashtable PositionOfEffect
+        public int Id
         {
-            get { return m_htEffect; }
+            get { return m_iEffectId; }
+            set { m_iEffectId = value; }
         }
 
-        public string LineWithoutEffect
+        public string Name
         {
-            get { return m_sLine; }
+            get { return m_sName; }
+            set { m_sName = value; }
+        }
+
+        public string Code
+        {
+            get { return m_sCode; }
+            set { m_sCode = value; }
+        }
+
+        public Hashtable Actions
+        {
+            get { return m_htActions; }
         }
 
         #endregion // Properties
 
         #region Constructor
 
-        public CEffect(string sLineWithEffect)
+        public CEffect(int iEffectId, XmlNode oEffectNode)
         {
-            m_htEffect = new Hashtable();
-            m_sLine = "";
-            RemoveEffect(sLineWithEffect);
+            m_iEffectId = iEffectId;
+            m_sName = oEffectNode.Attributes["Name"] != null ? oEffectNode.Attributes["Name"].Value : "";
+            m_sCode = oEffectNode.Attributes["Code"] != null ? oEffectNode.Attributes["Code"].Value : "";
+            m_htActions = new Hashtable();
+
+            XmlNode oActionNode = oEffectNode["actions"];
+            LoadActionData(oActionNode);
         }
 
         #endregion // Constructor
 
         #region Public Methods
 
-        public void RemoveEffect(string sEffect)
+        public bool ConstainsActions(int iActionId)
         {
-            string[] sLineSplited = sEffect.Split(' ');
-            for(int i=0; i<sLineSplited.Length; i++)
+            return m_htActions.ContainsKey(iActionId);
+        }
+
+        public CAction GetAction(int iActionId)
+        {
+            return m_htActions[iActionId] as CAction;
+        }
+
+        // Permite que os efeitos sejam ordenados pelo seu nome
+        public int CompareTo(object obj)
+        {
+            CEffect oEffect = (CEffect)obj;
+            return m_sName.CompareTo(oEffect.m_sName);
+        }
+
+        #endregion // Public Methods
+
+        #region Private Methods
+
+        private bool LoadActionData(XmlNode oActionNode)
+        {
+            string sErrorMsg = "Não existem efeitos cadastrados.";
+            if (oActionNode == null)
             {
-                if (!sLineSplited[i].Contains('|'))
-                    m_sLine = m_sLine + ' ' + sLineSplited[i];
-                else
-                    m_htEffect.Add(m_sLine.Split(' ').Length + 1, sLineSplited[i].Split('|'));
+                MessageBox.Show(sErrorMsg, "Erro", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return false;
             }
+
+            try
+            {
+                int iActionId = 1;
+
+                foreach (XmlNode oNode in oActionNode)
+                {
+                    if (oNode.Name == "action")
+                    {
+                        CAction oAction = new CAction(iActionId, oNode);
+                        m_htActions.Add(iActionId, oAction);
+                        iActionId++;
+                    }
+                }
+            }
+            catch
+            {
+                MessageBox.Show("Erro ao carregar efeitos.", "Erro",
+                    MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return false;
+            }
+
+            return true;
         }
         #endregion
     }
