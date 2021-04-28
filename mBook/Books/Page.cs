@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Collections;
 using System.Windows.Forms;
 using System.Xml;
 
@@ -16,6 +11,7 @@ namespace mBook.Books
         protected int m_iPageId;
         protected string m_sEffects;
         protected Hashtable m_htLines;
+        protected Hashtable m_htAnchors;
 
         #endregion // Attributes
 
@@ -37,6 +33,11 @@ namespace mBook.Books
             get { return m_htLines; }
         }
 
+        public Hashtable Anchor
+        {
+            get { return m_htAnchors; }
+        }
+
         #endregion // Properties
 
         #region Constructors
@@ -44,8 +45,9 @@ namespace mBook.Books
         public CPage(int iPageId, XmlNode oPageNode)
         {
             m_iPageId = iPageId;
-            m_sEffects = oPageNode.Attributes["Effects"]!=null ? oPageNode.Attributes["Effects"].Value : "";
+            m_sEffects = oPageNode.Attributes["Effect"]!=null ? oPageNode.Attributes["Effect"].Value : "";
             m_htLines = new Hashtable();
+            m_htAnchors = new Hashtable();
 
             XmlNode oLineNode = oPageNode["lines"];
             LoadLineData(oLineNode);
@@ -89,6 +91,14 @@ namespace mBook.Books
                         CLine oLine = new CLine(iLineId, oNode);
                         m_htLines.Add(iLineId, oLine);
                         iLineId++;
+
+                        foreach (DictionaryEntry entry in oLine.Anchor)
+                        {
+                            if (!m_htAnchors.ContainsKey(entry.Key))
+                            {
+                                m_htAnchors.Add(entry.Key, entry.Value);
+                            }
+                        }
                     }
                 }
             }

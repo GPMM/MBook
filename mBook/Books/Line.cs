@@ -1,11 +1,5 @@
-﻿using System;
-using System.Collections;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Collections;
 using System.Xml;
-using mBook.Effects;
 
 namespace mBook.Books
 {
@@ -15,8 +9,9 @@ namespace mBook.Books
 
         protected int m_iLineId;
         protected string m_sText;
-        protected string m_sEffect;
-        protected Hashtable m_htEffects;
+        protected string m_sAction;
+        protected Hashtable m_htActions;
+        protected Hashtable m_htAnchors;
 
         #endregion // Attributes
 
@@ -31,9 +26,14 @@ namespace mBook.Books
             get { return m_sText; }
         }
 
-        public string Effect
+        public string Action
         {
-            get { return m_sEffect; }
+            get { return m_sAction; }
+        }
+
+        public Hashtable Anchor
+        {
+            get { return m_htAnchors; }
         }
 
         #endregion // Properties
@@ -43,28 +43,37 @@ namespace mBook.Books
         public CLine(int iLineId, XmlNode oLineNode)
         {
             m_iLineId = iLineId;
-            m_sEffect = oLineNode.Attributes["Effects"]!=null ? oLineNode.Attributes["Effects"].Value : "";
-            m_htEffects = new Hashtable();
-            m_sText = LoadEffectData(oLineNode.InnerText);
+            m_sAction = oLineNode.Attributes["Effects"]!=null ? oLineNode.Attributes["Effects"].Value : "";
+            m_htActions = new Hashtable();
+            m_sText = oLineNode.InnerText.ToString();
 
+            m_htAnchors = new Hashtable();
+            LoadAnchorData(oLineNode);
         }
 
         #endregion // Constructor
 
         #region Private Methods
-
-        private string LoadEffectData(string sLineNodeText)
+        private bool LoadAnchorData(XmlNode oLineNode)
         {
-            if (sLineNodeText == "")
-                return "";
+            if (oLineNode == null)
+                return false;
 
-            CEffect oEffect = new CEffect(sLineNodeText);
-            if (oEffect.PositionOfEffect.Count != 0)
-                m_htEffects.Add(m_iLineId, oEffect);
+            try
+            {
+                foreach (XmlNode oNode in oLineNode)
+                {
+                    if (oNode.Name == "anchor")
+                        m_htAnchors.Add(oNode.InnerText, oNode.Attributes["id"].Value);
+                }
+            }
+            catch
+            {
+                return false;
+            }
 
-            return oEffect.LineWithoutEffect;
+            return true;
         }
-
         #endregion
     }
 }
