@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0"?>
 <mBookConfig>
 	<books>
-		<book Id="1" Name="E.T. O Extraterrestre" ISBN="9788551002940" Editora="Intrínseca" Autor="Smith,Kim" Descricao="Em E.T. - O extraterrestre, o menino Elliott encontra uma criatura muito diferente e descobre que seu novo amigo vem de outro planeta. Juntos, eles tentam achar um jeito de mandar o E.T. de volta para casa e, no caminho, aprendem importantes lições sobre coragem, amizade e o poder da imaginação. Lançado em 1982, E.T. foi uma das primeiras obras a consagrar o diretor Steven Spielberg e imprimiu cenas memoráveis na cultura mundial, como a das crianças cruzando o céu de bicicleta, com a lua ao fundo."><pages>
+		<book Id="1" Name="E.T. the Extra-Terrestrial" ISBN="978-1683690108" Editora="Quirk Books" Autor="Smith,Kim" Descricao="When E.T. the Extra-Terrestrial was released in theaters back in 1982, its bittersweet story enchanted millions and the film surpassed Star Wars to become the highest-grossing movie of all time. Now the cinematic blockbuster is transformed into an illustrated storybook, with colorful, adorable drawings by Kim Smith. Here is a story you can’t help but love: After E.T. is stranded on Earth, he takes refuge with Elliott, a boy in need of a friend. Together they find a way to help E.T. get back home. Along the way, both child and alien learn important lessons about courage, friendship, and the power of imagination. This is the perfect read-along story for children, their parents, and E.T. fans across the universe."><pages>
 			<page Id="1" Effect="L3"><lines>
 				<line Id="1">Faltava uma semana para o Halloween.</line>
 				<line Id="2">Elliott queria brincar com o irmão, Michael, mas foi deixado de lado.</line>
@@ -117,11 +117,11 @@
 				<line Id="5">Algumas fantasias faziam o E.T. se lembrar de casa.</line>
   			</lines></page>
 			<page Id="20" Effect="L2|O1"><lines>
-				<line Id="1">Elliott se afastou das crianças que pediam doces,</line>
-				<line Id="2"><anchor id="H10|L10">colocou o E.T. na bicicleta</anchor> e foi até a floresta.</line>
-				<line Id="3">Até que ficou difícil demais pedalar. <anchor id="A1">Então o E.T. deu uma ajudinha... e eles saíram voando!</anchor></line>
-				<line Id="4"><anchor id="A2">Os dois pousaram</anchor> <anchor id="H6"> em uma clareira e montaram o rádio</anchor>.</line>
-				<line Id="5">O E.T. apontou a antena para o céu, e eles se sentaram para esperar uma resposta.</line>
+				<line Id="1">Elliott distance himself from the kids who were asking for candies,</line>
+				<line Id="2"><anchor id="H10|L10">he put the E.T. on the bike</anchor> and went into the woods.</line>
+				<line Id="3">When it became too difficult to pedal <anchor id="A1">the E.T. gave a little help... and they went flying!</anchor></line>
+				<line Id="4"><anchor id="A2">The two landed</anchor> <anchor id="H6"> in a clearing and set up the radio</anchor>.</line>
+				<line Id="5">The E.T. aimed the antenna at the sky, and they sat down to wait for an answer.</line>
   			</lines></page>
 			<page Id="21" Effect="L10|O2"><lines>
 				<line Id="1">De manhã, Elliott acordou com frio. Eles tinham passado a noite inteira na floresta!</line>
