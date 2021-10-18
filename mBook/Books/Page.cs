@@ -9,7 +9,9 @@ namespace mBook.Books
         #region Attributes
 
         protected int m_iPageId;
+        protected string m_sId;
         protected string m_sEffects;
+        protected string m_sBackground;
         protected Hashtable m_htLines;
         protected Hashtable m_htAnchors;
 
@@ -26,6 +28,12 @@ namespace mBook.Books
         {
             get { return m_sEffects; }
             set { m_sEffects = value; }
+        }
+
+        public string Background
+        {
+            get { return m_sBackground; }
+            set { m_sBackground = value; }
         }
 
         public Hashtable Lines
@@ -45,12 +53,14 @@ namespace mBook.Books
         public CPage(int iPageId, XmlNode oPageNode)
         {
             m_iPageId = iPageId;
+            m_sId = oPageNode.Attributes["id"] != null ? oPageNode.Attributes["id"].Value : "";
             m_sEffects = oPageNode.Attributes["Effect"]!=null ? oPageNode.Attributes["Effect"].Value : "";
+            m_sBackground = oPageNode.Attributes["background-url"] != null ? oPageNode.Attributes["background-url"].Value : "";
             m_htLines = new Hashtable();
             m_htAnchors = new Hashtable();
 
-            XmlNode oLineNode = oPageNode["lines"];
-            LoadLineData(oLineNode);
+            //XmlNode oLineNode = oPageNode["lines"];
+            LoadLineData(oPageNode);
         }
 
         #endregion // Constructors    

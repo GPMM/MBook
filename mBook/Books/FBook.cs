@@ -21,13 +21,14 @@ namespace mBook
         public string[] m_sWords;
         public CBook m_oBook;
         public CPage m_oPage;
+        public object m_IdChapter;
         public int m_iActualPage;
 
         TextWriter fileSave;
         StreamWriter portal1;
         Host host;
 
-        public FBook(CBook oBook)
+        public FBook(CBook oBook, object iIdChapter)
         {
             InitializeComponent();
 
@@ -39,44 +40,124 @@ namespace mBook
             behaviorMap1.Add(btExit, new EyeXFramework.GazeAwareBehavior(OnGazeExit) { DelayMilliseconds = 2000 });
 
             // behaviorMap1.Add(btBack, new EyeXFramework.ActivatableBehavior(OnButtonActivated));
-           
+
             KeyDown += OnKeyDown;
             KeyUp += OnKeyUp;
 
             m_oBook = oBook;
             m_iActualPage = 1;
-            m_oPage = m_oBook.GetPage(m_iActualPage);
-            FillPage();
-                        
-            btNext.Select();
+            m_IdChapter = iIdChapter;
+            
+            this.Text = GetTitle();
+            lbTitle.Text = GetTitle();
+            //GetPage();
 
+            FillPage();
+            btNext.Select();
+        }
+
+        private void GetPage()
+        {
+            if (m_IdChapter == null)
+                m_oPage = m_oBook.GetPage(m_iActualPage);
+            else
+            {
+                CChapter oChapter = (CChapter)m_oBook.Chapter[m_IdChapter];
+                m_oPage = oChapter.GetPage(m_iActualPage);
+            }
+        }
+
+        private int GetPagesCount()
+        {
+            if (m_IdChapter == null)
+                return m_oBook.Pages.Count;
+            else
+            {
+                CChapter oChapter = (CChapter)m_oBook.Chapter[m_IdChapter];
+                return oChapter.Pages.Count;
+            }
+        }
+
+        private string GetTitle()
+        {
+            if (m_IdChapter == null)
+                return m_oBook.Name;
+            else
+            {
+                CChapter oChapter = (CChapter)m_oBook.Chapter[m_IdChapter];
+                return m_oBook.Name + " - " + oChapter.ChapterName;
+            }
         }
 
         private void FillPage()
         {
-            richTextBox1.ResetText();
-            m_oPage = m_oBook.GetPage(m_iActualPage);
+            //richTextBox1.ResetText();
+            richTextBox1.Visible = false;
+            richTextBox1.Clear();
+            GetPage();
             if (m_oPage != null)
             {
                 for (int i = 1; i < m_oPage.Lines.Count + 1; i++)
                 {
-                    richTextBox1.AppendText("\n\n");
+                    richTextBox1.AppendText("\n");
                     richTextBox1.AppendText(m_oPage.GetLine(i).Text.ToUpper());
-                    richTextBox1.AppendText("\n\n");
+                    richTextBox1.AppendText("\n");
                 }
 
                 richTextBox1.SelectAll();
-                richTextBox1.SelectionAlignment = HorizontalAlignment.Center;
-                
-                btNext.Visible = m_iActualPage == m_oBook.Pages.Count ? false : true;
+                richTextBox1.SelectionAlignment = HorizontalAlignment.Left;
+
+                LoadPicturePage();
+
+                btNext.Visible = m_iActualPage == GetPagesCount() ? false : true;
                 btBack.Visible = m_iActualPage == 1 ? false : true;
 
-                label1.Text = m_oBook.Name;
-                label2.Text = m_oPage.PageId.ToString() + " of " + m_oBook.Pages.Count.ToString();
+                lbPage.Text = m_iActualPage.ToString() + " de " + GetPagesCount().ToString();
 
                 SetEffectPage();
 
                 SetEffectWord();
+            }
+            richTextBox1.Visible = true;
+        }
+
+        private void LoadPicturePage()
+        {
+            string sImage = "";
+
+            splitContainer5.SplitterDistance = this.Width - 59;
+            splitContainer1.SplitterDistance = this.Width - splitContainer5.Width - 1;
+            
+
+            if (pictureBox1.BackgroundImage != null)
+            {
+                pictureBox1.BackgroundImage.Dispose();
+                pictureBox1.BackgroundImage = null;
+                GC.Collect();
+            }
+
+            try
+            {
+                if (m_IdChapter == null)
+                    m_oPage = m_oBook.GetPage(m_iActualPage);
+                else
+                {
+                    CChapter oChapter = (CChapter)m_oBook.Chapter[m_IdChapter];
+                    m_oPage = oChapter.GetPage(m_iActualPage);
+                }
+                sImage = CGenDef.BooksDir + "\\" + m_oBook.NameId + "\\" + m_oPage.Background;
+                pictureBox1.BackgroundImage = new Bitmap(sImage);
+            }
+            catch
+            {
+                pictureBox1.BackgroundImage = new Bitmap(CGenDef.BooksDir + m_oBook.NameId + "\\cover.png");
+            }
+            
+            
+            if (pictureBox1.BackgroundImage.Width < this.Width - 119)
+            {
+                splitContainer1.SplitterDistance = this.Width - pictureBox1.BackgroundImage.Width - 59;
+                splitContainer5.SplitterDistance = pictureBox1.BackgroundImage.Width;
             }
         }
 
@@ -224,6 +305,7 @@ namespace mBook
             dynamicButton.Size = new System.Drawing.Size(195, 54);
             dynamicButton.UseVisualStyleBackColor = true;
             dynamicButton.Visible = false;
+            dynamicButton.MouseEnter += new System.EventHandler(this.dynamicButton_MouseEnter);
 
             this.Controls.Add(dynamicButton);
             dynamicButton.BringToFront();
@@ -330,17 +412,12 @@ namespace mBook
 
         private void OnButtonActivated(object sender, EventArgs e)
         {
-            var button = sender as Button;
-            if (button != null)
-            {
-                Console.WriteLine("OnButtonActivated");
-                button.PerformClick();
-            }
+
         }
 
         private void btNext_Click(object sender, EventArgs e)
         {
-            if (m_oPage.PageId != m_oBook.Pages.Count)
+            if (m_oPage.PageId != GetPagesCount())
             {
                 m_iActualPage++;
                 FillPage();
@@ -376,6 +453,50 @@ namespace mBook
             this.Close();
         }
 
+        private void dynamicButton_MouseEnter(object sender, EventArgs e)
+        {
+
+        }
+
         #endregion
+
+        private void btNext_MouseEnter(object sender, EventArgs e)
+        {
+            var button = sender as Button;
+            button.Select();
+             
+            if (button.Name == "btNext")
+            {
+                btNext_Click(sender, e);
+                btNext.Select();
+            }
+            else
+            {
+                btBack_Click(sender, e);
+                btBack.Select();
+            }
+        }
+
+        private void btBack_MouseEnter(object sender, EventArgs e)
+        {
+            var button = sender as Button;
+            button.Select();
+
+            if (button.Name == "btNext")
+            {
+                btNext_Click(sender, e);
+                btNext.Select();
+            }
+            else
+            {
+                btBack_Click(sender, e);
+                btBack.Select();
+            }
+        }
+
+        private void richTextBox1_MouseDown(object sender, MouseEventArgs e)
+        {
+            lbTitle.Select();
+        }
     }
 }
