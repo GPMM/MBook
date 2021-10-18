@@ -30,103 +30,94 @@
         {
             this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FMain));
-            this.lbBook = new System.Windows.Forms.Label();
             this.cbBook = new System.Windows.Forms.ComboBox();
-            this.lbWelcome = new System.Windows.Forms.Label();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.toolStrip1 = new System.Windows.Forms.ToolStrip();
             this.toolStripDropDownButton2 = new System.Windows.Forms.ToolStripDropDownButton();
             this.calibraçãoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.configurarLâmpadasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.configurarPortaSerialToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.iniciarLogDeOlharToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.toolStripSeparator1 = new System.Windows.Forms.ToolStripSeparator();
-            this.toolStripDropDownButton1 = new System.Windows.Forms.ToolStripDropDownButton();
-            this.ajudaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.sobreToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.questionárioDeUsabilidadeToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.ajudaToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
+            this.sobreToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.behaviorMap1 = new EyeXFramework.Forms.BehaviorMap(this.components);
             this.splitContainer1 = new System.Windows.Forms.SplitContainer();
             this.splitContainer2 = new System.Windows.Forms.SplitContainer();
+            this.pictureBox10 = new System.Windows.Forms.PictureBox();
+            this.pictureBox9 = new System.Windows.Forms.PictureBox();
+            this.pictureBox8 = new System.Windows.Forms.PictureBox();
+            this.pictureBox7 = new System.Windows.Forms.PictureBox();
             this.circularButton1 = new mBook.CircularButton();
-            this.pictureBox3 = new System.Windows.Forms.PictureBox();
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
+            this.pictureBox6 = new System.Windows.Forms.PictureBox();
+            this.pictureBox5 = new System.Windows.Forms.PictureBox();
+            this.pictureBox3 = new System.Windows.Forms.PictureBox();
+            this.pictureBox4 = new System.Windows.Forms.PictureBox();
             this.splitContainer3 = new System.Windows.Forms.SplitContainer();
             this.richTextBox1 = new System.Windows.Forms.RichTextBox();
             this.richTextBox2 = new System.Windows.Forms.RichTextBox();
+            this.pictureMBook = new System.Windows.Forms.PictureBox();
+            this.btnClose = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.toolStrip1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.splitContainer1)).BeginInit();
-            this.splitContainer1.Panel1.SuspendLayout();
             this.splitContainer1.Panel2.SuspendLayout();
             this.splitContainer1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.splitContainer2)).BeginInit();
             this.splitContainer2.Panel1.SuspendLayout();
             this.splitContainer2.Panel2.SuspendLayout();
             this.splitContainer2.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox10)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox9)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox8)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.splitContainer3)).BeginInit();
             this.splitContainer3.Panel1.SuspendLayout();
             this.splitContainer3.Panel2.SuspendLayout();
             this.splitContainer3.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureMBook)).BeginInit();
             this.SuspendLayout();
-            // 
-            // lbBook
-            // 
-            this.lbBook.AutoSize = true;
-            this.lbBook.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbBook.ForeColor = System.Drawing.Color.Black;
-            this.lbBook.Location = new System.Drawing.Point(16, 17);
-            this.lbBook.Name = "lbBook";
-            this.lbBook.Size = new System.Drawing.Size(100, 13);
-            this.lbBook.TabIndex = 0;
-            this.lbBook.Text = "Escolha um livro";
             // 
             // cbBook
             // 
             this.cbBook.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.cbBook.FormattingEnabled = true;
-            this.cbBook.Location = new System.Drawing.Point(378, 41);
+            this.cbBook.Location = new System.Drawing.Point(504, 50);
+            this.cbBook.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.cbBook.Name = "cbBook";
-            this.cbBook.Size = new System.Drawing.Size(168, 21);
+            this.cbBook.Size = new System.Drawing.Size(223, 24);
             this.cbBook.Sorted = true;
             this.cbBook.TabIndex = 1;
             this.cbBook.Visible = false;
             // 
-            // lbWelcome
-            // 
-            this.lbWelcome.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.lbWelcome.AutoSize = true;
-            this.lbWelcome.BackColor = System.Drawing.Color.Crimson;
-            this.lbWelcome.Font = new System.Drawing.Font("Arial", 21.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbWelcome.ForeColor = System.Drawing.Color.Black;
-            this.lbWelcome.Location = new System.Drawing.Point(9, 11);
-            this.lbWelcome.Name = "lbWelcome";
-            this.lbWelcome.Size = new System.Drawing.Size(319, 34);
-            this.lbWelcome.TabIndex = 3;
-            this.lbWelcome.Text = "Bem vindo ao MBook!";
-            // 
             // pictureBox1
             // 
-            this.pictureBox1.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("pictureBox1.BackgroundImage")));
-            this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-            this.pictureBox1.Location = new System.Drawing.Point(16, 49);
+            this.pictureBox1.Location = new System.Drawing.Point(44, 44);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(158, 178);
+            this.pictureBox1.Size = new System.Drawing.Size(211, 219);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 3;
             this.pictureBox1.TabStop = false;
             this.pictureBox1.Click += new System.EventHandler(this.pictureBox_Click);
             this.pictureBox1.DoubleClick += new System.EventHandler(this.pictureBox_DoubleClick);
+            this.pictureBox1.MouseEnter += new System.EventHandler(this.pictureBox_Click);
             // 
             // toolStrip1
             // 
+            this.toolStrip1.BackColor = System.Drawing.SystemColors.InactiveBorder;
+            this.toolStrip1.ImageScalingSize = new System.Drawing.Size(50, 50);
             this.toolStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.toolStripDropDownButton2,
-            this.toolStripSeparator1,
-            this.toolStripDropDownButton1});
+            this.toolStripDropDownButton2});
             this.toolStrip1.Location = new System.Drawing.Point(0, 0);
             this.toolStrip1.Name = "toolStrip1";
-            this.toolStrip1.Size = new System.Drawing.Size(809, 25);
+            this.toolStrip1.Size = new System.Drawing.Size(1052, 57);
             this.toolStrip1.TabIndex = 5;
             this.toolStrip1.Text = "toolStrip1";
             // 
@@ -135,242 +126,403 @@
             this.toolStripDropDownButton2.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
             this.toolStripDropDownButton2.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.calibraçãoToolStripMenuItem,
-            this.iniciarLogDeOlharToolStripMenuItem});
+            this.configurarLâmpadasToolStripMenuItem,
+            this.configurarPortaSerialToolStripMenuItem,
+            this.iniciarLogDeOlharToolStripMenuItem,
+            this.questionárioDeUsabilidadeToolStripMenuItem,
+            this.ajudaToolStripMenuItem1,
+            this.sobreToolStripMenuItem1});
             this.toolStripDropDownButton2.Image = ((System.Drawing.Image)(resources.GetObject("toolStripDropDownButton2.Image")));
             this.toolStripDropDownButton2.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.toolStripDropDownButton2.Name = "toolStripDropDownButton2";
-            this.toolStripDropDownButton2.Size = new System.Drawing.Size(29, 22);
-            this.toolStripDropDownButton2.Text = "toolStripDropDownButton2";
+            this.toolStripDropDownButton2.Size = new System.Drawing.Size(64, 54);
+            this.toolStripDropDownButton2.Text = "Configurações";
             this.toolStripDropDownButton2.ToolTipText = "Configurações";
             // 
             // calibraçãoToolStripMenuItem
             // 
             this.calibraçãoToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("calibraçãoToolStripMenuItem.Image")));
             this.calibraçãoToolStripMenuItem.Name = "calibraçãoToolStripMenuItem";
-            this.calibraçãoToolStripMenuItem.Size = new System.Drawing.Size(219, 22);
+            this.calibraçãoToolStripMenuItem.Size = new System.Drawing.Size(279, 26);
             this.calibraçãoToolStripMenuItem.Text = "Calibrar rastreador de olhos";
             this.calibraçãoToolStripMenuItem.Click += new System.EventHandler(this.calibraçãoToolStripMenuItem_Click);
+            // 
+            // configurarLâmpadasToolStripMenuItem
+            // 
+            this.configurarLâmpadasToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("configurarLâmpadasToolStripMenuItem.Image")));
+            this.configurarLâmpadasToolStripMenuItem.Name = "configurarLâmpadasToolStripMenuItem";
+            this.configurarLâmpadasToolStripMenuItem.Size = new System.Drawing.Size(279, 26);
+            this.configurarLâmpadasToolStripMenuItem.Text = "Configurar lâmpadas";
+            this.configurarLâmpadasToolStripMenuItem.Click += new System.EventHandler(this.configurarLâmpadasToolStripMenuItem_Click);
+            // 
+            // configurarPortaSerialToolStripMenuItem
+            // 
+            this.configurarPortaSerialToolStripMenuItem.Name = "configurarPortaSerialToolStripMenuItem";
+            this.configurarPortaSerialToolStripMenuItem.Size = new System.Drawing.Size(279, 26);
+            this.configurarPortaSerialToolStripMenuItem.Text = "Configurar porta serial";
+            this.configurarPortaSerialToolStripMenuItem.Click += new System.EventHandler(this.configurarPortaSerialToolStripMenuItem_Click);
             // 
             // iniciarLogDeOlharToolStripMenuItem
             // 
             this.iniciarLogDeOlharToolStripMenuItem.Name = "iniciarLogDeOlharToolStripMenuItem";
-            this.iniciarLogDeOlharToolStripMenuItem.Size = new System.Drawing.Size(219, 22);
+            this.iniciarLogDeOlharToolStripMenuItem.Size = new System.Drawing.Size(279, 26);
             this.iniciarLogDeOlharToolStripMenuItem.Text = "Iniciar log de olhar";
-            this.iniciarLogDeOlharToolStripMenuItem.Click += new System.EventHandler(this.iniciarLogDeOlharToolStripMenuItem_Click);
             // 
-            // toolStripSeparator1
+            // questionárioDeUsabilidadeToolStripMenuItem
             // 
-            this.toolStripSeparator1.Name = "toolStripSeparator1";
-            this.toolStripSeparator1.Size = new System.Drawing.Size(6, 25);
+            this.questionárioDeUsabilidadeToolStripMenuItem.Name = "questionárioDeUsabilidadeToolStripMenuItem";
+            this.questionárioDeUsabilidadeToolStripMenuItem.Size = new System.Drawing.Size(279, 26);
+            this.questionárioDeUsabilidadeToolStripMenuItem.Text = "Questionário de usabilidade";
+            this.questionárioDeUsabilidadeToolStripMenuItem.Click += new System.EventHandler(this.questionárioDeUsabilidadeToolStripMenuItem_Click);
             // 
-            // toolStripDropDownButton1
+            // ajudaToolStripMenuItem1
             // 
-            this.toolStripDropDownButton1.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
-            this.toolStripDropDownButton1.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.ajudaToolStripMenuItem,
-            this.sobreToolStripMenuItem});
-            this.toolStripDropDownButton1.Image = ((System.Drawing.Image)(resources.GetObject("toolStripDropDownButton1.Image")));
-            this.toolStripDropDownButton1.ImageTransparentColor = System.Drawing.Color.Magenta;
-            this.toolStripDropDownButton1.Name = "toolStripDropDownButton1";
-            this.toolStripDropDownButton1.Size = new System.Drawing.Size(29, 22);
-            this.toolStripDropDownButton1.Text = "toolStripDropDownButton1";
-            this.toolStripDropDownButton1.ToolTipText = "Ajuda";
+            this.ajudaToolStripMenuItem1.Name = "ajudaToolStripMenuItem1";
+            this.ajudaToolStripMenuItem1.Size = new System.Drawing.Size(279, 26);
+            this.ajudaToolStripMenuItem1.Text = "Ajuda";
             // 
-            // ajudaToolStripMenuItem
+            // sobreToolStripMenuItem1
             // 
-            this.ajudaToolStripMenuItem.Name = "ajudaToolStripMenuItem";
-            this.ajudaToolStripMenuItem.Size = new System.Drawing.Size(105, 22);
-            this.ajudaToolStripMenuItem.Text = "Ajuda";
-            // 
-            // sobreToolStripMenuItem
-            // 
-            this.sobreToolStripMenuItem.Name = "sobreToolStripMenuItem";
-            this.sobreToolStripMenuItem.Size = new System.Drawing.Size(105, 22);
-            this.sobreToolStripMenuItem.Text = "Sobre";
+            this.sobreToolStripMenuItem1.Name = "sobreToolStripMenuItem1";
+            this.sobreToolStripMenuItem1.Size = new System.Drawing.Size(279, 26);
+            this.sobreToolStripMenuItem1.Text = "Sobre";
+            this.sobreToolStripMenuItem1.Click += new System.EventHandler(this.sobreToolStripMenuItem1_Click);
             // 
             // splitContainer1
             // 
             this.splitContainer1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.splitContainer1.Location = new System.Drawing.Point(0, 25);
+            this.splitContainer1.FixedPanel = System.Windows.Forms.FixedPanel.Panel1;
+            this.splitContainer1.IsSplitterFixed = true;
+            this.splitContainer1.Location = new System.Drawing.Point(0, 57);
+            this.splitContainer1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.splitContainer1.Name = "splitContainer1";
             this.splitContainer1.Orientation = System.Windows.Forms.Orientation.Horizontal;
             // 
             // splitContainer1.Panel1
             // 
-            this.splitContainer1.Panel1.BackColor = System.Drawing.SystemColors.InfoText;
-            this.splitContainer1.Panel1.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("splitContainer1.Panel1.BackgroundImage")));
+            this.splitContainer1.Panel1.BackColor = System.Drawing.SystemColors.Window;
             this.splitContainer1.Panel1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.splitContainer1.Panel1.Controls.Add(this.lbWelcome);
             // 
             // splitContainer1.Panel2
             // 
             this.splitContainer1.Panel2.Controls.Add(this.splitContainer2);
             this.splitContainer1.Panel2.Controls.Add(this.cbBook);
             this.splitContainer1.Panel2.ForeColor = System.Drawing.SystemColors.Control;
-            this.splitContainer1.Size = new System.Drawing.Size(809, 493);
-            this.splitContainer1.SplitterDistance = 184;
+            this.splitContainer1.Size = new System.Drawing.Size(1052, 583);
+            this.splitContainer1.SplitterDistance = 31;
+            this.splitContainer1.SplitterWidth = 5;
             this.splitContainer1.TabIndex = 7;
             // 
             // splitContainer2
             // 
             this.splitContainer2.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.splitContainer2.FixedPanel = System.Windows.Forms.FixedPanel.Panel2;
+            this.splitContainer2.IsSplitterFixed = true;
             this.splitContainer2.Location = new System.Drawing.Point(0, 0);
+            this.splitContainer2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.splitContainer2.Name = "splitContainer2";
             this.splitContainer2.Orientation = System.Windows.Forms.Orientation.Horizontal;
             // 
             // splitContainer2.Panel1
             // 
+            this.splitContainer2.Panel1.AutoScroll = true;
+            this.splitContainer2.Panel1.Controls.Add(this.pictureBox10);
+            this.splitContainer2.Panel1.Controls.Add(this.pictureBox9);
+            this.splitContainer2.Panel1.Controls.Add(this.pictureBox8);
+            this.splitContainer2.Panel1.Controls.Add(this.pictureBox7);
             this.splitContainer2.Panel1.Controls.Add(this.circularButton1);
-            this.splitContainer2.Panel1.Controls.Add(this.pictureBox3);
             this.splitContainer2.Panel1.Controls.Add(this.pictureBox2);
             this.splitContainer2.Panel1.Controls.Add(this.pictureBox1);
-            this.splitContainer2.Panel1.Controls.Add(this.lbBook);
+            this.splitContainer2.Panel1.Controls.Add(this.pictureBox6);
+            this.splitContainer2.Panel1.Controls.Add(this.pictureBox5);
+            this.splitContainer2.Panel1.Controls.Add(this.pictureBox3);
+            this.splitContainer2.Panel1.Controls.Add(this.pictureBox4);
+            this.splitContainer2.Panel1.ForeColor = System.Drawing.SystemColors.Control;
             // 
             // splitContainer2.Panel2
             // 
             this.splitContainer2.Panel2.Controls.Add(this.splitContainer3);
-            this.splitContainer2.Size = new System.Drawing.Size(809, 305);
-            this.splitContainer2.SplitterDistance = 205;
+            this.splitContainer2.Panel2MinSize = 130;
+            this.splitContainer2.Size = new System.Drawing.Size(1052, 547);
+            this.splitContainer2.SplitterDistance = 351;
+            this.splitContainer2.SplitterWidth = 5;
             this.splitContainer2.TabIndex = 4;
+            // 
+            // pictureBox10
+            // 
+            this.pictureBox10.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("pictureBox10.BackgroundImage")));
+            this.pictureBox10.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
+            this.pictureBox10.Location = new System.Drawing.Point(920, 334);
+            this.pictureBox10.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.pictureBox10.Name = "pictureBox10";
+            this.pictureBox10.Size = new System.Drawing.Size(211, 219);
+            this.pictureBox10.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox10.TabIndex = 13;
+            this.pictureBox10.TabStop = false;
+            // 
+            // pictureBox9
+            // 
+            this.pictureBox9.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("pictureBox9.BackgroundImage")));
+            this.pictureBox9.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
+            this.pictureBox9.Location = new System.Drawing.Point(629, 334);
+            this.pictureBox9.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.pictureBox9.Name = "pictureBox9";
+            this.pictureBox9.Size = new System.Drawing.Size(211, 219);
+            this.pictureBox9.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox9.TabIndex = 12;
+            this.pictureBox9.TabStop = false;
+            // 
+            // pictureBox8
+            // 
+            this.pictureBox8.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("pictureBox8.BackgroundImage")));
+            this.pictureBox8.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
+            this.pictureBox8.Location = new System.Drawing.Point(341, 334);
+            this.pictureBox8.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.pictureBox8.Name = "pictureBox8";
+            this.pictureBox8.Size = new System.Drawing.Size(211, 219);
+            this.pictureBox8.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox8.TabIndex = 11;
+            this.pictureBox8.TabStop = false;
+            // 
+            // pictureBox7
+            // 
+            this.pictureBox7.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("pictureBox7.BackgroundImage")));
+            this.pictureBox7.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
+            this.pictureBox7.Location = new System.Drawing.Point(44, 334);
+            this.pictureBox7.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.pictureBox7.Name = "pictureBox7";
+            this.pictureBox7.Size = new System.Drawing.Size(211, 219);
+            this.pictureBox7.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox7.TabIndex = 10;
+            this.pictureBox7.TabStop = false;
             // 
             // circularButton1
             // 
-            this.circularButton1.BackColor = System.Drawing.Color.Red;
+            this.circularButton1.BackColor = System.Drawing.Color.Black;
+            this.circularButton1.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("circularButton1.BackgroundImage")));
             this.circularButton1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.circularButton1.FlatAppearance.BorderColor = System.Drawing.Color.Yellow;
+            this.circularButton1.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.circularButton1.FlatAppearance.BorderSize = 0;
             this.circularButton1.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.circularButton1.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.circularButton1.ForeColor = System.Drawing.Color.White;
-            this.circularButton1.Location = new System.Drawing.Point(146, 118);
+            this.circularButton1.Location = new System.Drawing.Point(217, 176);
+            this.circularButton1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.circularButton1.Name = "circularButton1";
-            this.circularButton1.Size = new System.Drawing.Size(69, 63);
+            this.circularButton1.Size = new System.Drawing.Size(77, 78);
             this.circularButton1.TabIndex = 6;
-            this.circularButton1.Text = "Iniciar";
             this.circularButton1.UseVisualStyleBackColor = false;
-            // 
-            // pictureBox3
-            // 
-            this.pictureBox3.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("pictureBox3.BackgroundImage")));
-            this.pictureBox3.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox3.Image")));
-            this.pictureBox3.Location = new System.Drawing.Point(628, 49);
-            this.pictureBox3.Name = "pictureBox3";
-            this.pictureBox3.Size = new System.Drawing.Size(158, 178);
-            this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox3.TabIndex = 5;
-            this.pictureBox3.TabStop = false;
-            this.pictureBox3.Click += new System.EventHandler(this.pictureBox_Click);
-            this.pictureBox3.DoubleClick += new System.EventHandler(this.pictureBox_DoubleClick);
+            this.circularButton1.Click += new System.EventHandler(this.circularButton1_Click);
+            this.circularButton1.MouseEnter += new System.EventHandler(this.circularButton1_MouseEnter);
             // 
             // pictureBox2
             // 
-            this.pictureBox2.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("pictureBox2.BackgroundImage")));
-            this.pictureBox2.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox2.Image")));
-            this.pictureBox2.Location = new System.Drawing.Point(324, 49);
+            this.pictureBox2.Location = new System.Drawing.Point(341, 44);
+            this.pictureBox2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(158, 178);
+            this.pictureBox2.Size = new System.Drawing.Size(211, 219);
             this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox2.TabIndex = 4;
             this.pictureBox2.TabStop = false;
             this.pictureBox2.Click += new System.EventHandler(this.pictureBox_Click);
             this.pictureBox2.DoubleClick += new System.EventHandler(this.pictureBox_DoubleClick);
+            this.pictureBox2.MouseEnter += new System.EventHandler(this.pictureBox_Click);
+            // 
+            // pictureBox6
+            // 
+            this.pictureBox6.Location = new System.Drawing.Point(1504, 44);
+            this.pictureBox6.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.pictureBox6.Name = "pictureBox6";
+            this.pictureBox6.Size = new System.Drawing.Size(211, 219);
+            this.pictureBox6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox6.TabIndex = 9;
+            this.pictureBox6.TabStop = false;
+            this.pictureBox6.Click += new System.EventHandler(this.pictureBox_Click);
+            this.pictureBox6.MouseEnter += new System.EventHandler(this.pictureBox_Click);
+            // 
+            // pictureBox5
+            // 
+            this.pictureBox5.Location = new System.Drawing.Point(1216, 44);
+            this.pictureBox5.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.pictureBox5.Name = "pictureBox5";
+            this.pictureBox5.Size = new System.Drawing.Size(211, 219);
+            this.pictureBox5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox5.TabIndex = 8;
+            this.pictureBox5.TabStop = false;
+            this.pictureBox5.Click += new System.EventHandler(this.pictureBox_Click);
+            this.pictureBox5.MouseEnter += new System.EventHandler(this.pictureBox_Click);
+            // 
+            // pictureBox3
+            // 
+            this.pictureBox3.Location = new System.Drawing.Point(629, 44);
+            this.pictureBox3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.pictureBox3.Name = "pictureBox3";
+            this.pictureBox3.Size = new System.Drawing.Size(211, 219);
+            this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox3.TabIndex = 5;
+            this.pictureBox3.TabStop = false;
+            this.pictureBox3.Click += new System.EventHandler(this.pictureBox_Click);
+            this.pictureBox3.DoubleClick += new System.EventHandler(this.pictureBox_DoubleClick);
+            this.pictureBox3.MouseEnter += new System.EventHandler(this.pictureBox_Click);
+            // 
+            // pictureBox4
+            // 
+            this.pictureBox4.Location = new System.Drawing.Point(920, 44);
+            this.pictureBox4.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.pictureBox4.Name = "pictureBox4";
+            this.pictureBox4.Size = new System.Drawing.Size(211, 219);
+            this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox4.TabIndex = 7;
+            this.pictureBox4.TabStop = false;
+            this.pictureBox4.Click += new System.EventHandler(this.pictureBox_Click);
+            this.pictureBox4.DoubleClick += new System.EventHandler(this.pictureBox_DoubleClick);
+            this.pictureBox4.MouseEnter += new System.EventHandler(this.pictureBox_Click);
             // 
             // splitContainer3
             // 
-            this.splitContainer3.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.splitContainer3.Location = new System.Drawing.Point(0, 0);
+            this.splitContainer3.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.splitContainer3.BackColor = System.Drawing.SystemColors.InactiveBorder;
+            this.splitContainer3.IsSplitterFixed = true;
+            this.splitContainer3.Location = new System.Drawing.Point(4, -24);
+            this.splitContainer3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.splitContainer3.Name = "splitContainer3";
             // 
             // splitContainer3.Panel1
             // 
             this.splitContainer3.Panel1.Controls.Add(this.richTextBox1);
+            this.splitContainer3.Panel1MinSize = 90;
             // 
             // splitContainer3.Panel2
             // 
             this.splitContainer3.Panel2.Controls.Add(this.richTextBox2);
-            this.splitContainer3.Size = new System.Drawing.Size(809, 96);
-            this.splitContainer3.SplitterDistance = 215;
+            this.splitContainer3.Size = new System.Drawing.Size(1044, 210);
+            this.splitContainer3.SplitterDistance = 275;
+            this.splitContainer3.SplitterWidth = 5;
             this.splitContainer3.TabIndex = 0;
             // 
             // richTextBox1
             // 
-            this.richTextBox1.BackColor = System.Drawing.Color.White;
+            this.richTextBox1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.richTextBox1.BackColor = System.Drawing.SystemColors.InactiveBorder;
             this.richTextBox1.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.richTextBox1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.richTextBox1.Font = new System.Drawing.Font("Comic Sans MS", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.richTextBox1.Font = new System.Drawing.Font("Verdana", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox1.ForeColor = System.Drawing.Color.Black;
-            this.richTextBox1.Location = new System.Drawing.Point(0, 0);
+            this.richTextBox1.Location = new System.Drawing.Point(20, 38);
+            this.richTextBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.richTextBox1.Name = "richTextBox1";
-            this.richTextBox1.Size = new System.Drawing.Size(215, 96);
+            this.richTextBox1.Size = new System.Drawing.Size(251, 167);
             this.richTextBox1.TabIndex = 0;
             this.richTextBox1.Text = "";
             // 
             // richTextBox2
             // 
-            this.richTextBox2.BackColor = System.Drawing.Color.White;
+            this.richTextBox2.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.richTextBox2.BackColor = System.Drawing.SystemColors.InactiveBorder;
             this.richTextBox2.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.richTextBox2.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.richTextBox2.Font = new System.Drawing.Font("Comic Sans MS", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.richTextBox2.Font = new System.Drawing.Font("Verdana", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox2.ForeColor = System.Drawing.Color.Black;
-            this.richTextBox2.Location = new System.Drawing.Point(0, 0);
+            this.richTextBox2.Location = new System.Drawing.Point(4, 38);
+            this.richTextBox2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.richTextBox2.Name = "richTextBox2";
-            this.richTextBox2.Size = new System.Drawing.Size(590, 96);
+            this.richTextBox2.Size = new System.Drawing.Size(760, 172);
             this.richTextBox2.TabIndex = 0;
             this.richTextBox2.Text = "";
             // 
+            // pictureMBook
+            // 
+            this.pictureMBook.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.pictureMBook.BackColor = System.Drawing.SystemColors.InactiveBorder;
+            this.pictureMBook.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("pictureMBook.BackgroundImage")));
+            this.pictureMBook.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
+            this.pictureMBook.Location = new System.Drawing.Point(341, 2);
+            this.pictureMBook.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.pictureMBook.Name = "pictureMBook";
+            this.pictureMBook.Size = new System.Drawing.Size(396, 49);
+            this.pictureMBook.TabIndex = 0;
+            this.pictureMBook.TabStop = false;
+            // 
+            // btnClose
+            // 
+            this.btnClose.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.btnClose.BackColor = System.Drawing.SystemColors.InactiveBorder;
+            this.btnClose.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnClose.BackgroundImage")));
+            this.btnClose.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.btnClose.FlatAppearance.BorderColor = System.Drawing.SystemColors.InactiveBorder;
+            this.btnClose.FlatAppearance.BorderSize = 0;
+            this.btnClose.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnClose.ForeColor = System.Drawing.Color.Transparent;
+            this.btnClose.Location = new System.Drawing.Point(1001, 9);
+            this.btnClose.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.btnClose.Name = "btnClose";
+            this.btnClose.Size = new System.Drawing.Size(40, 37);
+            this.btnClose.TabIndex = 8;
+            this.btnClose.UseVisualStyleBackColor = false;
+            this.btnClose.Click += new System.EventHandler(this.btnClose_Click);
+            // 
             // FMain
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.Window;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.ClientSize = new System.Drawing.Size(809, 518);
+            this.ClientSize = new System.Drawing.Size(1052, 640);
+            this.Controls.Add(this.pictureMBook);
+            this.Controls.Add(this.btnClose);
             this.Controls.Add(this.splitContainer1);
             this.Controls.Add(this.toolStrip1);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
-            this.MinimumSize = new System.Drawing.Size(303, 212);
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.MinimumSize = new System.Drawing.Size(397, 250);
             this.Name = "FMain";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "MBook - Seu livro multissensorial!";
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
+            this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.FMain_FormClosed);
+            this.Load += new System.EventHandler(this.FMain_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.toolStrip1.ResumeLayout(false);
             this.toolStrip1.PerformLayout();
-            this.splitContainer1.Panel1.ResumeLayout(false);
-            this.splitContainer1.Panel1.PerformLayout();
             this.splitContainer1.Panel2.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.splitContainer1)).EndInit();
             this.splitContainer1.ResumeLayout(false);
             this.splitContainer2.Panel1.ResumeLayout(false);
-            this.splitContainer2.Panel1.PerformLayout();
             this.splitContainer2.Panel2.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.splitContainer2)).EndInit();
             this.splitContainer2.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox10)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox9)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox8)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox5)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
             this.splitContainer3.Panel1.ResumeLayout(false);
             this.splitContainer3.Panel2.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.splitContainer3)).EndInit();
             this.splitContainer3.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.pictureMBook)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
         }
 
         #endregion
-
-        private System.Windows.Forms.Label lbBook;
         private System.Windows.Forms.ComboBox cbBook;
-        private System.Windows.Forms.Label lbWelcome;
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.ToolStrip toolStrip1;
-        private System.Windows.Forms.ToolStripDropDownButton toolStripDropDownButton1;
-        private System.Windows.Forms.ToolStripMenuItem ajudaToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem sobreToolStripMenuItem;
         private System.Windows.Forms.ToolStripDropDownButton toolStripDropDownButton2;
         private System.Windows.Forms.ToolStripMenuItem calibraçãoToolStripMenuItem;
         private EyeXFramework.Forms.BehaviorMap behaviorMap1;
-        private System.Windows.Forms.ToolStripSeparator toolStripSeparator1;
         private System.Windows.Forms.SplitContainer splitContainer1;
         private System.Windows.Forms.SplitContainer splitContainer2;
         private System.Windows.Forms.RichTextBox richTextBox1;
@@ -380,6 +532,20 @@
         private System.Windows.Forms.PictureBox pictureBox2;
         private System.Windows.Forms.ToolStripMenuItem iniciarLogDeOlharToolStripMenuItem;
         private CircularButton circularButton1;
+        private System.Windows.Forms.ToolStripMenuItem questionárioDeUsabilidadeToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem configurarLâmpadasToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem configurarPortaSerialToolStripMenuItem;
+        private System.Windows.Forms.PictureBox pictureBox4;
+        private System.Windows.Forms.PictureBox pictureBox5;
+        private System.Windows.Forms.PictureBox pictureBox6;
+        private System.Windows.Forms.PictureBox pictureMBook;
+        private System.Windows.Forms.PictureBox pictureBox7;
+        private System.Windows.Forms.PictureBox pictureBox10;
+        private System.Windows.Forms.PictureBox pictureBox9;
+        private System.Windows.Forms.PictureBox pictureBox8;
+        private System.Windows.Forms.ToolStripMenuItem ajudaToolStripMenuItem1;
+        private System.Windows.Forms.ToolStripMenuItem sobreToolStripMenuItem1;
+        private System.Windows.Forms.Button btnClose;
     }
 }
 

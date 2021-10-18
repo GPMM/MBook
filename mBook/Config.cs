@@ -6,7 +6,9 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Xml;
+using mBook.Actions;
 using mBook.Books;
+using mBook.Effects;
 
 namespace mBook
 {
@@ -20,8 +22,11 @@ namespace mBook
         // Lista de livros
         private Hashtable m_htBooks;
 
-        // configuração da TreeView
-        private XmlNode m_oTreeViewConfigNode;
+        // Lista de efeitos
+        private Hashtable m_htEffects;
+
+        // Porta serial
+        private FInterfaceSerial o_fInterfaceSerial;
 
         #endregion // Attributes
 
@@ -42,6 +47,17 @@ namespace mBook
             get { return m_htBooks; }
         }
 
+        public Hashtable Effects
+        {
+            get { return m_htEffects; }
+        }
+
+        public FInterfaceSerial InterfaceSerial
+        {
+            get { return o_fInterfaceSerial; }
+            set { o_fInterfaceSerial= value; }
+        }
+
         #endregion // Properties
 
         #region Constructor
@@ -51,13 +67,45 @@ namespace mBook
             // Dados lidos do arquivo de configuração
             m_htBooks = new Hashtable();
 
+            // Dados lidos do arquivo de efeitos
+            m_htEffects = new Hashtable();
+
+            o_fInterfaceSerial = new FInterfaceSerial();
+
         }
 
         #endregion // Constructor
 
         #region Static Config
 
-        private bool LoadStaticConfig(string sConfigFileName)
+        private bool LoadLibrary(string sLibraryFileName)
+        {
+            // Carrega o XML com as configurações do programa.
+            string sErrorMsg;
+            XmlNode oMainNode = CUtil.LoadXmlFile(sLibraryFileName, CGenDef.AppName + "-lib", out sErrorMsg);
+            if (oMainNode == null)
+            {
+                MessageBox.Show(sErrorMsg, "Erro", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return false;
+            }
+
+            // Interpreta o XML
+            try
+            {
+                // Carrega os Books da Biblioteca
+                LoadBookData(oMainNode);
+            }
+            catch (Exception e)
+            {
+                MessageBox.Show("Erro ao ler arquivo da biblioteca de livros:\n" + e.Message,
+                    "Erro", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return false;
+            }
+
+            return true;
+        }
+
+        private bool LoadEffects(string sConfigFileName)
         {
             // Carrega o XML com as configurações do programa.
             string sErrorMsg;
@@ -71,13 +119,12 @@ namespace mBook
             // Interpreta o XML
             try
             {
-                // Carrega os Books
-                LoadBookData(oMainNode["books"]);
-                //CEffects.Instance.LoadData(oMainNode["effects"]);
+                // Carrega os Efeitos
+                LoadAnchorData(oMainNode["anchors"]);
             }
             catch (Exception e)
             {
-                MessageBox.Show("Erro ao ler arquivo de configuração:\n" + e.Message,
+                MessageBox.Show("Erro ao ler arquivo de efeitos:\n" + e.Message,
                     "Erro", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 return false;
             }
@@ -85,16 +132,21 @@ namespace mBook
             return true;
         }
 
+
         #endregion
 
         #region Public Methods
 
         public bool LoadData()
         {
-            // =================== Lê o arquivo de configuração ===================
-            string sConfigFileName = CGenDef.ConfigFileName;
-            if (!LoadStaticConfig(sConfigFileName))
+            // =================== Lê o arquivo da biblioteca de livros ===================
+            string sLibraryFileName = CGenDef.ConfigFileName;
+            if (!LoadLibrary(sLibraryFileName))
                 return false;
+            // =========Lê o arquivo de efeitos============
+            string sEffectFileName = CGenDef.EffectFileName;
+            //if (!LoadEffects(sEffectFileName))
+            //    return false;
 
             return true;
         }
@@ -117,15 +169,69 @@ namespace mBook
 
             return null;
         }
-        
+
+        public CEffect GetEffect(int iEffectId)
+        {
+            if (m_htEffects.ContainsKey(iEffectId))
+                return m_htEffects[iEffectId] as CEffect;
+
+            return null;
+        }
+
+        public string GetEffect(string sEffect)
+        {
+            string sEffectCode = sEffect.Substring(0, 1);
+            string sEffectStream = sEffect.Substring(1, sEffect.Length - 1);
+
+            foreach (CEffect oEffect in m_htEffects.Values)
+            {
+                if (oEffect.Code == sEffectCode)
+                {
+                    foreach (CAction oAction in oEffect.Actions.Values)
+                    {
+                        if (oAction.Id.ToString() == sEffectStream)
+                            return oAction.Action;
+                    }
+                }
+            }
+            return null;
+        }
+
+        private bool LoadBook()
+        {
+            // Carrega o XML com as configurações do programa.
+            string sErrorMsg;
+            XmlNode oMainNode = CUtil.LoadXmlFile(CGenDef.BooksDir, CGenDef.AppName, out sErrorMsg);
+            if (oMainNode == null)
+            {
+                MessageBox.Show(sErrorMsg, "Erro", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return false;
+            }
+
+            // Interpreta o XML
+            try
+            {
+                // Carrega os Books da Biblioteca
+                LoadBookData(oMainNode);
+            }
+            catch (Exception e)
+            {
+                MessageBox.Show("Erro ao ler arquivo da biblioteca de livros:\n" + e.Message,
+                    "Erro", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return false;
+            }
+
+            return true;
+        }
+
         #endregion
 
         #region Private Methods
 
-        private bool LoadBookData(XmlNode oBooksNode)
+        private bool LoadBookData(XmlNode oMainNode)
         {
             string sErrorMsg = "Não existem livros cadastrados.";
-            if (oBooksNode == null)
+            if (oMainNode == null)
             {
                 MessageBox.Show(sErrorMsg, "Erro", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 return false;
@@ -135,7 +241,7 @@ namespace mBook
             {
                 int iBookId = 1;
 
-                foreach (XmlNode oNode in oBooksNode)
+                foreach (XmlNode oNode in oMainNode)
                 {
                     if (oNode.Name == "book")
                     {
@@ -154,7 +260,40 @@ namespace mBook
 
             return true;
         }
-        
+
+        private bool LoadAnchorData(XmlNode oAnchorsNode)
+        {
+            string sErrorMsg = "Não existem efeitos cadastrados.";
+            if (oAnchorsNode == null)
+            {
+                MessageBox.Show(sErrorMsg, "Erro", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return false;
+            }
+
+            try
+            {
+                int iEffectId = 1;
+
+                foreach (XmlNode oNode in oAnchorsNode)
+                {
+                    if (oNode.Name == "effect")
+                    {
+                        CEffect oEffect = new CEffect(iEffectId, oNode);
+                        m_htEffects.Add(iEffectId, oEffect);
+                        iEffectId++;
+                    }
+                }
+            }
+            catch
+            {
+                MessageBox.Show("Erro ao carregar efeitos.", "Erro",
+                    MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return false;
+            }
+
+            return true;
+        }
+
         #endregion
     }
 }
