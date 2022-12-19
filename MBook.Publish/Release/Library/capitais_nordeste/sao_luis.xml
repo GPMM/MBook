@@ -1,0 +1,89 @@
+<mbook id="histSaoLuis" name="UM CAUSO DE CIRCO">
+    <structure>
+        <page id="p1" background-url="sao_luis/page1.png">
+            <line> Era de causar sensação em Ariano Suassuna: </line>
+            <line> chamava-se Kristtyannya. </line>
+            <line> Quando perguntavam a origem do nome, </line>
+            <line> Seu Raimundo, o pai, dizia, orgulhoso: </line>
+            <line> – Foi ideia minha na hora da certidão. </line>
+            <line> Ela própria nem queria saber daquilo. </line>
+            <line> Kitty estava mais do que bom. </line>
+            <line> E resolveu que seria conhecida como </line>
+            <line> "Kitty, a menina que voa pelos ares". </line>
+        </page>
+        <page id="p2" background-url="sao_luis/page2.png">
+            <line> Fazia parte de tradicional família circense. </line>
+            <line> Todos oriundos da mistura de ancestrais </line>
+            <line> franceses, holandeses, portugueses e índios. </line>
+            <line> Uma família grande: Famili-Açu. </line>
+            <line> Moravam em uma casa azul-turquesa </line>
+            <line> no Centro, no coração de São Luís. </line>
+            <line> Sobrado com janelas em arco e </line>
+            <line> sacadinha de ferro. </line>
+            <line> A rua parecia delírio de pintor, </line>
+            <line> tão bonita, com pedras que quebravam </line>
+            <line> tudo quanto era salto de sapato. </line>
+        </page>
+        <page id="p3" background-url="sao_luis/page3.png">
+            <line> O circo Famili-Açu rodava o mundo. </line>
+            <line> Vida de circo não era fácil. </line>
+            <line> Gira cigana, sempre com pé na estrada. </line>
+            <line> Noites de riso, dias de choro e vice-versa. </line>
+            <line> Certa noite, com céu carregado de nuvens, </line>
+            <line> Kitty brilhava com olhos de artifício </line>
+            <line> e sorriso de trovão. </line>
+            <line> Saltava de bastão em bastão, </line>
+            <line> com alegria de pulga em cachorro peludo. </line>
+        </page>
+        <page id="p4" background-url="sao_luis/page4.png">
+            <line> Porém, aconteceu o inesperado: </line>
+            <line> o palhaço Armando, vestido de Nero, </line>
+            <line> riscou um fósforo na cueca branca </line>
+            <line> de bolotas vermelhas do palhaço Genésio, </line>
+            <line> que pegou fogo de verdade. </line>
+            <line> O coitado saiu rolando pelo piso </line>
+            <line> a deixar um rastro de cinzas. </line>
+            <line> A bailarina Elizete gritou por socorro! </line>
+            <line> Estava, na verdade, mais preocupada </line>
+            <line> com a filha lá em cima do que com </line>
+            <line> Genésio no chão. </line>
+        </page>
+        <page id="p5" background-url="sao_luis/page5.png">
+            <line> Raimundo, diante do picadeiro imundo, </line>
+            <line> não via outra solução: </line>
+            <line> – Ou inundo a lona ou mudo o mundo </line>
+            <line> de eixo e volto no tempo! </line>
+            <line> Ah, esqueci de falar que </line>
+            <line> Seu Raimundo era o mágico do circo. </line>
+        </page>
+        <page id="p6" background-url="sao_luis/page6.png">
+            <line> Para impedir o fogaréu de se alastrar, </line>
+            <line> o grande mágico Raimundo tirou a </line>
+            <line> cartola da cabeça e girou a varinha, </line>
+            <line> fazendo o tempo parar: </line>
+            <line> Kitty congelada entre dois bastões imóveis, </line>
+            <line> Elizete com a boca escancarada, </line>
+            <line> Armando com os olhos esbugalhados, </line>
+            <line> Genésio – quase pelado – todo encolhido. </line>
+        </page>
+        <page id="p7" background-url="sao_luis/page7.png">
+            <line> Da cartola brotava farta fonte de água </line>
+            <line> que fazia chover dentro da lona do circo. </line>
+            <line> Ao contar "um, dois, três", o mágico </line>
+            <line> fez o tempo voltar a correr. </line>
+            <line> Kitty deu uma cambalhota no ar, </line>
+            <line> agarrando um dos bastões. </line>
+            <line> Armando, Elizete e Genésio, ensopados, </line>
+            <line> não conseguiam entender o que se passara, </line>
+            <line> enquanto a plateia, às gargalhadas, </line>
+            <line> aplaudia sob efeito do toró. </line>
+        </page>
+        <page id="p8" background-url="sao_luis/page7.png">
+            <line> Oriundo quer dizer originário, de onde vem, que tem sua origem em.  </line>
+            <line> Açu vem do tupi e significa grande, volumoso. </line>
+        </page>
+    </structure>
+    
+    <logic>
+    </logic>
+</mbook>

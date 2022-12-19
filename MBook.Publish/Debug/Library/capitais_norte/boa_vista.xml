@@ -1,0 +1,63 @@
+<mbook id="histBoaVista" name="QUERUBIM DO CABURAÍ">
+    <structure>
+        <page id="p1" background-url="">
+            <line> Vini Vinícius poeta </line>
+            <line> Vini Vinícius flautista </line>
+            <line> Vini Vinícius esteta </line>
+            <line> Vini Vinícius artista </line>
+        </page>
+        <page id="p2" background-url="">
+            <line> Ele era assim, sabido de nascença </line>
+            <line> Vinícius desde o início </line>
+            <line> Sabe gente que já nasce mais velha? </line>
+            <line> Vivida, viajada, vacinada </line>
+            <line> Corpo jovem, mas alma de tempos idos </line>
+            <line> como se antes tivesse vivido </line>
+            <line> e visse tudo como que já visto </line>	  
+        </page>
+        <page id="p3" background-url="">
+            <line> Vini guardava um segredo: </line>
+            <line> um amigo querubim </line>
+            <line> que ajudava a espalhar sua obra </line>
+            <line> pelos quatro cantos </line>
+            <line> do Oiapoque ao Chuí </line>
+            <line> Ou melhor, do Caburaí ao Chuí </line>
+        </page>
+        <page id="p4" background-url="">
+            <line> Um anjo que morava lá na ponta </line>
+            <line> mais setentrional que você possa imaginar </line>
+            <line> exatamente onde nasce o rio Uailan </line>
+            <line> Quando Vini criava, o querubim voava </line>
+            <line> até Boa Vista para visitar o amigo </line>
+        </page>
+        <page id="p5" background-url="">
+            <line> Às vezes, soprava uma inspiração </line>
+            <line> no canto do pé do ouvido esquerdo: </line>
+            <line> Uma letra para lá... </line>
+            <line> Um poema para cá... </line>
+        </page>
+        <page id="p6" background-url="">
+            <line> Uma parceria na canção </line>
+            <line> Uma fotografia de alta resolução </line>
+            <line> Uma escultura para exposição </line>
+            <line> Um desenho a carvão </line>
+            <line> Arte como vocação </line>
+        </page>
+        <page id="p7" background-url="">
+            <line> Vini ficava feliz </line>
+            <line> Dizem que gente feliz faz coisas incríveis </line>
+            <line> Que coisas deixam você feliz? </line>
+        </page>	
+        <page id="p8" background-url="">
+            <line> Querubim é um anjo, uma criatura sobrenatural, espiritual. </line>
+            <line> Caburaí é o ponto mais extremo ao Norte do Brasil. </line>
+            <line> Antigamente os mais extremos eram o Oiapoque (no Norte) e o Chuí (no Sul), </line>
+            <line> mas depois descobriram que o Caburaí é mais setentrional. </line>
+            <line> Esteta é a pessoa que cultiva o belo, ama a beleza&#59; </line>
+            <line> especialista em estética (na filosofia). </line>
+            <line> Setentrional é sinônimo de Norte. </line>
+        </page>	
+    </structure>
+    <logic>
+    </logic>
+</mbook>

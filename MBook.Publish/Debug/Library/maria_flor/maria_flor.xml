@@ -1,0 +1,362 @@
+<mbook id="maria_flor" name="Maria Flor">
+    <structure>
+        <page id="p1" background-url="">
+            <line> Meu nome era só Maria. </line>
+            <line> Mas desenhei uma flor depois do segundo "a", </line>
+            <line> passando a me chamar Maria Flor. </line>
+            <line> Sempre gostei de flor porque nasci na primavera </line>
+            <line> e, a bem dizer, não sei em que dia vim ao mundo, </line>
+            <line> mas ficou feito de conta </line>
+            <line> que foi no dia em que vó Preta me achou. </line>
+        </page>
+        <page id="p2" background-url="">
+            <line> Ela estava regando o jardim </line>
+            <line> quando ouviu o meu chorar. </line>
+            <line> Euzinha, nua de todo e por demais ensopada, </line>
+            <line> era capaz de morrer sufocada </line>
+            <line> por água mais terra mais flor. </line>
+        </page>
+        <page id="p3" background-url="">
+            <line> Vó Preta muito assustou: </line>
+            <line> "Virgem Maria, que flor mais rosada que é essa!" </line>
+            <line> Largou regador de lado e me aconchegou no colo </line>
+            <line> de modo a me confortar. </line>
+            <line> Vó Preta esmerou-se no me dar banho quente-cheiroso, </line>
+            <line> arranjou fralda e me envolveu </line>
+            <line> com sua colcha de fustão preferida. </line>
+        </page>
+        <page id="p4" background-url="">
+            <line> Deixei de chorar para mamar de colherinha, </line>
+            <line> que eu não era boba de perder a refeição. </line>
+            <line> Depois, vó Preta me botou para arrotar. </line>
+            <line> Mas quando ia me ninar... </line>
+        </page>
+        <page id="p5" background-url="">
+            <line> Muito me aperreia até hoje o que sucedeu logo seguido. </line>
+            <line> Conta vó Preta que dona Olga chegou da academia </line>
+            <line> pedindo almoço na mesa, qual fosse um dia comum. </line>
+            <line> Exibindo-me orgulhosa nos braços, </line>
+            <line> vó Preta narrou a ela meu recém-aparecer. </line>
+        </page>
+        <page id="p6" background-url="">
+            <line> A patroa desgostou: </line>
+            <line> "Leva a qualquer orfanato, </line>
+            <line> mas antes passa meu filé grelhado." </line>
+            <line> Vó Preta de coração apertado: </line>
+            <line> "A senhora pede comida para um deliveri, </line>
+            <line> que eu parto com essa criança que já é pedaço meu!" </line>
+        </page>
+        <page id="p7" background-url="">
+            <line> A caminhada fácil não seria: </line>
+            <line> deixar casa, comida e salário-mínimo </line>
+            <line> para ir aonde não havia. </line>
+            <line> Essa parte vó Preta não detalha, </line>
+            <line> mas explica toda semana </line>
+            <line> o porquê de um reumatismo danado: </line>
+        </page>
+        <page id="p8" background-url="">
+            <line> "Foi de dar volta ao mundo contigo num braço, </line>
+            <line> maleta no outro e preocupação nas omoplata." </line>
+            <line> Vó Preta andou sete meses mais meio. </line>
+            <line> Parou quando viu a igreja, </line>
+            <line> avaliando que era de se entrar ali. </line>
+        </page>
+        <page id="p9" background-url="">
+            <line> Ainda que por demais muito cansada, </line>
+            <line> vó Preta respirou força e subiu cinco degraus. </line>
+            <line> Uma vez dentro da igreja, sentou-se no último banco, </line>
+            <line> deixou mala tombar no chão, </line>
+            <line> mas me continuou no colo </line>
+            <line> que ela não me largava nunca mais. </line>
+        </page>
+        <page id="p10" background-url="">
+            <line> Então, olhou bem para Nossa Senhora, </line>
+            <line> que do altar mirava a gente, </line>
+            <line> e repetiu a "Ave-Maria" cem vezes. </line>
+            <line> Cem vezes comigo no colo e a alma no chão </line>
+            <line> (eu, pelo que conta vó Preta, </line>
+            <line> eu chorei entre a vigésima terceira </line>
+            <line> e a quadragésima sétima repetição). </line>
+        </page>
+        <page id="p11" background-url="">
+            <line> Fez efeito a demasiada oração. </line>
+            <line> Assim que vó Preta deu conta da centena, </line>
+            <line> o milagre se deu, amém. </line>
+            <line> Minha madrinha, que tirava pó dos bancos, </line>
+            <line> quando chegou ao nosso, que era o septuagésimo, </line>
+            <line> estranhou a maleta e inquiriu </line>
+            <line> se era de longe que vó Preta vinha. </line>
+        </page>
+        <page id="p12" background-url="">
+            <line> Faz-me muita pena o que sucedeu </line>
+            <line> à minha vó nesse momento. </line>
+            <line> No lugar de responder, </line>
+            <line> a coitada chorou dois baldes. </line>
+            <line> Logo ela que é de tanto falar, </line>
+            <line> estando esgotada, </line>
+            <line> não pôde se aproveitar... </line>
+        </page>
+        <page id="p13" background-url="">
+            <line> Madrinha deixou de perguntar. </line>
+            <line> Convidou vó Preta a tomar café pingado </line>
+            <line> na birosca aqui ao lado. </line>
+            <line> O sacristão tomou conta da bagagem </line>
+            <line> e uma beata me deu carrinho, leite e um chocalho. </line>
+        </page>
+        <page id="p14" background-url="">
+            <line> Madrinha deu conta de nós. </line>
+            <line> Ofertou abrigo neste puxadinho atrás da igreja </line>
+            <line> e emprego de cozinheira a vó Preta </line>
+            <line> no colégio aqui ao lado. </line>
+            <line> Onde eu poderia me educar, </line>
+            <line> até hoje estudo lá. </line>
+        </page>
+        <page id="p15" background-url="">
+            <line> Vó Preta muito aceitou, </line>
+            <line> mas pediu licença antes de aqui se instalar. </line>
+        </page>
+        <page id="p16" background-url="">
+            <line> Voltou à igreja, </line>
+            <line> rezou duzentas "Ave-Marias", </line>
+            <line> dessa vez bem perto do altar, </line>
+            <line> chorou mais um tanto </line>
+            <line> que o sacristão gastou um tempão a enxugar, </line>
+            <line> e mais rezaria a minha vó Preta </line>
+            <line> ao se deitar na cama macia me tendo ao seu lado. </line>
+        </page>
+        <page id="p17" background-url="">
+            <line> Madrinha, que dirigia o colégio, </line>
+            <line> disse que era de ficarmos aqui </line>
+            <line> enquanto isto bem nos fizesse. </line>
+            <line> Bem não me faz. </line>
+        </page>
+        <page id="p18" background-url="">
+            <line> Tem uma barata aqui faz tempo. </line>
+            <line> Ela zanza e não é de voar, </line>
+            <line> eu olho a barata, </line>
+            <line> enfastiei de matar barata. </line>
+        </page>
+        <page id="p19" background-url="">
+            <line> Matei outras. </line>
+            <line> Um monte morreu de chinelada minha. </line>
+            <line> Enfastiei porque vó Preta outro dia variou: </line>
+            <line> "Maria, você paga a empresa de dedetizar." </line>
+            <line> Tudo porque inventei de trabalhar. </line>
+            <line> Foi assim. </line>
+        </page>
+        <page id="p20" background-url="">
+            <line> Faz bem mês que madrinha morreu </line>
+            <line> (ela adoeceu rápido e partiu sem despedir). </line>
+            <line> No enterro, senti uma dor nos pés danada </line>
+            <line> (é que eu tinha me esforçado </line>
+            <line> na aula de educação física). </line>
+        </page>
+        <page id="p21" background-url="">
+            <line> Chegando em casa, devorei meu pavê </line>
+            <line> e pedi a vó Preta um tênis bom para correr: </line>
+            <line> "Tênis de preço não posso lhe comprar&#59; </line>
+            <line> sua madrinha se foi, </line>
+            <line> eu não tenho a gastar." </line>
+        </page>
+        <page id="p22" background-url="">
+            <line> Realmente era madrinha quem me fazia tais mimos. </line>
+            <line> Mas meus pés doíam tanto </line>
+            <line> que encasquetei com a compra. </line>
+            <line> Então, tive ideia de vender meu pavê. </line>
+            <line> Fatiado, no recreio, é o doce da vez. </line>
+            <line> Com tanto sucesso, eu exagerei. </line>
+            <line> Comprei um tênis bom com que nunca sonhei. </line>
+        </page>
+        <page id="p23" background-url="">
+            <line> Cheguei do shopping na maior alegria. </line>
+            <line> Passo a passo, pisca, pisca, vó Preta nunca tinha visto. </line>
+            <line> A notícia se espalhou, a todas as amigas contou: </line>
+            <line> "O tênis da minha Maria, no pisar, bem se alumia!" </line>
+            <line> Em três dias, todavia, a alegria se mudou. </line>
+            <line> Vó Preta quis um ar-condicionado: </line>
+            <line> "Minha Maria vai abrir um crediário." </line>
+            <line> Ah, não. </line>
+        </page>
+        <page id="p24" background-url="">
+            <line> Fiquei muito enraivecida com essa dela decisão: </line>
+            <line> construir um compromisso sobre ideia abirutada. </line>
+            <line> Pagar um ar com pavê </line>
+            <line> não tinha mesmo nada a ver. </line>
+            <line> Falei: "Esquece esse ar, eu não quero nem saber!" </line>
+        </page>
+        <page id="p25" background-url="">
+            <line> Mas minha vó emburrou e passou a descrever </line>
+            <line> que "o calor por aqui é medonho", </line>
+            <line> que "não se consegue dormir", </line>
+            <line> que "ventilador só não presta", </line>
+            <line> está é difícil viver. </line>
+        </page>
+        <page id="p26" background-url="">
+            <line> Hoje tudo piorou por demais e muito. </line>
+            <line> A nova diretora ralhou com vó Preta: </line>
+            <line> "Sua comida é gordura pura, </line>
+            <line> não posso ficar com você. </line>
+            <line> Vai-se com menina Maria. </line>
+            <line> Até o fim da semana, </line>
+            <line> não as quero mais aqui." </line>
+        </page>
+        <page id="p27" background-url="">
+            <line> A gente não tem mais morada, </line>
+            <line> a minha vó desempregada, </line>
+            <line> ao menos os meus estudo continuo sem pagar nada. </line>
+        </page>
+        <page id="p28" background-url="">
+            <line> Confundida, perguntei como vó conseguira dormir. </line>
+            <line> Por todos os anos da vida, sem ter um ar por aqui. </line>
+            <line> Muito me arrependo de ter inquirido a bestagem. </line>
+            <line> Pois muito me doeu a resposta, </line>
+            <line> foi como um tapa na cara. </line>
+        </page>
+        <page id="p29" background-url="">
+            <line> "Em Copacabana, eu dormia bem sem ar. </line>
+            <line> A praia ficava na frente e fazia a brisa adentrar. </line>
+            <line> Se não fosse por você, até hoje eu estava lá." </line>
+        </page>
+        <page id="p30" background-url="">
+            <line> Lá vai dona Baratinha para perto da minha vó. </line>
+            <line> Que enquanto eu tento dormir, </line>
+            <line> diz que não vai conseguir. </line>
+            <line> "Não se pode nem deitar com tal calor", </line>
+            <line> reclama a bordar. </line>
+            <line> "Quem me dera poder perto da praia morar." </line>
+        </page>
+        <page id="p31" background-url="">
+            <line> Balança e borda, balança e borda. </line>
+            <line> Para trás, um ponto. Para a frente, outro ponto. </line>
+            <line> Balança e borda, balança e borda. </line>
+            <line> Para trás, madrinha, para a frente, não sei. </line>
+            <line> Balança e borda, balança e borda, </line>
+            <line> para trás, madrinha, e eu, pequenininha. </line>
+            <line> Balança e borda, balança e borda, para trás </line>
+        </page>
+        <page id="p32" background-url="">
+            <line> madrinha pontilhou meu nome no caderno </line>
+            <line> e me mandou cobrir com um lápis, </line>
+            <line> bordei um pontinho com o outro </line>
+            <line> que virava o um que eu bordava com o outro, </line>
+            <line> quando acabei, não me contentei, </line>
+            <line> quando vi, tinha feito a flor, </line>
+        </page>
+        <page id="p33" background-url="">
+            <line> mostrei à madrinha e ela falou: </line>
+            <line> "Agora seu nome é Maria Flor", </line>
+            <line> então eu pensei: </line>
+            <line> "Bem que vó Preta sempre me diz: </line>
+            <line> A minha Maria é uma flor de menina..." </line>
+        </page>
+        <page id="p34" background-url="">
+            <line> Não sou mais, </line>
+            <line> não quero mais, </line>
+            <line> bem não me faz. </line>
+        </page>
+        <page id="p35" background-url="">
+            <line> Permaneço-me deitada, fecho os olhos, </line>
+            <line> sobre mim o lençol de margaridas amarelas, </line>
+            <line> sob mim o lençol branco, </line>
+            <line> minha cabeça sobre o travesseiro roda, roda, </line>
+            <line> então espremo-a entre o travesseiro e o colchão, </line>
+            <line> assim não respiro, não está bom assim não, </line>
+        </page>
+        <page id="p36" background-url="">
+            <line> abraço o travesseiro </line>
+            <line> e é assim que eu tenho vontade de florear, </line>
+            <line> sim. </line>
+        </page>
+        <page id="p37" background-url="">
+            <line> A fronha é amarela como o balde que carrego </line>
+            <line> pela alça azul que combina com o mar, </line>
+            <line> a areia que enche o balde é a mesma areia que eu piso, </line>
+            <line> estou curtinho este lindo dia de sol, </line>
+            <line> Copacabana, </line>
+            <line> o mar, </line>
+        </page>
+        <page id="p38" background-url="">
+            <line> eu vou fazendo um montinho </line>
+            <line> que é meu bolo de aniversário ou o Pão de Açúcar, </line>
+            <line> quem sabe são os Dois Irmãos </line>
+            <line> (faço outro monte bem juntinho). </line>
+            <line> Mas já vem uma onda e muda a areia, </line>
+            <line> vem outra onda que aproveito para furar, </line>
+            <line> eu adoro pegar jacaré, comprar picolé, </line>
+        </page>
+        <page id="p39" background-url="">
+            <line> vou correndo pela beira d'água, </line>
+            <line> o barco é branco e chega à areia, </line>
+            <line> eu entro e digo "Vamos" ao marinheiro, </line>
+            <line> que vai me levando para além-mar, </line>
+            <line> para além de vó. </line>
+        </page>
+        <page id="p40" background-url="">
+            <line> No barco encontro minha mãe de verdade, </line>
+            <line> é dona Olga, </line>
+            <line> ela é bonita, ela tem maiô elegante, eu também, </line>
+            <line> ela compra para mim, </line>
+        </page>
+        <page id="p41" background-url="">
+            <line> ela mergulha, ela nada bem, ela diz "vem", </line>
+            <line> mas tenho medo, eu não sei nadar no mar, só na piscina, </line>
+            <line> ela diz "eu cuido de você", </line>
+            <line> eu mergulho, eu afundo, eu não consigo respirar, </line>
+        </page>
+        <page id="p42" background-url="">
+            <line> vejo dona Olga no calçadão, </line>
+            <line> ela caminha com meu tênis, </line>
+            <line> ela queria que eu fosse para o orfanato, </line>
+            <line> ela não vem me salvar, </line>
+            <line> vó Preta é que me salvou, </line>
+            <line> mas não a quero mais, </line>
+        </page>
+        <page id="p43" background-url="">
+            <line> o sono vem, </line>
+            <line> já é meia-noite, já é meia-noite, </line>
+            <line> faz hora de adormecer, </line>
+            <line> talvez eu seja ingrata, talvez, </line>
+            <line> não sei o que vai ser de nós na semana que vem, </line>
+            <line> para onde vamos não há, </line>
+        </page>
+        <page id="p44" background-url="">
+            <line> mas volto para o barco, </line>
+            <line> é bom dormir no barco da minha mãe Olga, </line>
+            <line> o barco balança, me descansa, ele balança, me descansa, </line>
+            <line> barulho de mar, chuáááááá, </line>
+            <line> cheiro de mar, hummmmm, </line>
+            <line> filé grelhado no almoço, aaaaaah. </line>
+        </page>
+        <page id="p45" background-url="">
+            <line> Nossa! </line>
+            <line> Não sei por que vó Preta precisa fazer </line>
+            <line> esse escândalo para me acordar! </line>
+            <line> Já sei que são seis e meia, </line>
+            <line> já sei que estou em semana de prova! </line>
+            <line> Na semana que vem, não temos onde morar... </line>
+        </page>
+        <page id="p46" background-url="">
+            <line> Eu queria escapar ainda hoje, </line>
+            <line> talvez eu seja ingrata, </line>
+            <line> não sei. </line>
+            <line> O que sei é que sou de florear. </line>
+        </page>
+        <page id="p47" background-url="">
+            <line> Já está vó Preta reclamando do calor, </line>
+            <line> do reumatismo, então, como fala! </line>
+            <line> O que fez por mim insiste em alegrar. </line>
+            <line> Ela diz que não pôde dormir, já sei. </line>
+        </page>
+        <page id="p48" background-url="">
+            <line> Encontro dona Baratinha com uma gêmea no chuveiro. </line>
+            <line> "Olá, bom dia, fiquem à vontade! </line>
+            <line> Chamem outras baratinhas, afinal a casa é vossa!" </line>
+            <line> A água bem gelada me alivia. </line>
+            <line> Aproveito este momento,  </line>
+            <line> chuáááááá... </line>
+        </page>
+    </structure>
+    
+    <logic>
+    </logic>
+</mbook>

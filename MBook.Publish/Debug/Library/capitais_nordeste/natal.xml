@@ -1,0 +1,42 @@
+<mbook id="histNatal" name="CARNAVAL EM NATAL É SENSACIONAL">
+    <structure>
+        <page id="p1" background-url="">
+            <line> Eis aqui um artista em tempo integral </line>
+            <line> É sabido das cores desde o maternal </line>
+            <line> Colore tudo, até as roupas no varal </line>
+            <line> Hoje é mestre e doutor do carnaval </line>
+        </page>
+        <page id="p2" background-url="">
+            <line> Samuel ama lápis pastel </line>
+            <line> Inventa linhas com pincel </line>
+            <line> Põe desenhos no papel </line>
+            <line> Faz cavalo de carrossel </line>
+            <line> Cria cama com dossel </line>
+            <line> Pra casal em lua de mel </line>
+        </page>
+        <page id="p3" background-url="">
+            <line> Na entrevista internacional </line>
+            <line> A repórter faz pergunta trivial </line>
+            <line> – Qual a fantasia ideal </line>
+            <line> pra pular o Carnaval? </line>
+        </page>
+        <page id="p4" background-url="">
+            <line> – Pra brincar sob o sol </line>
+            <line> Vale vestido de girassol </line>
+            <line> Short de peixe no anzol </line>
+            <line> Camiseta de futebol </line>
+            <line> Sombrero espanhol </line>
+            <line> Fantasma de lençol </line>
+        </page>
+        <page id="p5" background-url="">
+            <line> Carnaval em Natal é o céu </line>
+            <line> Tem moça de véu </line>
+            <line> Tem rapaz de chapéu </line>
+            <line> Tem gente pra dedéu </line>
+            <line> Na folia, toda tristeza vai pro beleléu! </line>
+        </page>
+    </structure>
+    
+    <logic>
+    </logic>
+</mbook>

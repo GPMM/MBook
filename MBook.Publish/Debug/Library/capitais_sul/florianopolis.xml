@@ -1,0 +1,56 @@
+<mbook id="histFlorianopolis" name="CANTIGA PARA IEDA">
+    <structure>
+        <page id="p1" background-url="">
+            <line> Era ruiva e linda </line>
+            <line> Uma onça parecia </line>
+            <line> Uma pinta, outra pinta </line>
+            <line> E mais outra, conforme crescia </line>
+        </page>
+        <page id="p2" background-url="">
+            <line> Não gostava de alho </line>
+            <line> apenas de cebola </line>
+            <line> Vencia sempre no baralho </line>
+            <line> muito ágil, nada tola </line>
+        </page>
+        <page id="p3" background-url="">
+            <line> Amava livros </line>
+            <line> Bonecas não </line>
+            <line> Escolhia-os com carinho </line>
+            <line> Para guardar no coração </line>
+        </page>
+        <page id="p4" background-url="">
+            <line> Seu passatempo predileto </line>
+            <line> Era ficar de barriga pro teto </line>
+            <line> Com um bom impresso na mão </line>
+            <line> A mente voava como um balão </line>
+        </page>
+        <page id="p5" background-url="">
+            <line> O pensamento parece uma coisa à toa </line>
+            <line> mas como é que a gente voa </line>
+            <line> quando começa a pensar...* </line>
+        </page>
+        <page id="p6" background-url="">
+            <line> E Ieda ia longe: </line>
+            <line> Para o Tibete falar com monge </line>
+            <line> Para o fundo do mar ver esponja </line>
+            <line> Para Marte consertar uma sonda </line>
+            <line> E até para a lua cheia, toda redonda </line>
+        </page>
+        <page id="p7" background-url="">
+            <line> Hoje ela cresceu </line>
+            <line> E continua a mil </line>
+            <line> Dá aulas em liceu </line>
+            <line> No litoral do Brasil </line>
+        </page>
+        <page id="p8" background-url="">
+            <line> Só não come alho </line>
+            <line> Nem se mira em espelho </line>
+            <line> (Será que é uma vampirinha?) </line>
+            <line> * NESSE POEMA TEM UM Trecho da música "Felicidade", de Lupicínio Rodrigues </line>
+            <line> (que não era catarinense, era gaúcho, mas a letra cabe lindamente nos pensamentos de Ieda). </line>
+        </page>
+    </structure>
+    
+    <logic>
+    </logic>
+</mbook>

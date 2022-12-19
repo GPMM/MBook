@@ -1,0 +1,167 @@
+<mbook id="histTeresina" name="ALDRAVIPEIA PIAUIENSE">
+    <structure>
+        <page id="p1" background-url="">
+            <line> Teresa </line>
+            <line> Não </line>
+            <line> Conhece </line>
+            <line> A </line>
+            <line> Capital </line>
+            <line> Teresina </line>
+        </page>
+        <page id="p2" background-url="">
+            <line> Teresina </line>
+            <line> Do </line>
+            <line> Piauí </line>
+            <line> Do </line>
+            <line> Torquato </line>
+            <line> Neto </line>
+        </page>
+        <page id="p3" background-url="">
+            <line> Teresina </line>
+            <line> Transcendental </line>
+            <line> Cantada </line>
+            <line> Por </line>
+            <line> Caetano </line>
+            <line> Veloso </line>
+        </page>
+        <page id="p4" background-url="">
+            <line> Aquela </line>
+            <line> Da </line>
+            <line> Cajuína </line>
+            <line> Cristalina </line>
+            <line> Em </line>
+            <line> Teresina </line>
+        </page>
+        <page id="p5" background-url="">
+            <line> Teresina </line>
+            <line> Não </line>
+            <line> Era </line>
+            <line> Terezinha </line>
+            <line> Do </line>
+            <line> Chacrinha </line>
+        </page>
+        <page id="p6" background-url="">
+            <line> Nem </line>
+            <line> De </line>
+            <line> Salomé </line>
+            <line> Era </line>
+            <line> Aquela </line>
+            <line> Teresina </line>
+        </page>
+        <page id="p7" background-url="">
+            <line> Ela </line>
+            <line> Queria </line>
+            <line> Boa </line>
+            <line> Vida </line>
+            <line> Em </line>
+            <line> Teresina </line>
+        </page>
+        <page id="p8" background-url="">
+            <line> Chora </line>
+            <line> Teresina </line>
+            <line> Pela </line>
+            <line> Distância </line>
+            <line> Do </line>
+            <line> Mar </line>
+        </page>
+        <page id="p9" background-url="">
+            <line> Em </line>
+            <line> Teresina </line>
+            <line> Há </line>
+            <line> Encontros </line>
+            <line> Dos </line>
+            <line> Rios </line>
+        </page>
+        <page id="p10" background-url="">
+            <line> Parnaíba </line>
+            <line> Com </line>
+            <line> Poti </line>
+            <line> Waly </line>
+            <line> Conheceu </line>
+            <line> Teresina? </line>
+        </page>
+        <page id="p11" background-url="">
+            <line> Calorão </line>
+            <line> Em </line>
+            <line> Junho </line>
+            <line> Potó </line>
+            <line> Invade </line>
+            <line> Teresina </line>
+        </page>
+        <page id="p12" background-url="">
+            <line> Queima </line>
+            <line> A </line>
+            <line> Pele </line>
+            <line> E </line>
+            <line> Teresina </line>
+            <line> Grita </line>
+        </page>
+        <page id="p13" background-url="">
+            <line> O </line>
+            <line> Que </line>
+            <line> Faz </line>
+            <line> Falta </line>
+            <line> Em </line>
+            <line> Teresina </line>
+        </page>
+        <page id="p14" background-url="">
+            <line> Não </line>
+            <line> Ter </line>
+            <line> É </line>
+            <line> Sina </line>
+            <line> Em </line>
+            <line> Teresina </line>
+        </page>
+        <page id="p15" background-url="">
+            <line> Tem </line>
+            <line> Reza </line>
+            <line> E </line>
+            <line> Brisa </line>
+            <line> Em </line>
+            <line> Teresina </line>
+        </page>
+        <page id="p16" background-url="">
+            <line> Teresina </line>
+            <line> Cabeça </line>
+            <line> De </line>
+            <line> Cuia </line>
+            <line> No </line>
+            <line> Mafrense </line>
+        </page>
+        <page id="p17" background-url="">
+            <line> Ah </line>
+            <line> Teresina </line>
+            <line> Esperança </line>
+            <line> Semeada </line>
+            <line> Por </line>
+            <line> Mestre-Luiz </line>
+        </page>
+        <page id="p18" background-url="">
+            <line> Que </line>
+            <line> Linda </line>
+            <line> Monalysa </line>
+            <line> Quando </line>
+            <line> Representa </line>
+            <line> Teresina </line>
+        </page>
+        <page id="p19" background-url="">
+            <line> Sarah </line>
+            <line> É </line>
+            <line> Ouro </line>
+            <line> Teresina </line>
+            <line> Faz </line>
+            <line> Coro </line>
+        </page>
+        <page id="p20" background-url="">
+            <line> Menina </line>
+            <line> Autoestima </line>
+            <line> Nordestina </line>
+            <line> Purpurina </line>
+            <line> Matutina </line>
+            <line> Teresina </line>
+        </page>
+    </structure>
+    
+    <logic>
+    </logic>
+</mbook>

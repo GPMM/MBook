@@ -1,0 +1,39 @@
+<mbook id="histRecife" name="DOIS DUDAS">
+    <structure>
+        <page id="p1" background-url="">
+            <line> Dois Dudas na casa da dinda Drids </line>
+            <line> Maria Eduarda e Eduardo José </line>
+            <line> Duda gostava de dança </line>
+            <line> Duda gostava de Drummond </line>
+            <line> Duda queria jogar dominó </line>
+            <line> Duda queria os cabelos com dreads </line>
+        </page>
+        <page id="p2" background-url="">
+            <line> Duda curtia um domingo dourado </line>
+            <line> Duda passeava de dromedário nas dunas </line>
+            <line> Duda e Duda eram indivisíveis </line>
+            <line> Dois Dudas em pas de deux </line>
+            <line> Dois com dons divinos </line>
+            <line> Dois divagando em dó maior </line>
+        </page>
+        <page id="p3" background-url="">
+            <line> Dois com doce de leite </line>
+            <line> em deleite de rede no rio Capibaribe </line>
+            <line> Duda nas docas e nas estrelas </line>
+            <line> Duda no Estelita e nas entrelinhas </line>
+            <line> Duda e Duda jogando dados </line>
+            <line> colhendo dados para o próximo </line>
+        </page>
+        <page id="p4" background-url="">
+            <line> Duda e Duda tocando os dedos </line>
+            <line> trocando dedos de prosa </line>
+            <line> Dois falando sem dedos </line>
+            <line> sem medo de anedotas </line>
+            <line> Dois amigos de longa data </line>
+            <line> Duda e Duda de mãos dadas </line>
+        </page>
+    </structure>
+    
+    <logic>
+    </logic>
+</mbook>

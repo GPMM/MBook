@@ -1,0 +1,64 @@
+<mbook id="histMaceio" name="RETALHOS">
+    <structure>
+        <page id="p1" background-url="">
+            <line> Não foi fácil para Fábio morar em Maceió. </line>
+            <line> Os presidentes do conselho tutelar acharam </line>
+            <line> prudente que o garoto fosse morar na capital, </line>
+            <line> afinal um menino de 13 anos precisa estudar. </line>
+            <line> No velho engenho de cana não haveria oportunidades </line>
+            <line> de emprego ou escolas por perto, e, depois que </line>
+            <line> o cajueiro virou domínio de uma empresa particular, </line>
+            <line> aí mesmo que seria impossível continuar por lá. </line>
+        </page>
+        <page id="p2" background-url="">
+            <line> A mochila de retalhos carregava </line>
+            <line> a matula de doce e escondia um segredo. </line>
+            <line> A matula protegia o inigualável </line>
+            <line> doce de caju cristalizado da cidade de Ipioca. </line>
+            <line> Quem um dia já provou sabe que não tem comparação. </line>
+            <line> O doce feito em tacho de cobre com colher de pau, </line>
+            <line> urupemas para escorrer o caldo, fogão a lenha... </line>
+            <line> O segredo: um curió preso numa gaiola improvisada, </line>
+            <line> ao lado dos vidros melados de xarope. </line>
+        </page>
+        <page id="p3" background-url="">
+            <line> Arrimo de família, Fábio carregava </line>
+            <line> o passarinho machucado, que precisava de socorro. </line>
+            <line> Passou pela igreja de Nossa Senhora do Ó, </line>
+            <line> pediu proteção para o curió </line>
+            <line> e seguiu sua curiosa jornada. </line>
+            <line> Os pais não tiveram estudos, </line>
+            <line> mas sonhavam que com o filho </line>
+            <line> seria diferente. </line>
+        </page>
+        <page id="p4" background-url="">
+            <line> Era preciso quebrar os grilhões históricos, era preciso </line>
+            <line> ter uma ambição enorme, uma paciência enraivecida, </line>
+            <line> um desejo de se “vingar” da vida, </line>
+            <line> e uma ensolarada saúde mental.* </line>
+            <line> Fábio tinha tudo isso e era do tipo que </line>
+            <line> ficava sentimental na terceira palavra. </line>
+            <line> Chegando a Maceió, foi à lagoa Mundaú, </line>
+            <line> tomou caldo de sururu, comeu um doce. </line>
+            <line> Cuidou do curió com amor e intuição. </line>
+            <line> Comprou CDs de ensinar curió a cantar, </line>
+            <line> já que na cidade a pequena ave </line>
+            <line> não teria seus pares para aprender. </line>
+        </page>
+        <page id="p5" background-url="">
+            <line> Teria como tutores os quatro CDs da coleção: </line>
+            <line> selo marrom (de fácil assimilação para filhotes repetidores); </line>
+            <line> selo azul (para incentivar a repetição e enriquecer as notas); </line>
+            <line> selo prata (para dar continuidade ao aprendizado); </line>
+            <line> selo vermelho (de notas explícitas). </line>
+        </page>
+        <page id="p6" background-url="">
+            <line> O curió está saudável, </line>
+            <line> fluente no dialeto Maceió Tradicional. </line>
+            <line> Fábio tornou-se exímio veterinário. </line> 
+        </page>
+    </structure>
+    
+    <logic>
+    </logic>
+</mbook>

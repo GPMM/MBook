@@ -1,0 +1,7 @@
+D:\PedroJr\GitHub\pedro.ideasfor@gmail.com\repo\MBook-master\MBook.Publish\Debug\MBook.Infrastructure.dll
+D:\PedroJr\GitHub\pedro.ideasfor@gmail.com\repo\MBook-master\MBook.Publish\Debug\MBook.Infrastructure.pdb
+D:\PedroJr\GitHub\pedro.ideasfor@gmail.com\repo\MBook-master\MBook.Infrastructure\obj\Debug\MBook.Infrastructure.csproj.AssemblyReference.cache
+D:\PedroJr\GitHub\pedro.ideasfor@gmail.com\repo\MBook-master\MBook.Infrastructure\obj\Debug\MBook.Infrastructure.csproj.CoreCompileInputs.cache
+D:\PedroJr\GitHub\pedro.ideasfor@gmail.com\repo\MBook-master\MBook.Infrastructure\obj\Debug\MBook.Infrastructure.csproj.CopyComplete
+D:\PedroJr\GitHub\pedro.ideasfor@gmail.com\repo\MBook-master\MBook.Infrastructure\obj\Debug\MBook.Infrastructure.dll
+D:\PedroJr\GitHub\pedro.ideasfor@gmail.com\repo\MBook-master\MBook.Infrastructure\obj\Debug\MBook.Infrastructure.pdb

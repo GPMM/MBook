@@ -1,0 +1,53 @@
+<mbook id="histPortoAlegre" name="AS TRÊS IRMÃS">
+    <structure>
+        <page id="p1" background-url="">
+            <line> Da janela Farroupilha </line>
+            <line> Se espiar com atenção </line>
+            <line> Lá dentro daquela casa </line>
+            <line> Com cheiro de macarrão </line>
+            <line> Moram três belas irmãs </line>
+            <line> De enorme coração </line>
+        </page>
+        <page id="p2" background-url="">
+            <line> Carina queria medicina </line>
+            <line> Para olhar no microscópio </line>
+            <line> Bia só as estrelas via </line>
+            <line> No potente telescópio </line>
+            <line> Betina (fashion guria) </line>
+            <line> Queria seu Ray-Ban na retina </line>
+        </page>
+        <page id="p3" background-url="">
+            <line> A primogênita pesquisava </line>
+            <line> O que não se vê a olho nu </line>
+            <line> Ínfimo, pequeno, invisível </line>
+        </page>
+        <page id="p4" background-url="">
+            <line> A caçula mirava o infinito e além </line>
+            <line> Desejava caçar cometas </line>
+            <line> Bia queria a Via Láctea! </line>
+        </page>
+        <page id="p5" background-url="">
+            <line> Betina enxergava o futuro </line>
+            <line> Sonhando o mundo avant-garde </line>
+            <line> Com empatia e igualdade </line>
+        </page>
+        <page id="p6" background-url="">
+            <line> Três graças da cidade alegre </line>
+            <line> Ah, Betina, Bia e Carina </line>
+            <line> As três irmãs do bairro do Bom Fim. </line>
+        </page>
+        <page id="p7" background-url="">
+            <line> Bom Fim e Farroupilha são bairros vizinhos em Porto Alegre. </line>
+            <line> Os farroupilhas se revoltaram contra o governo imperial na Guerra dos Farrapos (1835 a 1845). </line>
+            <line> Fashion é uma palavra inglesa que significa elegante, de bom gosto, moderno, na moda. </line>
+            <line> Ray-Ban é uma famosa marca de óculos de sol. </line>
+            <line> Primogênita é a filha mais velha. </line>
+            <line> Retina é uma parte do olho, como se fosse uma tela em que se projetam as imagens vistas. </line>
+            <line> Avant-garde é uma expressão francesa que significa "de vanguarda", </line>
+            <line> "à frente do seu tempo". </line>
+        </page>
+    </structure>
+    
+    <logic>
+    </logic>
+</mbook>

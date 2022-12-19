@@ -1,0 +1,63 @@
+<mbook id="histVitoria" name="ONDAS">
+    <structure>
+        <page id="p1" background-url="">
+            <line> – Venha para casa, Marcelo! </line>
+            <line> Gritava para a praia o avô Bartolomeu. </line>
+            <line> Marcelo não escutava (às vezes tinha audição seletiva), </line>
+            <line> preferia ouvir o som que a onda fazia quando estourava. </line>
+            <line> Onda atrás de onda. </line>
+        </page>
+        <page id="p2" background-url="">
+            <line> Ah! Mar </line>
+            <line> O menino não conhecia outra música senão </line>
+            <line> o barulho da praia. Naquela vila de pescadores, não </line>
+            <line> se sabe por qual motivo, não havia canção. </line>
+            <line> Nem vitrola, nem energia elétrica, </line>
+            <line> nem TV, nem celular, </line>
+            <line> nem cantiga com rima na métrica. </line>
+            <line> Somente o mar para escutar. </line>
+        </page>
+        <page id="p3" background-url="">
+            <line> O avô tivera um rádio, mas quebrou </line>
+            <line> no dia em que Marcelo nasceu. </line>
+            <line> O tio Hermeto “tirava onda”: </line>
+            <line> – A música está dentro do ouvido, lá no fundo. </line>
+            <line> No fundo, Marcelo desejava um piano. </line>
+            <line> Queria um som de verdade. Melodia! </line>
+        </page>
+        <page id="p4" background-url="">
+            <line> O professor Itamar perguntou: </line>
+            <line> – Você sabe o que é onda? Som é onda e onda é som. </line>
+            <line> E música é feita de som. Som é onda pelo ar! </line>
+            <line> Ondas atravessam nuvens brancas onde voam gaivotas pretas. </line>
+            <line> Então o mestre desenhou as ondas na areia: </line>
+            <line> – Som também pode ser imagem, som de ver, não de ouvir. </line>
+        </page>
+        <page id="p5" background-url="">
+            <line> Marcelo achou que aquilo era bom! Um bom tom. </line>
+            <line> Desenhou as notas musicais em uma partitura </line>
+            <line> e viu que era possível escrever no papel </line>
+            <line> o que seria a música. </line>
+        </page>
+        <page id="p6" background-url="">
+            <line> Alfabeto musical, </line>
+            <line> de bolinhas pretas no papel branco, </line>
+            <line> de notas na pauta. </line>
+        </page>
+        <page id="p7" background-url="">
+            <line> Foi assim que Marcelo decidiu ser um grande compositor. </line>
+            <line> Criaria músicas de ouvido e de coração, no papel e no piano, </line>
+            <line> com teclas pretas e brancas, lado a lado. </line>
+        </page>
+        <page id="p8" background-url="">
+            <line> Descobriu que o som voava. </line>
+        </page>
+        <page id="p9" background-url="">
+            <line> Métrica é o conjunto de regras que definem tamanho e ritmo dos versos
+            de um poema. </line>
+        </page>
+    </structure>
+    
+    <logic>
+    </logic>
+</mbook>
