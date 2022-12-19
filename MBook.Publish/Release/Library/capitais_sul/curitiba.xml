@@ -1,0 +1,35 @@
+<mbook id="histCuritiba" name="ROCK SONETO &amp; ROLL">
+    <structure>
+        <page id="p1" background-url="">
+            <line> Erick Hendrix é de Curitiba </line>
+            <line> Recebeu guitarra prateada </line>
+            <line> Trocou ideias com tio Kleiton </line>
+            <line> Uabapiluba uabembum-tutu </line>
+        </page>
+        <page id="p2" background-url="">
+            <line> Festival musical está no ar </line>
+            <line> Letras do Leminski pra arrasar </line>
+            <line> Estudar e ensaiar sem cessar </line>
+            <line> Uabapiluba uabembum-tutu </line>
+        </page>
+        <page id="p3" background-url="">
+            <line> Galera curtir, dançar e cantar </line>
+            <line> Banda mais bonita da cidade </line>
+            <line> Uabapiluba uabembum-tutu </line>
+        </page>
+        <page id="p4" background-url="">
+            <line> Tão bom tocar no planalto frio </line>
+            <line> Espero que todos se divirtam </line>
+            <line> Uabapiluba uabembum-tutu </line>
+        </page>
+        <page id="p5" background-url="">
+            <line> Uabapiluba uabembum-tutu é o modo como a autora, quando </line>
+            <line> era criança, escutava a música “Tutti Frutti”, de Little Richard. </line>
+            <line> Paulo Leminski (1944-1989) foi um escritor, poeta, </line>
+            <line> crítico literário, tradutor e professor nascido em Curitiba. </line>
+        </page>
+    </structure>
+    
+    <logic>
+    </logic>
+</mbook>

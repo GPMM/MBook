@@ -1,0 +1,806 @@
+C:\Users\Ellen\source\repos\mBook\mBook\bin\Debug\mBook.exe.config
+C:\Users\Ellen\source\repos\mBook\mBook\bin\Debug\mBook.exe
+C:\Users\Ellen\source\repos\mBook\mBook\bin\Debug\mBook.pdb
+C:\Users\Ellen\source\repos\mBook\mBook\obj\Debug\mBook.csprojAssemblyReference.cache
+C:\Users\Ellen\source\repos\mBook\mBook\obj\Debug\mBook.Properties.Resources.resources
+C:\Users\Ellen\source\repos\mBook\mBook\obj\Debug\mBook.csproj.GenerateResource.cache
+C:\Users\Ellen\source\repos\mBook\mBook\obj\Debug\mBook.csproj.CoreCompileInputs.cache
+C:\Users\Ellen\source\repos\mBook\mBook\obj\Debug\mBook.exe
+C:\Users\Ellen\source\repos\mBook\mBook\obj\Debug\mBook.pdb
+C:\Users\Ellen\source\repos\mBook\mBook\obj\Debug\mBook.FPage.resources
+C:\Users\Ellen\source\repos\mBook\mBook\obj\Debug\mBook.FBook.resources
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\Tobii.EyeX.Client.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\AnyCPU\Tobii.EyeX.Client.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\mBook.exe.config
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\mBook.exe
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\mBook.pdb
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\netstandard.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.AppContext.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.Collections.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.ComponentModel.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.Console.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.Data.Common.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.Globalization.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.IO.Compression.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.IO.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.IO.Pipes.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.Linq.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.Net.Http.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.Net.Ping.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.Net.Primitives.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.Net.Requests.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.Net.Security.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.Net.Sockets.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.ObjectModel.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.Reflection.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.Resources.Reader.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.Resources.Writer.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.Runtime.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.Security.Claims.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.Security.Principal.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.Security.SecureString.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.Text.Encoding.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.Threading.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.Threading.Thread.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.Threading.Timer.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.ValueTuple.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.Xml.XPath.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\EyeXFramework.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\Q42.HueApi.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\Rssdp.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\Tobii.EyeX.Client.Net20.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\Tobii.Interaction.Model.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\Tobii.Interaction.Net.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\Rssdp.xml
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\obj\Debug\mBook.exe.config
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\obj\Debug\mBook.csproj.ResolveComReference.cache
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\obj\Debug\mBook.FMain.resources
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\obj\Debug\mBook.FBook.resources
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\obj\Debug\mBook.FConfigBridge.resources
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\obj\Debug\mBook.Properties.Resources.resources
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\obj\Debug\mBook.FInterfaceSerial.resources
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\obj\Debug\mBook.csproj.GenerateResource.cache
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\obj\Debug\mBook.csproj.CoreCompileInputs.cache
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\obj\Debug\mBook.csproj.CopyComplete
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\obj\Debug\mBook.exe
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\obj\Debug\mBook.pdb
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\bin\Debug\CaptureManagerToCSharpProxy.dll
+C:\Users\Ellen\Documents\Projeto Dislexia\mBook\mBook\obj\Debug\mBook.csprojAssemblyReference.cache
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\Tobii.EyeX.Client.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\AnyCPU\Tobii.EyeX.Client.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\mBook.exe.config
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\mBook.exe
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\mBook.pdb
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\netstandard.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.AppContext.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.Collections.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.ComponentModel.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.Console.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.Data.Common.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.Globalization.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.IO.Compression.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.IO.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.IO.Pipes.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.Linq.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.Net.Http.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.Net.Ping.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.Net.Primitives.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.Net.Requests.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.Net.Security.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.Net.Sockets.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.ObjectModel.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.Reflection.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.Resources.Reader.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.Resources.Writer.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.Runtime.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.Security.Claims.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.Security.Principal.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.Security.SecureString.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.Text.Encoding.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.Threading.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.Threading.Thread.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.Threading.Timer.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.ValueTuple.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.Xml.XPath.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\CaptureManagerToCSharpProxy.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\EyeXFramework.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\Q42.HueApi.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\Rssdp.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\Tobii.EyeX.Client.Net20.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\Tobii.Interaction.Model.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\Tobii.Interaction.Net.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\bin\Debug\Rssdp.xml
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\obj\Debug\mBook.csprojAssemblyReference.cache
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\obj\Debug\mBook.exe.config
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\obj\Debug\mBook.csproj.ResolveComReference.cache
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\obj\Debug\mBook.FMain.resources
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\obj\Debug\mBook.FBook.resources
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\obj\Debug\mBook.FConfigBridge.resources
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\obj\Debug\mBook.Properties.Resources.resources
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\obj\Debug\mBook.FInterfaceSerial.resources
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\obj\Debug\mBook.csproj.GenerateResource.cache
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\obj\Debug\mBook.csproj.CoreCompileInputs.cache
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\obj\Debug\mBook.csproj.CopyComplete
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\obj\Debug\mBook.exe
+C:\Users\Ellen\Documents\Mestrado\mBook\mBook\obj\Debug\mBook.pdb
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\mBook.exe
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\mBook.pdb
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\EyeXFramework.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\Tobii.EyeX.Client.Net20.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\Tobii.EyeX.Client.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\AnyCPU\Tobii.EyeX.Client.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\mBook.exe.config
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\netstandard.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.AppContext.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.Collections.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.ComponentModel.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.Console.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.Data.Common.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.Globalization.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.IO.Compression.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.IO.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.IO.Pipes.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.Linq.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.Net.Http.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.Net.Ping.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.Net.Primitives.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.Net.Requests.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.Net.Security.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.Net.Sockets.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.ObjectModel.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.Reflection.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.Resources.Reader.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.Resources.Writer.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.Runtime.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.Security.Claims.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.Security.Principal.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.Security.SecureString.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.Text.Encoding.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.Threading.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.Threading.Thread.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.Threading.Timer.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.ValueTuple.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.Xml.XPath.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\CaptureManagerToCSharpProxy.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\Q42.HueApi.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\Rssdp.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\Tobii.Interaction.Model.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\Tobii.Interaction.Net.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\bin\Debug\Rssdp.xml
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\obj\Debug\mBook.exe.config
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\obj\Debug\mBook.csproj.ResolveComReference.cache
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\obj\Debug\mBook.FMain.resources
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\obj\Debug\mBook.FBook.resources
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\obj\Debug\mBook.FConfigBridge.resources
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\obj\Debug\mBook.Properties.Resources.resources
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\obj\Debug\mBook.FInterfaceSerial.resources
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\obj\Debug\mBook.csproj.GenerateResource.cache
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\obj\Debug\mBook.csproj.CoreCompileInputs.cache
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\obj\Debug\mBook.csproj.CopyComplete
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\obj\Debug\mBook.exe
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\obj\Debug\mBook.pdb
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\obj\Debug\mBook.csprojAssemblyReference.cache
+C:\Users\Ellen\Documents\Doutorado\MBook\mBook\mBook\obj\Debug\mBook.Books.FChapter.resources
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\Tobii.EyeX.Client.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\AnyCPU\Tobii.EyeX.Client.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\mBook.exe.config
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\mBook.exe
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\mBook.pdb
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\netstandard.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.AppContext.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Collections.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.ComponentModel.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Console.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Data.Common.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Globalization.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.IO.Compression.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.IO.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.IO.Pipes.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Linq.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Net.Http.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Net.Ping.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Net.Primitives.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Net.Requests.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Net.Security.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Net.Sockets.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.ObjectModel.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Reflection.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Resources.Reader.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Resources.Writer.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Runtime.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Security.Claims.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Security.Principal.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Security.SecureString.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Text.Encoding.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Threading.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Threading.Thread.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Threading.Timer.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.ValueTuple.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Xml.XPath.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\CaptureManagerToCSharpProxy.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\EyeXFramework.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\Q42.HueApi.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\Rssdp.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\Tobii.EyeX.Client.Net20.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\Tobii.Interaction.Model.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\Tobii.Interaction.Net.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\bin\Debug\Rssdp.xml
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\obj\Debug\mBook.csprojAssemblyReference.cache
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\obj\Debug\mBook.exe.config
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\obj\Debug\mBook.csproj.ResolveComReference.cache
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\obj\Debug\mBook.Books.FChapter.resources
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\obj\Debug\mBook.FMain.resources
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\obj\Debug\mBook.FBook.resources
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\obj\Debug\mBook.FConfigBridge.resources
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\obj\Debug\mBook.Properties.Resources.resources
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\obj\Debug\mBook.FInterfaceSerial.resources
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\obj\Debug\mBook.csproj.GenerateResource.cache
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\obj\Debug\mBook.csproj.CoreCompileInputs.cache
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\obj\Debug\mBook.csproj.CopyComplete
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\obj\Debug\mBook.exe
+C:\Users\Ellen\Documents\Doutorado\Aplicativo\mBook\mBook\obj\Debug\mBook.pdb
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\Tobii.EyeX.Client.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\AnyCPU\Tobii.EyeX.Client.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\mBook.exe.config
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\mBook.exe
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\mBook.pdb
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\netstandard.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.AppContext.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Collections.Concurrent.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Collections.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Collections.NonGeneric.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Collections.Specialized.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.ComponentModel.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Console.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Data.Common.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Diagnostics.Debug.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Diagnostics.Process.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Diagnostics.Tools.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Drawing.Primitives.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Dynamic.Runtime.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Globalization.Calendars.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Globalization.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Globalization.Extensions.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.IO.Compression.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.IO.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.IO.FileSystem.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.IO.Pipes.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Linq.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Linq.Expressions.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Linq.Parallel.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Linq.Queryable.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Net.Http.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Net.NameResolution.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Net.NetworkInformation.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Net.Ping.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Net.Primitives.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Net.Requests.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Net.Security.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Net.Sockets.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Net.WebSockets.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.ObjectModel.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Reflection.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Reflection.Extensions.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Reflection.Primitives.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Resources.Reader.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Resources.ResourceManager.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Resources.Writer.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Runtime.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Runtime.Extensions.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Runtime.Handles.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Runtime.InteropServices.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Runtime.Numerics.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Security.Claims.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Security.Principal.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Security.SecureString.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Text.Encoding.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Text.RegularExpressions.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Threading.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Threading.Overlapped.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Threading.Tasks.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Threading.Thread.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Threading.ThreadPool.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Threading.Timer.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.ValueTuple.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Xml.XDocument.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Xml.XmlDocument.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Xml.XPath.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\CaptureManagerToCSharpProxy.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\EyeXFramework.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\InTheHand.Net.Personal.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\Newtonsoft.Json.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\Q42.HueApi.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\Rssdp.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\Tobii.EyeX.Client.Net20.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\Tobii.Interaction.Model.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\Tobii.Interaction.Net.dll
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\InTheHand.Net.Personal.xml
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\Newtonsoft.Json.pdb
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\Newtonsoft.Json.xml
+D:\Doutorado\Aplicativo\mBook\mBook\bin\Debug\Rssdp.xml
+D:\Doutorado\Aplicativo\mBook\mBook\obj\Debug\mBook.exe.config
+D:\Doutorado\Aplicativo\mBook\mBook\obj\Debug\Interop.MediaPlayer.dll
+D:\Doutorado\Aplicativo\mBook\mBook\obj\Debug\mBook.csproj.ResolveComReference.cache
+D:\Doutorado\Aplicativo\mBook\mBook\obj\Debug\mBook.Books.FChapter.resources
+D:\Doutorado\Aplicativo\mBook\mBook\obj\Debug\mBook.FMain.resources
+D:\Doutorado\Aplicativo\mBook\mBook\obj\Debug\mBook.FBook.resources
+D:\Doutorado\Aplicativo\mBook\mBook\obj\Debug\mBook.FConfigBridge.resources
+D:\Doutorado\Aplicativo\mBook\mBook\obj\Debug\mBook.Properties.Resources.resources
+D:\Doutorado\Aplicativo\mBook\mBook\obj\Debug\mBook.FInterfaceSerial.resources
+D:\Doutorado\Aplicativo\mBook\mBook\obj\Debug\mBook.csproj.GenerateResource.cache
+D:\Doutorado\Aplicativo\mBook\mBook\obj\Debug\mBook.csproj.CoreCompileInputs.cache
+D:\Doutorado\Aplicativo\mBook\mBook\obj\Debug\mBook.csproj.CopyComplete
+D:\Doutorado\Aplicativo\mBook\mBook\obj\Debug\mBook.exe
+D:\Doutorado\Aplicativo\mBook\mBook\obj\Debug\mBook.pdb
+D:\Doutorado\Aplicativo\mBook\mBook\obj\Debug\mBook.csprojAssemblyReference.cache
+D:\MBOOK\mBook\bin\Debug\Tobii.EyeX.Client.dll
+D:\MBOOK\mBook\bin\Debug\AnyCPU\Tobii.EyeX.Client.dll
+D:\MBOOK\mBook\bin\Debug\mBook.exe.config
+D:\MBOOK\mBook\bin\Debug\mBook.exe
+D:\MBOOK\mBook\bin\Debug\mBook.pdb
+D:\MBOOK\mBook\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\MBOOK\mBook\bin\Debug\netstandard.dll
+D:\MBOOK\mBook\bin\Debug\System.AppContext.dll
+D:\MBOOK\mBook\bin\Debug\System.Collections.Concurrent.dll
+D:\MBOOK\mBook\bin\Debug\System.Collections.dll
+D:\MBOOK\mBook\bin\Debug\System.Collections.NonGeneric.dll
+D:\MBOOK\mBook\bin\Debug\System.Collections.Specialized.dll
+D:\MBOOK\mBook\bin\Debug\System.ComponentModel.dll
+D:\MBOOK\mBook\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\MBOOK\mBook\bin\Debug\System.ComponentModel.Primitives.dll
+D:\MBOOK\mBook\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\MBOOK\mBook\bin\Debug\System.Console.dll
+D:\MBOOK\mBook\bin\Debug\System.Data.Common.dll
+D:\MBOOK\mBook\bin\Debug\System.Diagnostics.Contracts.dll
+D:\MBOOK\mBook\bin\Debug\System.Diagnostics.Debug.dll
+D:\MBOOK\mBook\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\MBOOK\mBook\bin\Debug\System.Diagnostics.Process.dll
+D:\MBOOK\mBook\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\MBOOK\mBook\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\MBOOK\mBook\bin\Debug\System.Diagnostics.Tools.dll
+D:\MBOOK\mBook\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\MBOOK\mBook\bin\Debug\System.Diagnostics.Tracing.dll
+D:\MBOOK\mBook\bin\Debug\System.Drawing.Primitives.dll
+D:\MBOOK\mBook\bin\Debug\System.Dynamic.Runtime.dll
+D:\MBOOK\mBook\bin\Debug\System.Globalization.Calendars.dll
+D:\MBOOK\mBook\bin\Debug\System.Globalization.dll
+D:\MBOOK\mBook\bin\Debug\System.Globalization.Extensions.dll
+D:\MBOOK\mBook\bin\Debug\System.IO.Compression.dll
+D:\MBOOK\mBook\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\MBOOK\mBook\bin\Debug\System.IO.dll
+D:\MBOOK\mBook\bin\Debug\System.IO.FileSystem.dll
+D:\MBOOK\mBook\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\MBOOK\mBook\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\MBOOK\mBook\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\MBOOK\mBook\bin\Debug\System.IO.IsolatedStorage.dll
+D:\MBOOK\mBook\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\MBOOK\mBook\bin\Debug\System.IO.Pipes.dll
+D:\MBOOK\mBook\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\MBOOK\mBook\bin\Debug\System.Linq.dll
+D:\MBOOK\mBook\bin\Debug\System.Linq.Expressions.dll
+D:\MBOOK\mBook\bin\Debug\System.Linq.Parallel.dll
+D:\MBOOK\mBook\bin\Debug\System.Linq.Queryable.dll
+D:\MBOOK\mBook\bin\Debug\System.Net.Http.dll
+D:\MBOOK\mBook\bin\Debug\System.Net.NameResolution.dll
+D:\MBOOK\mBook\bin\Debug\System.Net.NetworkInformation.dll
+D:\MBOOK\mBook\bin\Debug\System.Net.Ping.dll
+D:\MBOOK\mBook\bin\Debug\System.Net.Primitives.dll
+D:\MBOOK\mBook\bin\Debug\System.Net.Requests.dll
+D:\MBOOK\mBook\bin\Debug\System.Net.Security.dll
+D:\MBOOK\mBook\bin\Debug\System.Net.Sockets.dll
+D:\MBOOK\mBook\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\MBOOK\mBook\bin\Debug\System.Net.WebSockets.Client.dll
+D:\MBOOK\mBook\bin\Debug\System.Net.WebSockets.dll
+D:\MBOOK\mBook\bin\Debug\System.ObjectModel.dll
+D:\MBOOK\mBook\bin\Debug\System.Reflection.dll
+D:\MBOOK\mBook\bin\Debug\System.Reflection.Extensions.dll
+D:\MBOOK\mBook\bin\Debug\System.Reflection.Primitives.dll
+D:\MBOOK\mBook\bin\Debug\System.Resources.Reader.dll
+D:\MBOOK\mBook\bin\Debug\System.Resources.ResourceManager.dll
+D:\MBOOK\mBook\bin\Debug\System.Resources.Writer.dll
+D:\MBOOK\mBook\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\MBOOK\mBook\bin\Debug\System.Runtime.dll
+D:\MBOOK\mBook\bin\Debug\System.Runtime.Extensions.dll
+D:\MBOOK\mBook\bin\Debug\System.Runtime.Handles.dll
+D:\MBOOK\mBook\bin\Debug\System.Runtime.InteropServices.dll
+D:\MBOOK\mBook\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\MBOOK\mBook\bin\Debug\System.Runtime.Numerics.dll
+D:\MBOOK\mBook\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\MBOOK\mBook\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\MBOOK\mBook\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\MBOOK\mBook\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\MBOOK\mBook\bin\Debug\System.Security.Claims.dll
+D:\MBOOK\mBook\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\MBOOK\mBook\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\MBOOK\mBook\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\MBOOK\mBook\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\MBOOK\mBook\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\MBOOK\mBook\bin\Debug\System.Security.Principal.dll
+D:\MBOOK\mBook\bin\Debug\System.Security.SecureString.dll
+D:\MBOOK\mBook\bin\Debug\System.Text.Encoding.dll
+D:\MBOOK\mBook\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\MBOOK\mBook\bin\Debug\System.Text.RegularExpressions.dll
+D:\MBOOK\mBook\bin\Debug\System.Threading.dll
+D:\MBOOK\mBook\bin\Debug\System.Threading.Overlapped.dll
+D:\MBOOK\mBook\bin\Debug\System.Threading.Tasks.dll
+D:\MBOOK\mBook\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\MBOOK\mBook\bin\Debug\System.Threading.Thread.dll
+D:\MBOOK\mBook\bin\Debug\System.Threading.ThreadPool.dll
+D:\MBOOK\mBook\bin\Debug\System.Threading.Timer.dll
+D:\MBOOK\mBook\bin\Debug\System.ValueTuple.dll
+D:\MBOOK\mBook\bin\Debug\System.Xml.ReaderWriter.dll
+D:\MBOOK\mBook\bin\Debug\System.Xml.XDocument.dll
+D:\MBOOK\mBook\bin\Debug\System.Xml.XmlDocument.dll
+D:\MBOOK\mBook\bin\Debug\System.Xml.XmlSerializer.dll
+D:\MBOOK\mBook\bin\Debug\System.Xml.XPath.dll
+D:\MBOOK\mBook\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\MBOOK\mBook\bin\Debug\CaptureManagerToCSharpProxy.dll
+D:\MBOOK\mBook\bin\Debug\EyeXFramework.dll
+D:\MBOOK\mBook\bin\Debug\InTheHand.Net.Personal.dll
+D:\MBOOK\mBook\bin\Debug\Newtonsoft.Json.dll
+D:\MBOOK\mBook\bin\Debug\Q42.HueApi.dll
+D:\MBOOK\mBook\bin\Debug\Rssdp.dll
+D:\MBOOK\mBook\bin\Debug\Tobii.EyeX.Client.Net20.dll
+D:\MBOOK\mBook\bin\Debug\Tobii.Interaction.Model.dll
+D:\MBOOK\mBook\bin\Debug\Tobii.Interaction.Net.dll
+D:\MBOOK\mBook\bin\Debug\InTheHand.Net.Personal.xml
+D:\MBOOK\mBook\bin\Debug\Newtonsoft.Json.pdb
+D:\MBOOK\mBook\bin\Debug\Newtonsoft.Json.xml
+D:\MBOOK\mBook\bin\Debug\Rssdp.xml
+D:\MBOOK\mBook\obj\Debug\mBook.csprojAssemblyReference.cache
+D:\MBOOK\mBook\obj\Debug\mBook.exe.config
+D:\MBOOK\mBook\obj\Debug\Interop.MediaPlayer.dll
+D:\MBOOK\mBook\obj\Debug\mBook.csproj.ResolveComReference.cache
+D:\MBOOK\mBook\obj\Debug\mBook.Books.FChapter.resources
+D:\MBOOK\mBook\obj\Debug\mBook.FMain.resources
+D:\MBOOK\mBook\obj\Debug\mBook.FBook.resources
+D:\MBOOK\mBook\obj\Debug\mBook.FConfigBridge.resources
+D:\MBOOK\mBook\obj\Debug\mBook.Properties.Resources.resources
+D:\MBOOK\mBook\obj\Debug\mBook.FInterfaceSerial.resources
+D:\MBOOK\mBook\obj\Debug\mBook.csproj.GenerateResource.cache
+D:\MBOOK\mBook\obj\Debug\mBook.csproj.CoreCompileInputs.cache
+D:\MBOOK\mBook\obj\Debug\mBook.csproj.CopyComplete
+D:\MBOOK\mBook\obj\Debug\mBook.exe
+D:\MBOOK\mBook\obj\Debug\mBook.pdb
+D:\PedroJr\GitHub\pedro.ideasfor@gmail.com\repo\MBook-master\mBook\obj\Debug\mBook.csproj.SuggestedBindingRedirects.cache
+D:\PedroJr\GitHub\pedro.ideasfor@gmail.com\repo\MBook-master\mBook\obj\Debug\mBook.exe.config
+D:\PedroJr\GitHub\pedro.ideasfor@gmail.com\repo\MBook-master\mBook\obj\Debug\Interop.MediaPlayer.dll
+D:\PedroJr\GitHub\pedro.ideasfor@gmail.com\repo\MBook-master\mBook\obj\Debug\mBook.csproj.ResolveComReference.cache
+D:\PedroJr\GitHub\pedro.ideasfor@gmail.com\repo\MBook-master\mBook\obj\Debug\mBook.Books.FChapter.resources
+D:\PedroJr\GitHub\pedro.ideasfor@gmail.com\repo\MBook-master\mBook\obj\Debug\mBook.FMain.resources
+D:\PedroJr\GitHub\pedro.ideasfor@gmail.com\repo\MBook-master\mBook\obj\Debug\mBook.FBook.resources
+D:\PedroJr\GitHub\pedro.ideasfor@gmail.com\repo\MBook-master\mBook\obj\Debug\mBook.FConfigBridge.resources
+D:\PedroJr\GitHub\pedro.ideasfor@gmail.com\repo\MBook-master\mBook\obj\Debug\mBook.FInterfaceSerial.resources
+D:\PedroJr\GitHub\pedro.ideasfor@gmail.com\repo\MBook-master\mBook\obj\Debug\mBook.csproj.GenerateResource.cache
+D:\PedroJr\GitHub\pedro.ideasfor@gmail.com\repo\MBook-master\mBook\obj\Debug\mBook.exe
+D:\PedroJr\GitHub\pedro.ideasfor@gmail.com\repo\MBook-master\mBook\obj\Debug\mBook.pdb
+D:\PedroJr\GitHub\pedro.ideasfor@gmail.com\repo\MBook-master\mBook\bin\Debug\Tobii.EyeX.Client.dll
+D:\PedroJr\GitHub\pedro.ideasfor@gmail.com\repo\MBook-master\mBook\bin\Debug\AnyCPU\Tobii.EyeX.Client.dll
+D:\PedroJr\GitHub\pedro.ideasfor@gmail.com\repo\MBook-master\mBook\bin\Debug\mBook.exe.config
+D:\PedroJr\GitHub\pedro.ideasfor@gmail.com\repo\MBook-master\mBook\bin\Debug\mBook.exe
+D:\PedroJr\GitHub\pedro.ideasfor@gmail.com\repo\MBook-master\mBook\bin\Debug\mBook.pdb
+D:\PedroJr\GitHub\pedro.ideasfor@gmail.com\repo\MBook-master\mBook\obj\Debug\mBook.Properties.Resources.resources
+D:\PedroJr\GitHub\pedro.ideasfor@gmail.com\repo\MBook-master\mBook\obj\Debug\mBook.csproj.CoreCompileInputs.cache
+D:\PedroJr\GitHub\pedro.ideasfor@gmail.com\repo\MBook-master\mBook\obj\Debug\mBook.csproj.CopyComplete
+D:\PedroJr\GitHub\pedro.ideasfor@gmail.com\repo\MBook-master\mBook\obj\Debug\mBook.Books.BookForm.resources
+D:\PedroJr\GitHub\pedro.ideasfor@gmail.com\repo\MBook-master\mBook\obj\Debug\mBook.csproj.AssemblyReference.cache
+D:\PedroJr\GitHub\pedro.ideasfor@gmail.com\repo\MBook-master\mBook\obj\Debug\mBook.Books.ChapterForm.resources

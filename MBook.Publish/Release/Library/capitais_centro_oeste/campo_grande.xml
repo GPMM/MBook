@@ -1,0 +1,43 @@
+<mbook id="histCampoGrande" name="PARA NOÊMIA">    
+    <structure>
+        <page id="p1" background-url="">
+            <line> Uma grande menina </line>
+            <line> Uma menina grande </line>
+            <line> De pernas enormes </line>
+            <line> De pernas pro ar </line>
+            <line> Gostava de ler </line>
+        </page>
+
+        <page id="p2" background-url="">
+            <line> Gostava de ser alta, de ler Auta de Souza</line>
+            <line> De ler Nina Rizzi, de ler Carolina de Jesus </line>
+            <line> De ler Conceição Evaristo, para ler, em Campo Grande: Hamurabi, Maciel e Daniel </line>
+        </page>
+
+        <page id="p3" background-url="">
+            <line> Os avós, de Aquidauana, os pais, de outro lugar </line>
+            <line> O país tão grande! 30 </line>
+            <line> Ela queria conhecer Bonito </line>
+            <line> mundo quer Bonito </line>
+            <line> Mais bonito é deixar viver </line>
+        </page>
+
+        <page id="p4" background-url="">
+            <line> Todo mundo quer viver </line>
+            <line> Todo mundo tatuado </line>
+            <line> Nem todo mundo </line>
+            <line> conhece Kadiwéu </line>
+            <line> A reserva parece grande. Continuará? </line>
+        </page>
+
+        <page id="p5" background-url="">
+            <line> Há esperança nas lendas </line>
+            <line> Há esperança nas letras </line>
+            <line> Ah, o povo brasileiro… </line>
+        </page>
+    </structure>
+    
+    <logic>
+        
+    </logic>
+</mbook>

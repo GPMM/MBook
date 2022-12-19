@@ -1,0 +1,56 @@
+<mbook id="histJoaoPessoa" name="PESSOAS">
+    <structure>
+        <page id="p1" background-url="">
+            <line> Chico é uma pessoinha </line>
+            <line> Epitácio é uma pessoa </line>
+            <line> Fernando Pessoa, poeta </line>
+            <line> João Pessoa foi uma pessoa </line>
+            <line> Pessoa de João Pessoa é pessoense </line>
+            <line> A pessoa é para o que nasce? </line>
+            <line> Ou a pessoa se torna aquilo que será? </line>
+            <line> O que será que Chico vai ser? </line>
+        </page>
+        <page id="p2" background-url="">
+            <line> Médico </line>
+            <line> Guardião de piscina </line>
+            <line> Cineasta </line>
+            <line> Operador de “pare e siga” </line>
+            <line> Datiloscopista </line>
+            <line> Produtor cultural </line>
+            <line> Tocador de ganzá em Campina Grande </line>
+            <line> Catador de recicláveis </line>
+            <line> Calibrador de pneus </line>
+            <line> Tradutor </line>
+            <line> Defensor de direitos humanos </line>
+        </page>
+        <page id="p3" background-url="">
+            <line> Palhaço </line>
+            <line> Bailarino </line>
+            <line> Dono de casa </line>
+            <line> Judoca </line>
+            <line> Jongueiro </line>
+            <line> Sapateiro </line>
+            <line> Pipoqueiro </line>
+            <line> Advogado </line>
+            <line> Colorista </line>
+            <line> Economista </line>
+            <line> Agricultor </line>
+        </page>
+        <page id="p4" background-url="">
+            <line> Quem ensina o agricultor a agricultar? </line>
+            <line> Quem ensina o médico a medicar? </line>
+            <line> Quem ensina o bailarino a bailar? </line>
+            <line> Tudo tem valor, mas talvez </line>
+            <line> a profissão mais importante do mundo </line>
+            <line> seja a de: </line>
+            <line> Professor </line>
+        </page>
+        <page id="p5" background-url="">
+            <line> O que será que Chico vai ser quando crescer? </line>
+            <line> – Adulto, ele disse. </line>
+        </page>
+    </structure>
+    
+    <logic>
+    </logic>
+</mbook>

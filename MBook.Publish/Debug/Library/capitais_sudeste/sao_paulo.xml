@@ -1,0 +1,71 @@
+<mbook id="histSaoPaulo" name="A PRINCESA FUTURISTA">
+    <structure>
+        <page id="p1" background-url="">
+            <line> Ana Clara vai fazer sete anos de idade, </line>
+            <line> mas não é do nosso tempo, diga-se a verdade. </line>
+        </page>
+        <page id="p2" background-url="">
+            <line> Mora numa cidade moderna, com prédios, </line>
+            <line> carros, motos, celulares e nada de tédio! </line>
+            <line> Ela é uma verdadeira princesa de tamanho médio </line>
+            <line> que não engole sapos! Vacina toma, que remédio? </line>
+        </page>
+        <page id="p3" background-url="">
+            <line> A menina tem paixão por tecnologia. </line>
+            <line> Gosta de jogos de computadores </line>
+            <line> e descobre a natureza nos sites de biologia. </line>
+            <line> Até já viu uma galinha ao vivo e em cores, </line>
+            <line> mas prefere uma codorna da alta gastronomia, </line>
+            <line> com temperos exóticos e elegantes odores. </line>
+        </page>
+        <page id="p4" background-url="">
+            <line> De sua torre, lá do alto de onde mora, </line>
+            <line> ela sonha com o futuro e como seria a vida lá fora. </line>
+            <line> A vista de cima do topo do mundo é bela, </line>
+            <line> mas o que Ana Clara queria mesmo era pisar na terra... </line>
+            <line> Sem grade de proteção, sem tela nem sapato de fivela. </line>
+            <line> A princesa quer ser livre, leve, solta! </line>
+            <line> Andar por aí sem escolta. </line>
+        </page>
+        <page id="p5" background-url="">
+            <line> Resolveu mandar uma mensagem secreta! </line>
+            <line> Mas, se não tinha garrafa com rolha, </line>
+            <line> como fazer para escapar da bolha? </line>
+            <line> – Já sei – disse a bela, sem tocar em coisa que espeta. </line>
+        </page>
+        <page id="p6" background-url="">
+            <line> – Vou mandar do meu tablet um chamado de urgência! </line>
+            <line> “De onde vier, venha logo, meu príncipe querido, </line>
+            <line> só não vale vir sem banho e com chulé fedido.” </line>
+        </page>
+        <page id="p7" background-url="">
+            <line> Seriam essas as palavras da alteza... </line>
+            <line> Ai, mas que sufoco, que tristeza: </line>
+            <line> a princesa não sabe a senha </line>
+            <line> nem conhece quem a tenha. </line>
+            <line> Não consegue destravar a tela </line>
+            <line> e nem adianta bater panela! </line>
+            <line> Não se sabe se por milagre ou micro-ondas, </line>
+            <line> de repente apareceu um gajo sem delongas. </line>
+            <line> E você pensa que o príncipe chegou num cavalo alado? </line>
+            <line> De jeito nenhum. Veio pilotando um helicóptero prateado. </line>
+            <line> Num pulo, Ana Clara entrou na aeronave </line>
+            <line> e saiu voando mais rápido que qualquer ave. </line>
+        </page>
+        <page id="p8" background-url="">
+            <line> – Vamos, minha querida, </line>
+            <line> agora sim você vai viver a vida. </line>
+            <line> (E voaram felizes para sempre.) </line>
+        </page>
+        <page id="p9" background-url="">
+            <line> Gastronomia é o estudo da arte culinária; </line>
+            <line> prática de apreciar boa comida. </line>
+            <line> Tablet é um computador portátil, pequeno, fino </line>
+            <line> e com tela sensível ao toque dos dedos. </line>
+            <line> Gajo é um rapaz qualquer. </line>
+        </page>
+    </structure>
+    
+    <logic>
+    </logic>
+</mbook>

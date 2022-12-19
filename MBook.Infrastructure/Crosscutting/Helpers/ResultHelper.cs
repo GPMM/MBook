@@ -1,0 +1,37 @@
+﻿using Newtonsoft.Json;
+
+namespace MBook.Infrastructure.Crosscutting.Helpers
+{
+
+    public partial class ResultHelper
+        {
+            [JsonProperty("success")]
+            public Success Success { get; set; }
+        }
+
+        public partial class Success
+        {
+            [JsonProperty("username")]
+            public string Username { get; set; }
+        }
+
+        public partial class ResultHelper
+        {
+            public static ResultHelper[] FromJson(string json) => JsonConvert.DeserializeObject<ResultHelper[]>(json, Converter.Settings);
+        }
+
+        public static class Serialize
+        {
+            public static string ToJson(this ResultHelper[] self) => JsonConvert.SerializeObject(self, Converter.Settings);
+        }
+
+        public class Converter
+        {
+            public static readonly JsonSerializerSettings Settings = new JsonSerializerSettings
+            {
+                MetadataPropertyHandling = MetadataPropertyHandling.Ignore,
+                DateParseHandling = DateParseHandling.None,
+            };
+        }
+    
+}

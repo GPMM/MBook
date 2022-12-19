@@ -1,0 +1,87 @@
+<mbook id="histSalvador" name="LIA SORRIA">
+    <structure>
+        <page id="p1" background-url="">
+            <line> Era assim todo dia: </line>
+            <line> O pai pegava a bicicleta e Lia subia. </line>
+            <line> Botavam o capacete, davam tchau pra Bia </line>
+            <line> e chegavam à escola, pontualmente, ao meio-dia. </line>
+        </page>
+        <page id="p2" background-url="">
+            <line> Os dias passando, </line>
+            <line> o tempo voando </line>
+            <line> e tudo mudando. </line>
+            <line> O cabelo crescia, </line>
+            <line> o dente de leite caía dentro da pia </line>
+            <line> para dar espaço ao novo dente que nascia. </line>
+        </page>
+        <page id="p3" background-url="">
+            <line> Lia se tornava cada vez mais bela, </line>
+            <line> mesmo sem um postigo naquela janela, </line>
+            <line> quando sorria com a boca banguela. </line>
+            <line> Curiosidade e tamanho que não paravam de crescer, </line>
+            <line> a moça se interessava por tudo e queria saber: </line>
+        </page>
+        <page id="p4" background-url="">
+            <line> – Como se aprende a desenhar? </line>
+            <line> – Azul ou verde? Afinal, qual é a cor do mar? </line>
+            <line> – Se eu deixar a torneira aberta, a água vai mesmo </line>
+            <line> acabar? </line>
+            <line> – Como é que consegue voar um objeto </line>
+            <line> mais pesado que o ar? </line>
+        </page>
+        <page id="p5" background-url="">
+            <line> Eram essas as conversas </line>
+            <line> que pai e filha tinham sobre a bicicleta. </line>
+            <line> Pareciam voar em tapete persa, </line>
+            <line> dando asas à imaginação da menina esperta. </line>
+            <line> Os dias também voaram tão depressa </line>
+            <line> que, quando viram, tinha passado </line>
+            <line> tempo à beça! </line>
+        </page>
+        <page id="p6" background-url="">
+            <line> Hora de mudar de escola, </line>
+            <line> não mais pedalar na orla </line>
+            <line> e sim subir a montanha </line>
+            <line> sem fazer qualquer manha. </line>
+        </page>
+        <page id="p7" background-url="">
+            <line> Pedala, pedala e nunca que chega. </line>
+            <line> Tem ladeira gigante, cheia de pedra, </line>
+            <line> com nome enorme que não rima com nada: </line>
+            <line> paralelepípedo! </line>
+        </page>
+        <page id="p8" background-url="">
+            <line> Queria ir mais rápido, de alto a baixo. </line>
+            <line> Tomar sorvete na Ribeira e num salto </line>
+            <line> voar sobre o Lacerda sem bulir com despacho. </line>
+        </page>
+        <page id="p9" background-url="">
+            <line> Foi quando Lia se lembrou de uma foto, </line>
+            <line> com um rapaz magrinho de chapéu, </line>
+            <line> que não pilotava avião nem moto, </line>
+            <line> só uma bicicleta que chegava ao céu! </line>
+        </page>
+        <page id="p10" background-url="">
+            <line> A menina ficou tão feliz </line>
+            <line> quando descobriu que era fácil </line>
+            <line> fazer seu próprio 14-bis... </line>
+        </page>
+        <page id="p11" background-url="">
+            <line> Juntou latinha de alumínio, </line>
+            <line> garrafa PET </line>
+            <line> e, costurando com fascínio, </line>
+            <line> batizou seu invento de “Ivete”. </line>
+        </page>
+        <page id="p12" background-url="">
+            <line> Agora Lia vai do Candeal ao Farol, </line>
+            <line> do Abaeté à casa de Carol. </line>
+            <line> Com o pai na garupa pedalando juntinho, </line>
+            <line> eles chegam a qualquer lugar, </line>
+            <line> bem ligeirinho. </line>
+        </page>
+    </structure>
+    
+    <logic>
+    </logic>
+</mbook>
+

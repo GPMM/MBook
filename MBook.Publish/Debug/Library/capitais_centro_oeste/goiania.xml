@@ -1,0 +1,45 @@
+<mbook id="histGoiania" name="WÂNIA VÊ GOIÂNIA">
+    <structure>
+        <page id="p1" background-url="">
+            <line> Wânia é tímida </line>
+            <line> Goiânia é mágica </line>
+            <line> Césio fatídico </line>
+            <line> Experiência química trágica </line>
+        </page>
+
+        <page id="p2" background-url="">
+            <line> Árvores são indispensáveis </line>
+            <line> Rúcula orgânica </line>
+            <line> Agrotóxico não! </line>
+        </page>
+
+        <page id="p3" background-url="">
+            <line> Wânia está animadíssima </line>
+            <line> Goiânia está quentíssima </line>
+            <line> Verão ímpar </line>
+        </page>
+
+        <page id="p4" background-url="">
+            <line> Guzerá zebuíno </line>
+            <line> Rústico, fértil </line>
+            <line> Frigoríficos </line>
+            <line> Agropecuária </line>
+        </page>
+
+        <page id="p5" background-url="">
+            <line> Wânia será catedrática </line>
+            <line> Goiânia será eletrônica </line>
+            <line> Física quântica, matemática, inglês </line>
+            <line> chinês, agronegócios </line>
+        </page>
+
+        <page id="p6" background-url="">
+            <line> Wânia pragmática </line>
+            <line> Goiânia enigmática </line>
+            <line> Ipê-lilás, Pólen, Zangões, Matéria, Alienígena </line>
+        </page>
+    </structure>
+    <logic>
+        
+    </logic>
+</mbook>

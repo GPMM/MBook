@@ -1,0 +1,84 @@
+<mbook id="histBeloHorizonte" name="UM BELO HORIZONTE">
+    <structure>
+        <page id="p1" background-url="">
+            <line> Hugo e Verinha nasceram no mesmo dia, </line>
+            <line> às onze horas da manhã, quando o sol ardia. </line>
+            <line> Desde a maternidade começaram a se reparar </line>
+            <line> e prometeram que na maturidade </line>
+            <line> acabariam por namorar. </line>
+        </page>
+        <page id="p2" background-url="">
+            <line> Estudariam juntos </line>
+            <line> e trabalhariam juntos </line>
+            <line> e no casamento tocariam dois conjuntos </line>
+            <line> e teriam filhos... quando estivessem prontos. </line>
+        </page>
+        <page id="p3" background-url="">
+            <line> Verinha era sincera </line>
+            <line> e gostava das pessoas à vera. </line>
+            <line> Hugo tinha vocação para brilhar </line>
+            <line> e achava pepitas como bolas de bilhar. </line>
+            <line> Ambos tinham o sonho de voar. </line>
+        </page>
+        <page id="p4" background-url="">
+            <line> E, sonhando, Hugo teve uma visão de amor: </line>
+            <line> os dois abraçados sobre um tapete voador. </line>
+            <line> – Verinha, vamos costurar pedaços de tecidos? </line>
+            <line> – Tenho vários! De cores e padrões sortidos. </line>
+        </page>
+        <page id="p5" background-url="">
+            <line> É que Verinha tinha um segredim: </line>
+            <line> uma agulha mágica minúscula </line>
+            <line> feita de casca de amendoim </line>
+            <line> encontrada sobre uma báscula </line>
+            <line> que media o peso dela e de uma pena </line>
+            <line> no meio da feira da Afonso Pena. </line>
+        </page>
+        <page id="p6" background-url="">
+            <line> E qual linha serviria para arrematar a tapeçaria? </line>
+        </page>
+        <page id="p7" background-url="">
+            <line> Isso era com Hugo, que tinha o dom divino </line>
+            <line> de achar pedras tão grandes que espantavam até girino. </line>
+            <line> Seu ouro era mais valioso até que os de Sabará </line>
+            <line> onde a balança favorecia o dono (pra mais um caraminguá). </line>
+        </page>
+        <page id="p8" background-url="">
+            <line> Juntando o poder de um com o talento do outro </line>
+            <line> juntos fizeram o tapete todo bordado com fios de ouro. </line>
+            <line> Que sorte haver tantas minas de ouro, prata e bronze! </line>
+            <line> E o tapete pesado virava pluma quando o relógio batia as onze. </line>
+        </page>
+        <page id="p9" background-url="">
+            <line> Amizade maior que a de Riobaldo e Diadorim </line>
+            <line> Hugo e Verinha voavam o dia inteirim </line>
+            <line> da Serra Verde às mangabeiras do jardim </line>
+            <line> fingindo que eram Jasmine e Aladdin. </line>
+            <line> Juntos poderiam fazer de um tudo, </line>
+            <line> até construir casas, parques, lagoas! </line>
+        </page>
+        <page id="p10"background-url="">
+            <line> – E lagoa se constrói? </line>
+            <line> – Uai, claro que sim! A Pampulha foi assim. </line>
+        </page>
+        <page id="p11" background-url="">
+            <line> Juntos poderiam fazer de um tudo, </line>
+            <line> até contar aos netos toda a sua história </line>
+            <line> com delicioso final sabor de vitória. </line>
+        </page>
+        <page id="p12" background-url="">
+            <line> À vera quer dizer de verdade. </line>
+            <line> Bilhar é jogo de sinuca. </line>
+            <line> Báscula é um tipo de balança. </line>
+            <line> Caraminguá é dinheirinho, </line>
+            <line> coisa de pouco valor. </line>
+            <line> Riobaldo e Diadorim </line>
+            <line> são personagens do livro </line>
+            <line> Grande Sertão: Veredas, de João </line>
+            <line> Guimarães Rosa (1908-1967). </line>
+        </page>
+    </structure>
+    
+    <logic>
+    </logic>
+</mbook>

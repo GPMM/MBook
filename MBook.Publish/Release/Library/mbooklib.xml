@@ -1,0 +1,51 @@
+<mbook-lib>
+    <book id="capitais_norte" title="Um voo sobre as capitais brasileiras: Região Norte" author="Gisela de Castro" illustrator="Hadna Abreu" publisher="Zucca Books" edition="1" isbn="9786580952007" language="Português" cover-url="capitais_norte/cover.png" description="Você já pensou quanto tempo levaria para percorrer o Norte, a maior das regiões brasileiras, e suas sete capitais? Nas asas da poesia, vai levar só um piscar de olhos. Flores e árvores amazônicas, bibliotecas e xamãs, praias de rio e vaga-lumes, poesia e carimbó – tem tudo isso nesta viagem. E para embarcar só é preciso virar as páginas do livro...">
+        <chapter id="histBoaVista" name="Querubim do Caburai (Boa Vista - RR)" src="capitais_norte/boa_vista.xml"/>
+        <chapter id="histMacapa" name="Um GIF em Macapá (Amapá - AP)" src="capitais_norte/macapa.xml"/>
+        <chapter id="histManaus" name="Yvina e o Avô Voador (Manaus - AM)" src="capitais_norte/manaus.xml"/>
+        <chapter id="histBelem" name="Quem quer ser? (Belém - PA)" src="capitais_norte/belem.xml"/>
+        <chapter id="histRioBranco" name="A Biblioteca Secreta (Rio Branco - AC)" src="capitais_norte/rio_branco.xml"/>
+        <chapter id="histPortoVelho" name="Xisto, o Xamâ (Porto Velho - RO)" src="capitais_norte/porto_velho.xml"/>
+        <chapter id="histPalmas" name="É Preciso fazer um Poema sobre Palmas (Palmas - TO)" src="capitais_norte/palmas.xml"/>
+    </book>
+    
+
+    <book id="capitais_nordeste" title="Um voo sobre as capitais brasileiras: Região Nordeste" author="Gisela de Castro" illustrator="Jefferson Batista" publisher="Zucca Books" edition="1" isbn="9786580952007" language="Português" cover-url="capitais_nordeste/cover.png" description="Já pensou em curtir o Carnaval em Natal? Ou conhecer Zora, a rainha do Ceará, e Chico, o sonhador de João Pessoa? E o curió de Fábio, de Maceió? Que tal medir que tamanho tem Aracaju? Ou andar de bicicleta em Salvador? Ou ir ao circo em São Luís? Ver o encontro dos rios Parnaíba com Poti em Teresina? E comer doce de leite à margem do Capibaribe em Recife? Basta abrir este livro e se entregar à imaginação.">
+        <chapter id="histSaoLuis" name="Um Causo de Circo (São Luís - MA)" src="capitais_nordeste/sao_luis.xml"/>
+        <chapter id="histTeresina" name="Aldravipeia Piauiense (Teresina - PI)" src="capitais_nordeste/teresina.xml"/>
+        <chapter id="histFortaleza" name="Zora e as Ventarolas (Fortaleza - CE)" src="capitais_nordeste/fortaleza.xml"/>
+        <chapter id="histNatal" name="Carnaval em Natal é Sensacional (Natal - RN)" src="capitais_nordeste/natal.xml"/>
+        <chapter id="histJoaoPessoa" name="Pessoas (João Pessoa - PB)" src="capitais_nordeste/joao_pessoa.xml"/>
+        <chapter id="histRecife" name="Dois Dudas (Recife - PE)" src="capitais_nordeste/recife.xml"/>
+        <chapter id="histMaceio" name="Retalhos (Maceió - AL)" src="capitais_nordeste/maceio.xml"/>
+        <chapter id="histAracaju" name="Aracaju-se (Aracaju - SE)" src="capitais_nordeste/aracaju.xml"/>
+        <chapter id="histSalvador" name="Lia Sorria (Salvador - BA)" src="capitais_nordeste/salvador.xml"/>
+    </book>
+    
+
+    <book id="capitais_centro_oeste" title="Um voo sobre as capitais brasileiras: Região Centro-Oeste" author="Gisela de Castro" illustrator="Felipe Cavalcante" publisher="Zucca Books" edition="1" isbn="9786580952007" language="Português" cover-url="capitais_centro_oeste/cover.png" description="Um livro pode ser um grande companheiro. Este que você tem em mãos é daqueles amigos que trazem consigo uma turma inteira. Você vai conhecer o desenhista Roger, que nasceu em Brasília, no coração do Brasil; a animadíssima Wânia, que mora na quentíssima Goiânia; a cuiabana Reca, que faz música com o alemão Otto; e Noêmia, uma menina de Campo Grande apaixonada por livros, como você.">
+        <chapter id="histBrasilia" name="As cores de Roger (Brasília - DF)" src="capitais_centro_oeste/brasilia.xml"/>
+        <chapter id="histGoiania" name="Wânia vê Goiânia (Goiânia - GO)" src="capitais_centro_oeste/goiania.xml"/>
+        <chapter id="histCuiaba" name="Leitmotiv Cuiabano (Cuiabá - MT)" src="capitais_centro_oeste/cuiaba.xml"/>
+        <chapter id="histCampoGrande" name="Para Noêmia (Campo Grande - MS)" src="capitais_centro_oeste/campo_grande.xml"/>
+    </book>
+    
+
+    <book id="capitais_sudeste" title="Um voo sobre as capitais brasileiras: Região Sudeste" author="Gisela de Castro" illustrator="Julia Contreiras" publisher="Zucca Books" edition="1" isbn="9786580952007" language="Português" cover-url="capitais_sudeste/cover.png" description="Verinha e Hugo têm um segredim: nada segura a imaginação da dupla nas tardes de Belo Horizonte. Em Vitória, Marcelo compõe músicas com as ondas do mar. Lara voa de asa-delta pelo Rio de Janeiro. Ana Clara, princesa futurista, surfa por São Paulo em asas tecnológicas. E você é o convidado dessas aventuras por avenidas paulistas, montanhas mineiras, praias capixabas e ares cariocas.">
+        <chapter id="histBeloHorizonte" name="Um Belo Horizonte (Belo Horizonte - MG)" src="capitais_sudeste/belo_horizonte.xml"/>
+        <chapter id="histVitoria" name="Ondas (Vitória - ES)" src="capitais_sudeste/vitoria.xml"/>
+        <chapter id="histRiodeJaneiro" name="Asa, para que te Quero! (Rio de Janeiro - RJ)" src="capitais_sudeste/rio_de_janeiro.xml"/>
+        <chapter id="histSaoPaulo" name="A Princesa Futurista (São Paulo - SP)" src="capitais_sudeste/sao_paulo.xml"/>
+    </book>
+    
+
+    <book id="capitais_sul" title="Um voo sobre as capitais brasileiras: Região Sul" author="Gisela de Castro" illustrator="Carla Pilla" publisher="Zucca Books" edition="1" isbn="9786580952007" language="Português" cover-url="capitais_sul/cover.png" description="Guias especiais vão nos mostrar um pouquinho das capitais do Sul do Brasil: Erick, o roqueiro mais quente de Curitiba; a ruiva Ieda, de Florianópolis; e Betina, Bia e Carina, as sonhadoras irmãs de Porto Alegre. Aposto que você vai curtir a companhia!">
+        <chapter id="histCuritiba" name="Rock Soneto &amp; Roll (Curitiba - PR)" src="capitais_sul/curitiba.xml"/>
+        <chapter id="histFlorianopolis" name="Cantiga para Ieda (Florianópolis - SC)" src="capitais_sul/florianopolis.xml"/>
+        <chapter id="histPortoAlegre" name="As Três Irmãs (Porto Alegre - RS)" src="capitais_sul/porto_alegre.xml"/>
+    </book>
+    
+    
+    <book id="maria_flor" title="Maria Flor" author="Ana Leticia Leal" illustrator="Camila Carrossine" publisher="Escrita Fina" edition="1" isbn="9788563877130" language="Português" cover-url="maria_flor/cover.png" src="maria_flor/maria_flor.xml" description="">
+    </book>
+</mbook-lib>

@@ -1,0 +1,54 @@
+<mbook id="histAracaju" name="ARACAJU – SE">
+    <structure>
+        <page id="p1" background-url="">
+            <line> Quando criança, </line>
+            <line> Patrícia leu a placa </line>
+            <line> “ARACAJU-SE” </line>
+            <line> e pensou: </line>
+        </page>
+        <page id="p2" background-url="">
+            <line> Aracaju-me </line>
+            <line> Aracaju-te </line>
+            <line> Aracaju-se </line>
+            <line> Aracaju-nos </line>
+            <line> Aracaju-vos </line>
+            <line> Aracaju-se </line>
+        </page>
+        <page id="p3" background-url="">
+            <line> Patrícia dizia: </line>
+            <line> sei ler, mas não sei contar... </line>
+            <line> querem me tentar subtrair...* </line>
+        </page>
+        <page id="p4" background-url="">
+            <line> Então, para aprender melhor os números, </line>
+            <line> foi ter aulas de matemática com o professor. </line>
+            <line> Logo foi inventando seu inventário particular: </line>
+        </page>
+        <page id="p5" background-url="">
+            <line> bonecas rabiscadas com caneta bic = 7 </line>
+            <line> brinquedos perdidos = 2 </line>
+            <line> dentes de leite caídos = 9 </line>
+            <line> dentes de leite engolidos = 1 </line>
+            <line> joelhos ralados = 17 </line>
+            <line> calcinhas furadas = 2 </line>
+        </page>
+        <page id="p6" background-url="">
+            <line> siris = 3 dúzias </line>
+            <line> piolhos = 23 (mas só por 24 horas) </line>
+            <line> polainas = 6 pares </line>
+            <line> dinheiro pra comprar sapato novo = 0 </line>
+            <line> sutiã de bojo = ½ </line>
+            <line> cajueiro de araras = 4 </line>
+        </page>
+        <page id="p7" background-url="">
+            <line> chinelo = 1 (que não serve pra correr) </line>
+            <line> sol do sertão = 365 </line>
+            <line> badulaques = 7.532 </line>
+            <line> bandeira de arco-íris = 1 </line>
+            <line> área total = quase 22 mil km2 </line> 
+        </page>
+    </structure>
+    
+    <logic>
+    </logic>
+</mbook>

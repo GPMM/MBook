@@ -1,0 +1,64 @@
+<mbook id="histBrasilia" name="AS CORES DE ROGER">
+    <structure>
+        <page id="p1" background-url="">
+            <line>Roger nasceu no coração do Brasil.</line>
+            <line> Nasceu em uma cidade bebê. </line>
+            <line> Não, bebê não, </line>
+            <line> uma cidade criança de 5 anos </line>
+        </page>
+
+        <page id="p2" background-url="">
+            <line> pensada e projetada </line>
+            <line> na época da tinta azul das canetas. </line>
+            <line> No tempo em que se escrevia à mão, </line>
+            <line> quando o índigo manchava o branco. </line>
+        </page>
+
+        <page id="p3" background-url="">
+            <line> Linha reta e linha curva, </line>
+            <line> linhas e entrelinhas, </line>
+            <line> traços do arquiteto. </line>
+        </page>
+
+        <page id="p4" background-url="">
+            <line> Roger queria fazer a cidade decolar. </line>
+            <line> Nave espacial no Planalto Central. </line>
+            <line> Riscos e rabiscos de criança. </line>
+        </page>
+
+        <page id="p5" background-url=""> 
+            <line> O nome de seu escudo era liberdade. </line>
+            <line> Escudo-livro mais poderoso do universo. </line>
+        </page>
+
+        <page id="p6" background-url="">
+            <line> (Livros são realmente poderosos e houve um tempo em </line>
+            <line> que pessoas podiam desaparecer como truque de mágica </line>
+            <line> só porque carregavam um livro debaixo do braço.) </line>
+        </page>
+
+        <page id="p7" background-url="">
+            <line> Roger lendo no silêncio, </line>
+            <line> escondidinho embaixo do cobertor.</line>
+            <line> Aonde um traço pode nos levar? À China? </line>
+            <line> Qual caminho, rota, mapa? </line>
+        </page>
+
+        <page id="p8" background-url="">
+            <line> Roger divagava entre a imagem e a palavra,</line>
+            <line> entre amarelos e ipês-amarelos </line>
+            <line> Viva a liberdade onde os amarelos são luminosos! </line>
+            <line> Viva a caliandra quando brota vermelha </line>
+        </page>
+
+        <page id="p9" background-url="">
+            <line> entre pedras e capim seco! </line>
+            <line> Sangue do cerrado quando vem à tona em </line>
+            <line> forma de flor, forte e delicada. </line>
+        </page>
+    </structure>
+    
+    <logic>
+        
+    </logic>
+</mbook>

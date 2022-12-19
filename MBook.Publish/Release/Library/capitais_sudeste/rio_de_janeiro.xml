@@ -1,0 +1,85 @@
+<mbook id="histRiodeJaneiro" name="ASA, PARA QUE TE QUERO!">
+    <structure>
+        <page id="p1" background-url="">
+            <line> Lara é uma menina linda, </line>
+            <line> verdadeiro xodó da sua tia dinda. </line>
+            <line> Tem cabelos castanhos cacheados </line>
+            <line> e olhos pretos amendoados. </line>
+        </page>
+        <page id="p2" background-url="">
+            <line> Ela mora numa cidade maravilhosa: </line>
+            <line> tem belezas naturais e muita bossa. </line>
+            <line> Seu quarto fica no segundo andar </line>
+            <line> e de sua janela vê a montanha e o mar. </line>
+        </page>
+        <page id="p3" background-url="">
+            <line> Vê os vizinhos, </line>
+            <line> as árvores, </line>
+            <line> os pássaros </line>
+            <line> e seus ninhos. </line>
+            <line> Olhando para o céu, </line>
+            <line> viu uma estrela muito alva, </line>
+            <line> que logo reconheceu </line>
+            <line> e chamou de Estrela D’Alva. </line>
+        </page>
+        <page id="p4" background-url="">
+            <line> Disse quase num solfejo: </line>
+            <line> “Primeira estrela que eu vejo, </line>
+            <line> realiza o meu desejo! </line>
+            <line> Quero ter coragem </line>
+            <line> e voar de asa-delta, </line>
+            <line> para fazer uma rápida viagem, </line>
+            <line> tal qual uma borboleta esbelta.” </line>
+            <line> E desejou uma asa-delta vermelha e preta! </line>
+        </page>
+        <page id="p5" background-url="">
+            <line> Por que delta? </line>
+            <line> Por que vermelha? </line>
+            <line> Por que preta? </line>
+        </page>
+        <page id="p6" background-url="">
+            <line> Delta para não ter barulho, </line>
+            <line> deslizar sobre o mar, </line>
+            <line> até dar um mergulho. </line>
+            <line> Vermelha, porque é cor bonita, </line>
+            <line> de menina que enfeita o cabelo </line>
+            <line> com laço de fita. </line>
+            <line> Preta para imitar a graúna </line>
+            <line> e voar até a Pavuna, </line>
+            <line> onde tem um samba </line>
+            <line> “que só dá gente reiuna”. </line>
+        </page>
+        <page id="p7" background-url="">
+            <line> A asa do seu primo Guilherme </line>
+            <line> poderia ser de um tom alaranjado </line>
+            <line> que é cor boa para menino levado. </line>
+        </page>
+        <page id="p8" background-url="">
+            <line> E não é que ela conseguiu? </line>
+            <line> Mesmo com a mãe muito aflita, </line>
+            <line> juntou tostões como nunca se viu! </line>
+            <line> Comprou sua asa e voou expedita. </line>
+        </page>
+        <page id="p9" background-url="">
+            <line> Quando as pessoas olham pro céu, </line>
+            <line> pensam que é uma pipa. </line>
+            <line> Mas que nada! </line>
+            <line> É a Lara feliz da vida... </line>
+        </page>
+        <page id="p10" background-url="">
+            <line> E lá do alto ela solta um berro: </line>
+            <line> – Asa, para que te quero! </line>
+        </page>
+        <page id="p11" background-url="">
+            <line> Alva significa branca, clara, e a Estrela D’Alva é na verdade o planeta Vênus. </line>
+            <line> Solfejo é exercício para aprender a cantar. </line>
+            <line> Esbelta é elegante, graciosa, esguia. </line>
+            <line> Reiuna é um tipo de calçado, mas no samba </line>
+            <line> “Na Pavuna”, de 1929, dos compositores Almirante </line>
+            <line> e Dornellas, quer dizer gente séria, respeitável. </line>
+        </page>
+    </structure>
+    
+    <logic>
+    </logic>
+</mbook>

@@ -1,0 +1,49 @@
+<mbook id="histManaus" name="YVINA E O AVÔ VOADOR">
+    <structure>
+        <page id="p1" background-url="">
+            <line> Será que vais? </line>
+            <line> Será que vais até a chuva? </line>
+            <line> A menina e o tempo </line>
+            <line> O passado </line>
+            <line> com seu avô </line>
+            <line> O futuro </line>
+            <line> com quem fez as pazes </line>
+        </page>
+        <page id="p2" background-url="">
+            <line> O avô voa nas asas do tempo </line>
+            <line> Do tempo dos pássaros </line>
+            <line> Dos balões </line>
+            <line> Das bicicletas </line>
+            <line> Dos cavalos alados </line>
+            <line> Da barba por fazer </line>
+        </page>
+        <page id="p3" background-url="">
+            <line> A menina das flores </line>
+            <line> Das cores </line>
+            <line> Das borboletas </line>
+            <line> Das espátulas </line>
+            <line> Das palhetas </line>
+            <line> Das bromélias </line>
+        </page>
+        <page id="p4" background-url="">
+            <line> Ele, graveto com nariz de aletas largas </line>
+            <line> Espinho de árvore nadando no ar </line>
+            <line> Ela, capa e espada corajosa </line>
+            <line> Andando de skate em 2019 </line>
+        </page>
+        <page id="p5" background-url="">
+            <line> A menina e seu avô magricela </line>
+            <line> Silêncio </line>
+            <line> Os dois dormem no ninho </line>
+            <line> Na paz </line>
+        </page>
+        <page id="p6" background-url="">
+            <line> Será que vais? </line>
+            <line> Será que vais de Manaus até a Venezuela em </line>
+            <line> bicicletas presas em balões? </line>
+            <line> Aleta é cada uma das duas asas do nariz. </line>
+        </page>	
+    </structure>
+    <logic>
+    </logic>
+</mbook>

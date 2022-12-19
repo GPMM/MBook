@@ -1,0 +1,64 @@
+<mbook id="histRioBranco" name="XISTO, O XAMÃ">
+    <structure>
+        <page id="p1" background-url="">
+            <line> Depois do quinto filho, em uma família xamã </line>
+            <line> chamavam a criança, se fosse menino, de Xisto </line>
+            <line> nome que podia significar polido, educado ou sexto </line>
+            <line> Naquele lar em Porto Velho </line>
+            <line> casa colada ao rio Madeira </line>
+            <line> nasceram cinco meninas e na “raspa do tacho” um menino </line>
+        </page>
+        <page id="p2" background-url="">
+            <line> As gêmeas eram as mais velhas </line>
+            <line> e disputavam para ver quem mandava em Xisto </line>
+            <line> que pressentia, com seu sentido sexto </line>
+            <line> que se quisesse ser verdadeiro xamã </line>
+            <line> deveria ser bom e atento menino </line>
+            <line> deveria cuidar do que restava de floresta, de madeira </line>
+        </page>
+        <page id="p3" background-url="">
+            <line> Tem que ter responsabilidade pra ser xamã </line>
+            <line> saber ouvir os mais velhos </line>
+            <line> respeitar igualmente as meninas e os meninos </line>
+            <line> cantar para a lua na noite de sexta </line>
+            <line> tomar chá de casca de madeira </line>
+            <line> estudar muito, pensava Xisto A vida era boa em Porto Velho </line>
+        </page>
+        <page id="p4" background-url="">
+            <line> mas era difícil ter nascido o sexto </line>
+            <line> na família das mulheres xamãs </line>
+            <line> Todas sabiam tão mais que ele, jovem Xisto </line>
+            <line> que se debruçava sobre a mesa de madeira </line>
+            <line> para conhecer as ervas da avó... curiosidade de menino </line>
+        </page>
+        <page id="p5" background-url="">
+            <line> Aprenda com a sabedoria feminina, dizia a velha </line>
+            <line> centenária matriarca do clã xamã </line>
+            <line> Cozinha é alquimia, tempero cura, menino </line>
+            <line> É preciso plantar do primeiro ao sexto </line>
+            <line> mês e colher do sexto ao último, entendeu, Xisto? </line>
+            <line> E principalmente manter de pé nossas madeiras </line>
+        </page>
+        <page id="p6" background-url="">
+            <line> Filho de Karitiana com Opok americano, já velho </line>
+            <line> que morrera antes do nascimento de Xisto </line>
+            <line> o aprendiz sonhava com festas xamãs </line>
+            <line> desejava que não levassem suas preciosas madeiras </line>
+            <line> vislumbrava um futuro honesto e justo para meninas e meninos </line>
+            <line> e profetizava que o país seria de primeiro mundo, não sexto </line>
+        </page>
+        <page id="p7" background-url="">
+            <line> Como o mundo não é para meninos bobos nem boçais velhos </line>
+            <line> Xisto derrotou os vilões do planeta! Tornou-se o Super-Herói-Sexto </line>
+            <line> que conhecia todos os segredos xamãs que a avó talhara na madeira </line>
+        </page>
+        <page id="p8" background-url="">
+            <line> Xamã é aquele que tem poderes mágicos, </line>
+            <line> dons espirituais, sabedoria mística. </line>
+            <line> Karitiana é um grupo indígena de Rondônia, </line>
+            <line> e Opok significa, entre os Karitiana, “não índio”. </line>
+        </page>
+    </structure>
+    <logic>
+    </logic>
+</mbook>

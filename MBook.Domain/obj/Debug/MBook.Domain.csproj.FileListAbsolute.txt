@@ -1,0 +1,6 @@
+D:\PedroJr\GitHub\pedro.ideasfor@gmail.com\repo\MBook-master\MBook.Publish\Debug\MBook.Domain.dll
+D:\PedroJr\GitHub\pedro.ideasfor@gmail.com\repo\MBook-master\MBook.Publish\Debug\MBook.Domain.pdb
+D:\PedroJr\GitHub\pedro.ideasfor@gmail.com\repo\MBook-master\MBook.Domain\obj\Debug\MBook.Domain.csproj.AssemblyReference.cache
+D:\PedroJr\GitHub\pedro.ideasfor@gmail.com\repo\MBook-master\MBook.Domain\obj\Debug\MBook.Domain.csproj.CoreCompileInputs.cache
+D:\PedroJr\GitHub\pedro.ideasfor@gmail.com\repo\MBook-master\MBook.Domain\obj\Debug\MBook.Domain.dll
+D:\PedroJr\GitHub\pedro.ideasfor@gmail.com\repo\MBook-master\MBook.Domain\obj\Debug\MBook.Domain.pdb

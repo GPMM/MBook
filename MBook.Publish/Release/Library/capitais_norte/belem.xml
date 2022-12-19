@@ -1,0 +1,63 @@
+<mbook id="histBelem" name="QUEM QUER SER?">
+    <structure>
+        <page id="p1">
+            <line> Com olhos de açaí </line>
+            <line> à procura de mãe </line>
+            <line> à procura de pai </line>
+            <line> olhando para o chão </line>
+            <line> achava: </line>
+            <line> cacos </line>
+            <line> batom </line>
+        </page>
+        <page id="p2">
+            <line> nariz de palhaço </line>
+            <line> papel de bala </line>
+            <line> laço de cabelo </line>
+            <line> formigas </line>
+            <line> asa de borboleta </line>
+            <line> descomido de </line>
+            <line> passarinho </line>
+        </page>
+        <page id="p3">
+            <line> Um dia achou uma moeda da sorte </line>
+            <line> e pensou no maior e melhor </line>
+            <line> desejo que poderia sonhar </line>
+            <line> Fechou os olhos </line>
+            <line> sentiu um pingo </line>
+            <line> na testa </line>
+        </page>
+        <page id="p4">
+            <line> Choveu </line>
+            <line> água evaporou </line>
+            <line> virou nuvem </line>
+            <line> Choveu de novo </line>
+            <line> rio encheu </line>
+        </page>
+        <page id="p5">
+            <line> No horizonte do rio </line>
+            <line> um arco-íris que </line>
+            <line> Quitéria não viu </line>
+            <line> Ouviu o carimbó </line>
+        </page>
+        <page id="p6">
+            <line> De barco, pelo rio Maguari, chegou um casal </line>
+            <line> Como que saídos de um quadro de Botero </line>
+            <line> eles procuravam por uma filha </line>
+            <line> alguma menina preciosa </line>
+            <line> que os aceitasse como pais </line>
+        </page>
+        <page id="p7">
+            <line> Quitéria sorriu </line>
+            <line> olhou para cima </line>
+            <line> Atrás das nuvens </line>
+            <line> um raio de sol </line>
+        </page>
+        <page id="p8">
+            <line> Carimbó é </line>
+            <line> uma dança de roda </line>
+            <line> típica do Pará. </line>
+        </page>
+    </structure>
+    <logic>
+    </logic>
+</mbook>

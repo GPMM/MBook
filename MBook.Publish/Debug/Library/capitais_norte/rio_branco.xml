@@ -1,0 +1,96 @@
+<mbook id="histRioBranco" name="A BIBLIOTECA SECRETA">
+    <structure>
+        <page id="p1" background-url="">
+            <line> Havia uma casa em Rio Branco. </line>
+            <line> Havia uma casa branca no meio do quintal. </line>
+            <line> Havia copas de árvores tão grandes nesse quintal que parecia </line>
+            <line> haver uma grande nuvem pairando sobre o telhado da casa. </line>
+            <line> Havia dentro da casa uma biblioteca sob a sombra </line>
+            <line> eterna de uma sumaúma sesquicentenária. </line>
+        </page>
+        <page id="p2" background-url="">
+            <line> Todos os dias, a biblioteca secreta e proibida era visitada por João. </line>
+            <line> O menino fingia que fugia e achava refúgio naquele lugar mágico, </line>
+            <line> onde o pai fingia que não sabia que o filho se escondia. </line>
+            <line> Quando o pai dizia: “Isso não é para a sua idade”, </line>
+            <line> o filho entendia: “Leia o mais rapidamente possível.” </line>
+        </page>
+        <page id="p3" background-url="">
+            <line> João passava horas com sua lupa, na penumbra </line>
+            <line> da biblioteca misteriosa, imerso em centenas de </line>
+            <line> títulos – muitos deles proibidos, alguns proibidíssimos. </line>
+            <line> João debruçado com o nariz quase colado nos livros. </line>
+            <line> Gostava de ler sobre os aviões sem radar, que faziam </line>
+            <line> voo visual, orientados apenas pela perspectiva do piloto, </line>
+            <line> nos dias de sol em Rio Branco. </line>
+        </page>
+        <page id="p4" background-url="">
+            <line> Voos noturnos ou em dias chuvosos? Proibidíssimos! </line>
+            <line> João pensava no voo cego dos morcegos. À noite, </line>
+            <line> sonhava com Edgar Allan Poe e o corvo na capa </line>
+            <line> macabra dos Contos de terror, de mistério e de morte. </line>
+        </page>
+        <page id="p5" background-url="">
+            <line> João imaginava: cavaleiros da Távola Redonda; </line>
+            <line> Ramos, musgos e liquens nas tundras geladas; </line>
+            <line> Torres de pedras encerrando donzelas; </line>
+            <line> De capa e espada, lutando contra dragões; </line>
+        </page>
+        <page id="p6" background-url="">
+            <line> Melo amphora, descobriu por acaso, em um dos </line>
+            <line> livros, é uma espécie de molusco marinho, predador, </line>
+            <line> que tem conchas que podem atingir cinquenta centímetros </line>
+            <line> e seu hábitat fica na Papua-Nova Guiné, exatamente </line>
+            <line> do outro lado do mundo (se visto do Acre). </line>
+        </page>
+        <page id="p7" background-url="">
+            <line> Será que se cavasse um buraco em seu quintal, </line>
+            <line> em Rio Branco, um buraco fundo, bem fundo... </line>
+            <line> Acharia um caracol gigantesco na praia de Madang? </line>
+            <line> Seria possível atravessar o planeta por dentro, </line>
+            <line> passando pelo meio? Seria o mundo uma partícula, </line>
+            <line> que poderia explodir em milhões de outras partículas? </line>
+        </page>
+        <page id="p8" background-url="">
+            <line> Ou seria um pedaço de outra partícula ancestral, </line>
+            <line> explodida há bilhões de anos? </line>
+            <line> Quantas perguntas caberiam nos livros do pai? </line>
+            <line> Quantas respostas? </line>
+            <line> Quantos pensamentos caberiam no cérebro? </line>
+        </page>
+        <page id="p9" background-url="">
+            <line> Um dia, o menino curioso ouviu um barulho. </line>
+            <line> Vários barulhos ritmados. </line>
+            <line> O pai se empenhava em construir uma casa de madeira </line>
+            <line> no alto da sumaúma, a mais alta árvore do quintal. </line>
+        </page>
+        <page id="p10" background-url="">
+            <line> Ele fazia o movimento inverso: </line>
+            <line> subia tábuas de madeira para o alto da árvore. </line>
+            <line> Daquela árvore que não viraria móveis que se agitam.* </line>
+            <line> Daquela árvore que seria o pilar de seus saberes. </line>
+        </page>
+        <page id="p11" background-url="">
+            <line> E lá está João, feliz, na casa da árvore, digo, </line>
+            <line> na biblioteca da árvore, novo abrigo secreto, </line>
+            <line> esconderijo perfeito para o menino com óculos </line>
+            <line> de sol, de grau, para leituras iluminadas </line>
+            <line> na copa ensolarada. </line>
+        </page>
+        <page id="p12" background-url="">
+            <line> Sumaúma é uma árvore com raízes imensas. </line>
+            <line> Sesquicentenário é o que tem 150 anos. </line>
+            <line> Penumbra é meia-luz, ponto de transição </line>
+            <line> entre a luz e a sombra. </line>
+            <line> Perspectiva, nesse caso, é o ponto de vista; de onde se vê. </line>
+            <line> Musgos e liquens são tipos de vegetação </line>
+            <line> das regiões geladas chamadas tundras. </line>
+        </page>
+        <page id="p13" background-url="">
+            <line> * NESSE POEMA HÁ UMA Referência ao poema “Solo de Piano”, </line>
+            <line> de Nicanor Parra (1914-2018). </line>
+        </page>
+    </structure>
+    <logic>
+    </logic>
+</mbook>

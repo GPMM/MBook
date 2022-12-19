@@ -1,0 +1,31 @@
+<mbook id="histFortaleza" name="ZORA E AS VENTAROLAS">
+    <structure>
+        <page id="p1" background-url="">
+            <line> Eram duas ventarolas </line>
+            <line> Duas ventarolas </line>
+            <line> Que ventavam para o mar </line>
+            <line> Uma ocre e lilás </line> 
+            <line> Com borda brilhosa </line>
+            <line> E lacinho de poás </line>
+        </page>
+        <page id="p2" background-url="">
+            <line> Outra preta poderosa </line>
+            <line> Com poder de vento </line>
+            <line> Pra salvar quem se afogar </line>
+            <line> As duas eram da Zora </line>
+            <line> Linda corajosa </line>
+            <line> Rainha do Ceará </line>
+        </page>
+        <page id="p3" background-url="">
+            <line> Quem não sabe o que é nadar </line>
+            <line> Não pula na água </line>
+            <line> Com a sorte vai contar </line>
+            <line> Chama Zora pro resgate </line>
+            <line> Grande baluarte </line>
+            <line> Ela pode te ajudar </line>
+        </page>
+    </structure>
+    
+    <logic>
+    </logic>
+</mbook>

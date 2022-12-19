@@ -1,0 +1,53 @@
+<mbook id="histCuiaba" name="LEITMOTIV CUIABANO">
+    <structure>
+        <page id="p1" background-url="">
+            <line> Reca </line>
+            <line> Rebeca </line>
+            <line> Rabeca </line>
+            <line> é Tupi </line>
+        </page>
+
+        <page id="p2" background-url="">
+            <line> Otto de fora </line>
+            <line> de longe Alemão</line>
+        </page>
+
+        <page id="p3" background-url="">
+            <line> Quatro notas </line>
+            <line> Quatro letras </line>
+            <line> Um mote para teclar </line>
+            <line> Um motivo para voar </line>
+        </page>
+
+        <page id="p4" background-url="">
+            <line> No avião casacão </line>
+            <line> Ele chega a Cuiabá </line>
+            <line> Ela canoa à toa </line>
+            <line> de short e cocar? </line>
+        </page>
+
+        <page id="p5" background-url="">
+            <line> Não! Uber vai buscar </line>
+            <line> para contar: de lá e de cá </line>
+            <line> Tupã no Xingu </line>
+            <line> Marzipã no Reno </line>
+        </page>
+
+        <page id="p6" background-url="">
+            <line> Ele veio parar morar </line>
+            <line> Uma dupla irão formar </line>
+            <line> Rabeca elétrica, Piano Acústico </line>
+            <line> Flauta Oboé, Viola Ganzá </line>
+        </page>
+
+        <page id="p7" background-url="">
+            <line> Reca Do Ré </line>
+            <line> Otto mi Fá </line>
+            <line> Sol quente em Cuiabá </line>
+        </page>
+    </structure>
+
+    <logic>
+        
+    </logic>
+</mbook>
